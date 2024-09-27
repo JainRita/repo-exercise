@@ -1,0 +1,301 @@
+Employee ID,Employee Name,Task ID,Task Description,Assigned Date,Status,Completion Date,Weightage,Escalations,Performance Score,Promotion Eligibility,Quarterly Award Eligibility
+1,Employee 1,T001,Task description 1 for Employee 1,2024-07-07,On Track,,23.54,0,0.0,False,False
+1,Employee 1,T002,Task description 2 for Employee 1,2024-08-26,On Track,,23.41,0,0.0,False,False
+1,Employee 1,T003,Task description 3 for Employee 1,2024-07-02,Postponed,,18.63,0,0.0,False,False
+2,Employee 2,T004,Task description 1 for Employee 2,2024-07-13,Completed,2024-07-14,7.34,0,7.34,False,False
+2,Employee 2,T005,Task description 2 for Employee 2,2024-08-28,Completed,2024-08-29,19.03,0,19.03,True,True
+2,Employee 2,T006,Task description 3 for Employee 2,2024-06-27,Cancelled,,18.62,0,0.0,False,False
+3,Employee 3,T007,Task description 1 for Employee 3,2024-08-29,Completed,2024-09-07,25.24,0,25.24,True,True
+3,Employee 3,T008,Task description 2 for Employee 3,2024-09-26,Postponed,,8.99,0,0.0,False,False
+3,Employee 3,T009,Task description 3 for Employee 3,2024-08-03,Completed,2024-08-08,10.38,0,10.38,False,True
+4,Employee 4,T010,Task description 1 for Employee 4,2024-06-21,Completed,2024-06-24,14.5,0,14.5,False,True
+4,Employee 4,T011,Task description 2 for Employee 4,2024-08-12,Behind Track,,20.09,0,20.09,True,True
+4,Employee 4,T012,Task description 3 for Employee 4,2024-06-25,Completed,2024-06-29,29.33,0,29.33,True,True
+5,Employee 5,T013,Task description 1 for Employee 5,2024-08-09,Not Started,,12.33,0,0.0,False,False
+5,Employee 5,T014,Task description 2 for Employee 5,2024-07-08,Cancelled,,26.54,0,0.0,False,False
+5,Employee 5,T015,Task description 3 for Employee 5,2024-07-15,On Track,,6.74,0,0.0,False,False
+6,Employee 6,T016,Task description 1 for Employee 6,2024-07-04,On Track,,12.23,0,0.0,False,False
+6,Employee 6,T017,Task description 2 for Employee 6,2024-09-16,Behind Track,,26.66,1,21.66,True,True
+6,Employee 6,T018,Task description 3 for Employee 6,2024-08-22,Completed,2024-09-18,14.12,0,14.12,False,True
+7,Employee 7,T019,Task description 1 for Employee 7,2024-08-10,Completed,2024-09-01,11.67,0,11.67,False,True
+7,Employee 7,T020,Task description 2 for Employee 7,2024-07-01,Cancelled,,20.23,0,0.0,False,False
+7,Employee 7,T021,Task description 3 for Employee 7,2024-09-05,Completed,2024-09-13,9.09,0,9.09,False,False
+8,Employee 8,T022,Task description 1 for Employee 8,2024-08-09,On Track,,28.13,0,0.0,False,False
+8,Employee 8,T023,Task description 2 for Employee 8,2024-06-30,Completed,2024-07-22,13.11,0,13.11,False,True
+8,Employee 8,T024,Task description 3 for Employee 8,2024-06-20,Postponed,,10.73,0,0.0,False,False
+9,Employee 9,T025,Task description 1 for Employee 9,2024-09-22,Behind Track,,15.03,0,15.03,True,True
+9,Employee 9,T026,Task description 2 for Employee 9,2024-08-30,Behind Track,,19.18,2,9.18,False,False
+9,Employee 9,T027,Task description 3 for Employee 9,2024-08-17,On Track,,17.48,0,0.0,False,False
+10,Employee 10,T028,Task description 1 for Employee 10,2024-07-06,Completed,2024-07-15,8.49,0,8.49,False,False
+10,Employee 10,T029,Task description 2 for Employee 10,2024-06-23,Completed,2024-07-02,23.68,0,23.68,True,True
+10,Employee 10,T030,Task description 3 for Employee 10,2024-08-03,Behind Track,,14.99,0,14.99,False,True
+11,Employee 11,T031,Task description 1 for Employee 11,2024-09-09,Completed,2024-09-12,23.89,0,23.89,True,True
+11,Employee 11,T032,Task description 2 for Employee 11,2024-09-12,On Track,,9.0,0,0.0,False,False
+11,Employee 11,T033,Task description 3 for Employee 11,2024-07-01,Completed,2024-07-04,14.62,0,14.62,False,True
+12,Employee 12,T034,Task description 1 for Employee 12,2024-07-12,Behind Track,,18.23,2,8.23,False,False
+12,Employee 12,T035,Task description 2 for Employee 12,2024-09-25,Cancelled,,7.86,0,0.0,False,False
+12,Employee 12,T036,Task description 3 for Employee 12,2024-07-20,Postponed,,24.21,0,0.0,False,False
+13,Employee 13,T037,Task description 1 for Employee 13,2024-08-14,On Track,,15.87,0,0.0,False,False
+13,Employee 13,T038,Task description 2 for Employee 13,2024-07-30,Not Started,,23.05,0,0.0,False,False
+13,Employee 13,T039,Task description 3 for Employee 13,2024-06-26,On Track,,17.51,0,0.0,False,False
+14,Employee 14,T040,Task description 1 for Employee 14,2024-09-04,Completed,2024-09-08,26.76,0,26.76,True,True
+14,Employee 14,T041,Task description 2 for Employee 14,2024-08-19,Behind Track,,17.69,0,17.69,True,True
+14,Employee 14,T042,Task description 3 for Employee 14,2024-09-07,Completed,2024-09-13,18.48,0,18.48,True,True
+15,Employee 15,T043,Task description 1 for Employee 15,2024-06-19,Behind Track,,27.96,2,17.96,True,True
+15,Employee 15,T044,Task description 2 for Employee 15,2024-08-16,Completed,2024-08-20,28.23,0,28.23,True,True
+15,Employee 15,T045,Task description 3 for Employee 15,2024-08-18,On Track,,11.02,0,0.0,False,False
+16,Employee 16,T046,Task description 1 for Employee 16,2024-07-16,Behind Track,,7.14,1,2.1399999999999997,False,False
+16,Employee 16,T047,Task description 2 for Employee 16,2024-09-18,Behind Track,,18.32,0,18.32,True,True
+16,Employee 16,T048,Task description 3 for Employee 16,2024-09-10,Cancelled,,28.67,0,0.0,False,False
+17,Employee 17,T049,Task description 1 for Employee 17,2024-09-05,On Track,,26.81,0,0.0,False,False
+17,Employee 17,T050,Task description 2 for Employee 17,2024-08-03,Behind Track,,28.22,2,18.22,True,True
+17,Employee 17,T051,Task description 3 for Employee 17,2024-06-30,On Track,,12.79,0,0.0,False,False
+18,Employee 18,T052,Task description 1 for Employee 18,2024-07-03,Cancelled,,15.95,0,0.0,False,False
+18,Employee 18,T053,Task description 2 for Employee 18,2024-07-22,Completed,2024-07-30,10.62,0,10.62,False,True
+18,Employee 18,T054,Task description 3 for Employee 18,2024-08-14,Not Started,,18.85,0,0.0,False,False
+19,Employee 19,T055,Task description 1 for Employee 19,2024-07-13,On Track,,6.77,0,0.0,False,False
+19,Employee 19,T056,Task description 2 for Employee 19,2024-07-08,Not Started,,6.69,0,0.0,False,False
+19,Employee 19,T057,Task description 3 for Employee 19,2024-09-22,Behind Track,,6.77,0,6.77,False,False
+20,Employee 20,T058,Task description 1 for Employee 20,2024-08-22,Cancelled,,10.36,0,0.0,False,False
+20,Employee 20,T059,Task description 2 for Employee 20,2024-09-10,Postponed,,27.06,0,0.0,False,False
+20,Employee 20,T060,Task description 3 for Employee 20,2024-07-15,Completed,2024-08-10,16.82,0,16.82,True,True
+21,Employee 21,T061,Task description 1 for Employee 21,2024-08-05,On Track,,7.42,0,0.0,False,False
+21,Employee 21,T062,Task description 2 for Employee 21,2024-08-02,Completed,2024-08-16,16.68,0,16.68,True,True
+21,Employee 21,T063,Task description 3 for Employee 21,2024-06-25,Not Started,,21.34,0,0.0,False,False
+22,Employee 22,T064,Task description 1 for Employee 22,2024-07-06,Not Started,,15.07,0,0.0,False,False
+22,Employee 22,T065,Task description 2 for Employee 22,2024-08-14,Behind Track,,7.73,0,7.73,False,False
+22,Employee 22,T066,Task description 3 for Employee 22,2024-09-02,Completed,2024-09-07,15.55,0,15.55,True,True
+23,Employee 23,T067,Task description 1 for Employee 23,2024-08-22,Completed,2024-09-19,28.08,0,28.08,True,True
+23,Employee 23,T068,Task description 2 for Employee 23,2024-08-01,Behind Track,,26.4,0,26.4,True,True
+23,Employee 23,T069,Task description 3 for Employee 23,2024-09-20,Cancelled,,18.51,0,0.0,False,False
+24,Employee 24,T070,Task description 1 for Employee 24,2024-09-25,Behind Track,,28.16,0,28.16,True,True
+24,Employee 24,T071,Task description 2 for Employee 24,2024-09-05,Completed,2024-09-21,10.34,0,10.34,False,True
+24,Employee 24,T072,Task description 3 for Employee 24,2024-08-06,Behind Track,,9.12,0,9.12,False,False
+25,Employee 25,T073,Task description 1 for Employee 25,2024-08-08,On Track,,24.6,0,0.0,False,False
+25,Employee 25,T074,Task description 2 for Employee 25,2024-07-30,On Track,,22.41,0,0.0,False,False
+25,Employee 25,T075,Task description 3 for Employee 25,2024-06-25,Behind Track,,18.89,2,8.89,False,False
+26,Employee 26,T076,Task description 1 for Employee 26,2024-07-26,On Track,,12.42,0,0.0,False,False
+26,Employee 26,T077,Task description 2 for Employee 26,2024-09-19,Completed,2024-10-07,6.52,0,6.52,False,False
+26,Employee 26,T078,Task description 3 for Employee 26,2024-08-17,Not Started,,19.6,0,0.0,False,False
+27,Employee 27,T079,Task description 1 for Employee 27,2024-07-24,Behind Track,,18.28,0,18.28,True,True
+27,Employee 27,T080,Task description 2 for Employee 27,2024-07-23,Not Started,,9.65,0,0.0,False,False
+27,Employee 27,T081,Task description 3 for Employee 27,2024-07-12,Not Started,,26.55,0,0.0,False,False
+28,Employee 28,T082,Task description 1 for Employee 28,2024-08-06,On Track,,27.26,0,0.0,False,False
+28,Employee 28,T083,Task description 2 for Employee 28,2024-08-26,Completed,2024-08-28,20.48,0,20.48,True,True
+28,Employee 28,T084,Task description 3 for Employee 28,2024-08-04,Cancelled,,19.13,0,0.0,False,False
+29,Employee 29,T085,Task description 1 for Employee 29,2024-08-17,Behind Track,,10.11,2,0.10999999999999943,False,False
+29,Employee 29,T086,Task description 2 for Employee 29,2024-08-17,On Track,,14.89,0,0.0,False,False
+29,Employee 29,T087,Task description 3 for Employee 29,2024-07-03,Cancelled,,16.43,0,0.0,False,False
+30,Employee 30,T088,Task description 1 for Employee 30,2024-06-22,Behind Track,,5.23,2,-4.77,False,False
+30,Employee 30,T089,Task description 2 for Employee 30,2024-07-16,Behind Track,,6.83,0,6.83,False,False
+30,Employee 30,T090,Task description 3 for Employee 30,2024-07-24,On Track,,28.33,0,0.0,False,False
+31,Employee 31,T091,Task description 1 for Employee 31,2024-09-18,Behind Track,,14.24,0,14.24,False,True
+31,Employee 31,T092,Task description 2 for Employee 31,2024-08-01,Behind Track,,22.59,2,12.59,False,True
+31,Employee 31,T093,Task description 3 for Employee 31,2024-07-05,Completed,2024-07-27,25.43,0,25.43,True,True
+32,Employee 32,T094,Task description 1 for Employee 32,2024-08-19,Behind Track,,7.59,0,7.59,False,False
+32,Employee 32,T095,Task description 2 for Employee 32,2024-08-24,On Track,,7.68,0,0.0,False,False
+32,Employee 32,T096,Task description 3 for Employee 32,2024-07-18,On Track,,12.04,0,0.0,False,False
+33,Employee 33,T097,Task description 1 for Employee 33,2024-08-31,Postponed,,10.09,0,0.0,False,False
+33,Employee 33,T098,Task description 2 for Employee 33,2024-07-07,Behind Track,,17.64,1,12.64,False,True
+33,Employee 33,T099,Task description 3 for Employee 33,2024-09-20,Not Started,,15.59,0,0.0,False,False
+34,Employee 34,T100,Task description 1 for Employee 34,2024-08-22,Not Started,,13.34,0,0.0,False,False
+34,Employee 34,T101,Task description 2 for Employee 34,2024-09-10,Cancelled,,11.55,0,0.0,False,False
+34,Employee 34,T102,Task description 3 for Employee 34,2024-06-24,Completed,2024-07-17,15.69,0,15.69,True,True
+35,Employee 35,T103,Task description 1 for Employee 35,2024-09-25,On Track,,28.63,0,0.0,False,False
+35,Employee 35,T104,Task description 2 for Employee 35,2024-06-30,Behind Track,,18.64,1,13.64,False,True
+35,Employee 35,T105,Task description 3 for Employee 35,2024-07-14,Completed,2024-07-28,8.19,0,8.19,False,False
+36,Employee 36,T106,Task description 1 for Employee 36,2024-08-18,Completed,2024-09-17,24.9,0,24.9,True,True
+36,Employee 36,T107,Task description 2 for Employee 36,2024-09-21,Behind Track,,10.25,0,10.25,False,True
+36,Employee 36,T108,Task description 3 for Employee 36,2024-07-03,On Track,,24.5,0,0.0,False,False
+37,Employee 37,T109,Task description 1 for Employee 37,2024-08-05,Behind Track,,23.74,0,23.74,True,True
+37,Employee 37,T110,Task description 2 for Employee 37,2024-09-06,Behind Track,,25.27,1,20.27,True,True
+37,Employee 37,T111,Task description 3 for Employee 37,2024-09-23,On Track,,28.11,0,0.0,False,False
+38,Employee 38,T112,Task description 1 for Employee 38,2024-08-05,Behind Track,,26.6,0,26.6,True,True
+38,Employee 38,T113,Task description 2 for Employee 38,2024-08-23,On Track,,22.53,0,0.0,False,False
+38,Employee 38,T114,Task description 3 for Employee 38,2024-08-09,Behind Track,,26.46,0,26.46,True,True
+39,Employee 39,T115,Task description 1 for Employee 39,2024-09-01,Behind Track,,16.51,1,11.510000000000002,False,True
+39,Employee 39,T116,Task description 2 for Employee 39,2024-08-28,On Track,,21.5,0,0.0,False,False
+39,Employee 39,T117,Task description 3 for Employee 39,2024-08-06,Completed,2024-09-03,6.74,0,6.74,False,False
+40,Employee 40,T118,Task description 1 for Employee 40,2024-06-20,On Track,,21.04,0,0.0,False,False
+40,Employee 40,T119,Task description 2 for Employee 40,2024-08-06,Cancelled,,26.09,0,0.0,False,False
+40,Employee 40,T120,Task description 3 for Employee 40,2024-08-15,Behind Track,,7.88,1,2.88,False,False
+41,Employee 41,T121,Task description 1 for Employee 41,2024-09-04,Completed,2024-09-13,5.96,0,5.96,False,False
+41,Employee 41,T122,Task description 2 for Employee 41,2024-07-12,Completed,2024-08-05,24.66,0,24.66,True,True
+41,Employee 41,T123,Task description 3 for Employee 41,2024-08-02,Cancelled,,17.79,0,0.0,False,False
+42,Employee 42,T124,Task description 1 for Employee 42,2024-08-08,Behind Track,,9.75,0,9.75,False,False
+42,Employee 42,T125,Task description 2 for Employee 42,2024-06-28,Completed,2024-07-15,28.14,0,28.14,True,True
+42,Employee 42,T126,Task description 3 for Employee 42,2024-07-20,Cancelled,,28.51,0,0.0,False,False
+43,Employee 43,T127,Task description 1 for Employee 43,2024-06-24,Cancelled,,14.11,0,0.0,False,False
+43,Employee 43,T128,Task description 2 for Employee 43,2024-09-18,Behind Track,,28.02,2,18.02,True,True
+43,Employee 43,T129,Task description 3 for Employee 43,2024-08-17,Cancelled,,8.12,0,0.0,False,False
+44,Employee 44,T130,Task description 1 for Employee 44,2024-08-19,Completed,2024-09-10,15.21,0,15.21,True,True
+44,Employee 44,T131,Task description 2 for Employee 44,2024-08-06,Cancelled,,18.86,0,0.0,False,False
+44,Employee 44,T132,Task description 3 for Employee 44,2024-09-02,Completed,2024-09-15,21.93,0,21.93,True,True
+45,Employee 45,T133,Task description 1 for Employee 45,2024-09-04,Cancelled,,12.52,0,0.0,False,False
+45,Employee 45,T134,Task description 2 for Employee 45,2024-07-18,Behind Track,,12.6,0,12.6,False,True
+45,Employee 45,T135,Task description 3 for Employee 45,2024-08-02,Postponed,,20.17,0,0.0,False,False
+46,Employee 46,T136,Task description 1 for Employee 46,2024-08-16,Completed,2024-08-31,21.89,0,21.89,True,True
+46,Employee 46,T137,Task description 2 for Employee 46,2024-07-23,Completed,2024-08-21,29.0,0,29.0,True,True
+46,Employee 46,T138,Task description 3 for Employee 46,2024-06-24,On Track,,7.12,0,0.0,False,False
+47,Employee 47,T139,Task description 1 for Employee 47,2024-07-23,Cancelled,,20.48,0,0.0,False,False
+47,Employee 47,T140,Task description 2 for Employee 47,2024-09-15,Behind Track,,23.78,2,13.780000000000001,False,True
+47,Employee 47,T141,Task description 3 for Employee 47,2024-08-18,On Track,,9.98,0,0.0,False,False
+48,Employee 48,T142,Task description 1 for Employee 48,2024-09-23,Not Started,,29.6,0,0.0,False,False
+48,Employee 48,T143,Task description 2 for Employee 48,2024-07-10,Behind Track,,6.82,1,1.8200000000000003,False,False
+48,Employee 48,T144,Task description 3 for Employee 48,2024-07-08,Completed,2024-07-31,22.41,0,22.41,True,True
+49,Employee 49,T145,Task description 1 for Employee 49,2024-07-25,Completed,2024-07-30,21.4,0,21.4,True,True
+49,Employee 49,T146,Task description 2 for Employee 49,2024-09-26,Behind Track,,26.51,0,26.51,True,True
+49,Employee 49,T147,Task description 3 for Employee 49,2024-06-19,Completed,2024-06-25,25.1,0,25.1,True,True
+50,Employee 50,T148,Task description 1 for Employee 50,2024-06-29,Completed,2024-07-01,18.94,0,18.94,True,True
+50,Employee 50,T149,Task description 2 for Employee 50,2024-09-11,Completed,2024-10-07,16.62,0,16.62,True,True
+50,Employee 50,T150,Task description 3 for Employee 50,2024-07-21,Behind Track,,19.89,1,14.89,False,True
+51,Employee 51,T151,Task description 1 for Employee 51,2024-07-10,Behind Track,,27.3,1,22.3,True,True
+51,Employee 51,T152,Task description 2 for Employee 51,2024-07-18,Completed,2024-07-24,23.59,0,23.59,True,True
+51,Employee 51,T153,Task description 3 for Employee 51,2024-07-28,Completed,2024-08-22,11.18,0,11.18,False,True
+52,Employee 52,T154,Task description 1 for Employee 52,2024-07-07,On Track,,24.44,0,0.0,False,False
+52,Employee 52,T155,Task description 2 for Employee 52,2024-07-26,Cancelled,,11.86,0,0.0,False,False
+52,Employee 52,T156,Task description 3 for Employee 52,2024-09-17,Postponed,,10.86,0,0.0,False,False
+53,Employee 53,T157,Task description 1 for Employee 53,2024-08-15,Completed,2024-09-02,7.01,0,7.01,False,False
+53,Employee 53,T158,Task description 2 for Employee 53,2024-09-07,On Track,,22.35,0,0.0,False,False
+53,Employee 53,T159,Task description 3 for Employee 53,2024-06-28,On Track,,15.37,0,0.0,False,False
+54,Employee 54,T160,Task description 1 for Employee 54,2024-08-15,Completed,2024-08-29,6.56,0,6.56,False,False
+54,Employee 54,T161,Task description 2 for Employee 54,2024-08-04,Completed,2024-08-29,19.6,0,19.6,True,True
+54,Employee 54,T162,Task description 3 for Employee 54,2024-06-29,Not Started,,27.02,0,0.0,False,False
+55,Employee 55,T163,Task description 1 for Employee 55,2024-07-15,Completed,2024-07-16,28.57,0,28.57,True,True
+55,Employee 55,T164,Task description 2 for Employee 55,2024-08-19,Postponed,,26.34,0,0.0,False,False
+55,Employee 55,T165,Task description 3 for Employee 55,2024-08-04,Completed,2024-08-28,18.65,0,18.65,True,True
+56,Employee 56,T166,Task description 1 for Employee 56,2024-07-11,Behind Track,,17.21,1,12.21,False,True
+56,Employee 56,T167,Task description 2 for Employee 56,2024-08-02,Completed,2024-08-15,13.4,0,13.4,False,True
+56,Employee 56,T168,Task description 3 for Employee 56,2024-07-02,Postponed,,23.1,0,0.0,False,False
+57,Employee 57,T169,Task description 1 for Employee 57,2024-07-29,Behind Track,,29.52,2,19.52,True,True
+57,Employee 57,T170,Task description 2 for Employee 57,2024-09-23,Behind Track,,19.8,2,9.8,False,False
+57,Employee 57,T171,Task description 3 for Employee 57,2024-09-23,Not Started,,15.72,0,0.0,False,False
+58,Employee 58,T172,Task description 1 for Employee 58,2024-07-29,On Track,,11.5,0,0.0,False,False
+58,Employee 58,T173,Task description 2 for Employee 58,2024-08-16,On Track,,13.17,0,0.0,False,False
+58,Employee 58,T174,Task description 3 for Employee 58,2024-06-21,Behind Track,,11.96,1,6.960000000000001,False,False
+59,Employee 59,T175,Task description 1 for Employee 59,2024-08-25,Behind Track,,16.76,2,6.760000000000002,False,False
+59,Employee 59,T176,Task description 2 for Employee 59,2024-07-19,Not Started,,28.8,0,0.0,False,False
+59,Employee 59,T177,Task description 3 for Employee 59,2024-08-29,Cancelled,,24.53,0,0.0,False,False
+60,Employee 60,T178,Task description 1 for Employee 60,2024-07-05,Not Started,,5.78,0,0.0,False,False
+60,Employee 60,T179,Task description 2 for Employee 60,2024-08-26,On Track,,5.51,0,0.0,False,False
+60,Employee 60,T180,Task description 3 for Employee 60,2024-09-07,On Track,,16.84,0,0.0,False,False
+61,Employee 61,T181,Task description 1 for Employee 61,2024-09-12,Completed,2024-09-19,16.63,0,16.63,True,True
+61,Employee 61,T182,Task description 2 for Employee 61,2024-08-25,Postponed,,9.19,0,0.0,False,False
+61,Employee 61,T183,Task description 3 for Employee 61,2024-07-11,Behind Track,,22.96,0,22.96,True,True
+62,Employee 62,T184,Task description 1 for Employee 62,2024-08-18,On Track,,5.64,0,0.0,False,False
+62,Employee 62,T185,Task description 2 for Employee 62,2024-08-18,Completed,2024-09-17,28.95,0,28.95,True,True
+62,Employee 62,T186,Task description 3 for Employee 62,2024-08-07,Behind Track,,9.96,2,-0.03999999999999915,False,False
+63,Employee 63,T187,Task description 1 for Employee 63,2024-06-30,Behind Track,,11.07,2,1.0700000000000003,False,False
+63,Employee 63,T188,Task description 2 for Employee 63,2024-06-20,Completed,2024-07-12,20.01,0,20.01,True,True
+63,Employee 63,T189,Task description 3 for Employee 63,2024-09-11,Postponed,,19.15,0,0.0,False,False
+64,Employee 64,T190,Task description 1 for Employee 64,2024-09-21,Completed,2024-10-05,21.54,0,21.54,True,True
+64,Employee 64,T191,Task description 2 for Employee 64,2024-09-18,Completed,2024-09-29,5.32,0,5.32,False,False
+64,Employee 64,T192,Task description 3 for Employee 64,2024-08-04,Behind Track,,7.64,1,2.6399999999999997,False,False
+65,Employee 65,T193,Task description 1 for Employee 65,2024-07-07,Behind Track,,16.49,0,16.49,True,True
+65,Employee 65,T194,Task description 2 for Employee 65,2024-08-02,On Track,,18.04,0,0.0,False,False
+65,Employee 65,T195,Task description 3 for Employee 65,2024-07-05,On Track,,25.2,0,0.0,False,False
+66,Employee 66,T196,Task description 1 for Employee 66,2024-07-20,Postponed,,16.62,0,0.0,False,False
+66,Employee 66,T197,Task description 2 for Employee 66,2024-06-25,Completed,2024-07-06,26.29,0,26.29,True,True
+66,Employee 66,T198,Task description 3 for Employee 66,2024-09-15,On Track,,16.27,0,0.0,False,False
+67,Employee 67,T199,Task description 1 for Employee 67,2024-06-22,Completed,2024-07-12,21.7,0,21.7,True,True
+67,Employee 67,T200,Task description 2 for Employee 67,2024-08-14,Not Started,,26.27,0,0.0,False,False
+67,Employee 67,T201,Task description 3 for Employee 67,2024-09-03,Completed,2024-09-15,24.95,0,24.95,True,True
+68,Employee 68,T202,Task description 1 for Employee 68,2024-08-14,On Track,,19.9,0,0.0,False,False
+68,Employee 68,T203,Task description 2 for Employee 68,2024-08-22,Completed,2024-09-08,28.7,0,28.7,True,True
+68,Employee 68,T204,Task description 3 for Employee 68,2024-09-16,On Track,,15.16,0,0.0,False,False
+69,Employee 69,T205,Task description 1 for Employee 69,2024-07-17,Postponed,,22.27,0,0.0,False,False
+69,Employee 69,T206,Task description 2 for Employee 69,2024-07-06,Postponed,,16.2,0,0.0,False,False
+69,Employee 69,T207,Task description 3 for Employee 69,2024-09-24,Not Started,,10.54,0,0.0,False,False
+70,Employee 70,T208,Task description 1 for Employee 70,2024-06-30,On Track,,21.6,0,0.0,False,False
+70,Employee 70,T209,Task description 2 for Employee 70,2024-08-10,Completed,2024-08-27,13.59,0,13.59,False,True
+70,Employee 70,T210,Task description 3 for Employee 70,2024-06-23,Completed,2024-07-05,22.57,0,22.57,True,True
+71,Employee 71,T211,Task description 1 for Employee 71,2024-08-23,Completed,2024-08-31,8.02,0,8.02,False,False
+71,Employee 71,T212,Task description 2 for Employee 71,2024-09-02,Completed,2024-09-26,18.4,0,18.4,True,True
+71,Employee 71,T213,Task description 3 for Employee 71,2024-06-21,Cancelled,,9.79,0,0.0,False,False
+72,Employee 72,T214,Task description 1 for Employee 72,2024-06-24,Completed,2024-07-18,19.74,0,19.74,True,True
+72,Employee 72,T215,Task description 2 for Employee 72,2024-06-21,Completed,2024-07-01,29.51,0,29.51,True,True
+72,Employee 72,T216,Task description 3 for Employee 72,2024-09-02,On Track,,14.02,0,0.0,False,False
+73,Employee 73,T217,Task description 1 for Employee 73,2024-08-19,Not Started,,18.35,0,0.0,False,False
+73,Employee 73,T218,Task description 2 for Employee 73,2024-08-22,Not Started,,6.36,0,0.0,False,False
+73,Employee 73,T219,Task description 3 for Employee 73,2024-08-20,Cancelled,,8.16,0,0.0,False,False
+74,Employee 74,T220,Task description 1 for Employee 74,2024-06-22,Completed,2024-07-20,5.31,0,5.31,False,False
+74,Employee 74,T221,Task description 2 for Employee 74,2024-08-21,Completed,2024-09-05,13.52,0,13.52,False,True
+74,Employee 74,T222,Task description 3 for Employee 74,2024-09-20,On Track,,26.54,0,0.0,False,False
+75,Employee 75,T223,Task description 1 for Employee 75,2024-09-12,Behind Track,,15.02,0,15.02,True,True
+75,Employee 75,T224,Task description 2 for Employee 75,2024-07-15,Cancelled,,6.34,0,0.0,False,False
+75,Employee 75,T225,Task description 3 for Employee 75,2024-09-07,Behind Track,,28.73,0,28.73,True,True
+76,Employee 76,T226,Task description 1 for Employee 76,2024-08-26,On Track,,24.11,0,0.0,False,False
+76,Employee 76,T227,Task description 2 for Employee 76,2024-07-11,Completed,2024-07-31,10.64,0,10.64,False,True
+76,Employee 76,T228,Task description 3 for Employee 76,2024-07-22,Completed,2024-08-21,16.07,0,16.07,True,True
+77,Employee 77,T229,Task description 1 for Employee 77,2024-07-13,Behind Track,,12.63,2,2.630000000000001,False,False
+77,Employee 77,T230,Task description 2 for Employee 77,2024-09-19,Cancelled,,23.5,0,0.0,False,False
+77,Employee 77,T231,Task description 3 for Employee 77,2024-06-21,On Track,,10.28,0,0.0,False,False
+78,Employee 78,T232,Task description 1 for Employee 78,2024-07-04,Not Started,,11.0,0,0.0,False,False
+78,Employee 78,T233,Task description 2 for Employee 78,2024-07-18,Not Started,,5.07,0,0.0,False,False
+78,Employee 78,T234,Task description 3 for Employee 78,2024-07-31,Cancelled,,16.75,0,0.0,False,False
+79,Employee 79,T235,Task description 1 for Employee 79,2024-09-22,On Track,,22.67,0,0.0,False,False
+79,Employee 79,T236,Task description 2 for Employee 79,2024-06-29,Behind Track,,6.78,0,6.78,False,False
+79,Employee 79,T237,Task description 3 for Employee 79,2024-08-24,Postponed,,20.63,0,0.0,False,False
+80,Employee 80,T238,Task description 1 for Employee 80,2024-07-04,Behind Track,,9.95,0,9.95,False,False
+80,Employee 80,T239,Task description 2 for Employee 80,2024-07-19,On Track,,8.72,0,0.0,False,False
+80,Employee 80,T240,Task description 3 for Employee 80,2024-08-23,Behind Track,,6.79,0,6.79,False,False
+81,Employee 81,T241,Task description 1 for Employee 81,2024-08-18,Completed,2024-09-14,19.23,0,19.23,True,True
+81,Employee 81,T242,Task description 2 for Employee 81,2024-08-21,Completed,2024-09-05,22.22,0,22.22,True,True
+81,Employee 81,T243,Task description 3 for Employee 81,2024-06-29,Completed,2024-07-08,17.51,0,17.51,True,True
+82,Employee 82,T244,Task description 1 for Employee 82,2024-07-25,Completed,2024-08-14,6.0,0,6.0,False,False
+82,Employee 82,T245,Task description 2 for Employee 82,2024-08-02,Postponed,,20.09,0,0.0,False,False
+82,Employee 82,T246,Task description 3 for Employee 82,2024-09-23,Not Started,,29.05,0,0.0,False,False
+83,Employee 83,T247,Task description 1 for Employee 83,2024-07-15,Completed,2024-07-16,29.99,0,29.99,True,True
+83,Employee 83,T248,Task description 2 for Employee 83,2024-07-02,Behind Track,,19.41,0,19.41,True,True
+83,Employee 83,T249,Task description 3 for Employee 83,2024-07-28,Completed,2024-08-12,27.9,0,27.9,True,True
+84,Employee 84,T250,Task description 1 for Employee 84,2024-09-03,Behind Track,,15.9,1,10.9,False,True
+84,Employee 84,T251,Task description 2 for Employee 84,2024-09-15,Completed,2024-09-29,13.33,0,13.33,False,True
+84,Employee 84,T252,Task description 3 for Employee 84,2024-07-03,On Track,,9.02,0,0.0,False,False
+85,Employee 85,T253,Task description 1 for Employee 85,2024-08-05,Cancelled,,12.21,0,0.0,False,False
+85,Employee 85,T254,Task description 2 for Employee 85,2024-08-06,Behind Track,,18.75,1,13.75,False,True
+85,Employee 85,T255,Task description 3 for Employee 85,2024-09-15,Completed,2024-09-26,7.9,0,7.9,False,False
+86,Employee 86,T256,Task description 1 for Employee 86,2024-06-20,Completed,2024-07-07,25.62,0,25.62,True,True
+86,Employee 86,T257,Task description 2 for Employee 86,2024-09-26,Cancelled,,18.56,0,0.0,False,False
+86,Employee 86,T258,Task description 3 for Employee 86,2024-08-05,Not Started,,17.96,0,0.0,False,False
+87,Employee 87,T259,Task description 1 for Employee 87,2024-07-09,Postponed,,20.64,0,0.0,False,False
+87,Employee 87,T260,Task description 2 for Employee 87,2024-06-21,Not Started,,11.68,0,0.0,False,False
+87,Employee 87,T261,Task description 3 for Employee 87,2024-09-10,Behind Track,,15.95,2,5.949999999999999,False,False
+88,Employee 88,T262,Task description 1 for Employee 88,2024-07-26,On Track,,29.33,0,0.0,False,False
+88,Employee 88,T263,Task description 2 for Employee 88,2024-07-11,Postponed,,22.74,0,0.0,False,False
+88,Employee 88,T264,Task description 3 for Employee 88,2024-08-18,Completed,2024-09-05,15.2,0,15.2,True,True
+89,Employee 89,T265,Task description 1 for Employee 89,2024-08-29,Behind Track,,27.82,1,22.82,True,True
+89,Employee 89,T266,Task description 2 for Employee 89,2024-09-11,Cancelled,,8.85,0,0.0,False,False
+89,Employee 89,T267,Task description 3 for Employee 89,2024-06-27,On Track,,22.64,0,0.0,False,False
+90,Employee 90,T268,Task description 1 for Employee 90,2024-08-04,Behind Track,,29.51,0,29.51,True,True
+90,Employee 90,T269,Task description 2 for Employee 90,2024-07-30,Completed,2024-08-12,9.77,0,9.77,False,False
+90,Employee 90,T270,Task description 3 for Employee 90,2024-07-12,Completed,2024-08-10,8.41,0,8.41,False,False
+91,Employee 91,T271,Task description 1 for Employee 91,2024-09-18,On Track,,24.75,0,0.0,False,False
+91,Employee 91,T272,Task description 2 for Employee 91,2024-08-04,Completed,2024-08-30,17.69,0,17.69,True,True
+91,Employee 91,T273,Task description 3 for Employee 91,2024-09-26,On Track,,12.46,0,0.0,False,False
+92,Employee 92,T274,Task description 1 for Employee 92,2024-07-13,Completed,2024-08-04,17.24,0,17.24,True,True
+92,Employee 92,T275,Task description 2 for Employee 92,2024-09-07,Completed,2024-09-23,13.63,0,13.63,False,True
+92,Employee 92,T276,Task description 3 for Employee 92,2024-07-18,Postponed,,14.43,0,0.0,False,False
+93,Employee 93,T277,Task description 1 for Employee 93,2024-08-16,Behind Track,,29.52,0,29.52,True,True
+93,Employee 93,T278,Task description 2 for Employee 93,2024-07-15,Completed,2024-08-12,24.39,0,24.39,True,True
+93,Employee 93,T279,Task description 3 for Employee 93,2024-09-21,Completed,2024-10-07,22.63,0,22.63,True,True
+94,Employee 94,T280,Task description 1 for Employee 94,2024-08-09,Completed,2024-08-31,24.81,0,24.81,True,True
+94,Employee 94,T281,Task description 2 for Employee 94,2024-07-05,Behind Track,,17.38,0,17.38,True,True
+94,Employee 94,T282,Task description 3 for Employee 94,2024-09-10,Completed,2024-09-29,13.3,0,13.3,False,True
+95,Employee 95,T283,Task description 1 for Employee 95,2024-09-14,Behind Track,,16.01,2,6.010000000000002,False,False
+95,Employee 95,T284,Task description 2 for Employee 95,2024-07-30,Not Started,,8.6,0,0.0,False,False
+95,Employee 95,T285,Task description 3 for Employee 95,2024-07-05,Behind Track,,6.87,1,1.87,False,False
+96,Employee 96,T286,Task description 1 for Employee 96,2024-08-14,Cancelled,,14.94,0,0.0,False,False
+96,Employee 96,T287,Task description 2 for Employee 96,2024-09-16,Behind Track,,26.31,2,16.31,True,True
+96,Employee 96,T288,Task description 3 for Employee 96,2024-08-09,Behind Track,,20.67,1,15.670000000000002,True,True
+97,Employee 97,T289,Task description 1 for Employee 97,2024-07-19,Not Started,,6.71,0,0.0,False,False
+97,Employee 97,T290,Task description 2 for Employee 97,2024-07-08,Cancelled,,12.18,0,0.0,False,False
+97,Employee 97,T291,Task description 3 for Employee 97,2024-08-28,Postponed,,15.85,0,0.0,False,False
+98,Employee 98,T292,Task description 1 for Employee 98,2024-09-14,Postponed,,22.6,0,0.0,False,False
+98,Employee 98,T293,Task description 2 for Employee 98,2024-09-14,Completed,2024-10-07,12.49,0,12.49,False,True
+98,Employee 98,T294,Task description 3 for Employee 98,2024-09-23,Not Started,,24.9,0,0.0,False,False
+99,Employee 99,T295,Task description 1 for Employee 99,2024-08-20,Completed,2024-09-03,8.64,0,8.64,False,False
+99,Employee 99,T296,Task description 2 for Employee 99,2024-07-21,Completed,2024-08-12,24.81,0,24.81,True,True
+99,Employee 99,T297,Task description 3 for Employee 99,2024-09-05,On Track,,20.24,0,0.0,False,False
+100,Employee 100,T298,Task description 1 for Employee 100,2024-08-09,Cancelled,,11.02,0,0.0,False,False
+100,Employee 100,T299,Task description 2 for Employee 100,2024-07-14,On Track,,16.53,0,0.0,False,False
+100,Employee 100,T300,Task description 3 for Employee 100,2024-08-25,Completed,2024-09-16,5.23,0,5.23,False,False
