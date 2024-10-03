@@ -1,0 +1,1001 @@
+empID,empName,gender,qualifications,yearsExperience,tasksCompleted,escalationsReceived,performanceScore,avgTaskCompletionTime (days),pendingTasks,awardEligible,promotionImpact
+1,Alice Williams,Female,MBA,2,13,2,120,4,2,Yes,Yes
+2,Frank Blue,Male,B.Tech. Information Tech,10,8,3,65,8,1,No,No
+3,Carol Blue,Male,M.Sc. Software Engineering,4,17,1,165,10,4,No,No
+4,Olivia White,Female,B.Tech. Information Tech,3,9,2,80,5,5,No,No
+5,Alice Grey,Female,B.Com.,10,11,0,110,10,0,Yes,Yes
+6,Alice Smith,Female,B.Sc. Computer Science,4,17,3,155,5,5,No,No
+7,Thomas Smith,Female,B.Com.,3,7,2,60,4,2,No,No
+8,Jack Williams,Male,MBA,2,9,1,85,8,3,No,No
+9,Paul Johnson,Male,B.Sc. Information Systems,5,15,3,135,10,5,No,No
+10,Paul Blue,Female,M.Sc. Software Engineering,3,8,3,65,9,4,No,No
+11,Paul White,Female,MBA,7,9,0,90,7,4,No,No
+12,Noah Green,Female,B.Sc. Computer Science,6,9,0,90,4,5,No,No
+13,Frank Williams,Male,M.Sc. Software Engineering,3,5,3,35,3,3,No,No
+14,Kelly Grey,Male,MBA,1,17,1,165,4,0,Yes,Yes
+15,Carol Blue,Female,B.Sc. Computer Science,5,10,0,100,9,5,No,No
+16,Carol White,Male,B.Com.,7,13,2,120,10,0,Yes,Yes
+17,Noah Smith,Male,MBA,10,8,2,70,5,0,No,No
+18,Quinn Brown,Female,B.Sc. Computer Science,4,17,0,170,6,4,No,No
+19,Alice White,Female,B.Sc. Information Systems,9,13,1,125,7,1,Yes,Yes
+20,Henry Williams,Female,M.Sc. Data Science,8,12,0,120,8,5,No,No
+21,Paul Blue,Female,M.Sc. Data Science,1,12,2,110,5,2,Yes,Yes
+22,Quinn Black,Male,B.Sc. Computer Science,8,17,1,165,6,4,No,No
+23,Henry Williams,Female,MBA,7,6,3,45,6,0,No,No
+24,David Black,Female,M.Sc. Software Engineering,3,14,0,140,9,5,No,No
+25,Jack Grey,Female,MBA,9,15,1,145,3,2,Yes,Yes
+26,Henry Green,Female,M.Sc. Data Science,6,12,2,110,5,5,No,No
+27,Paul Brown,Male,B.Sc. Information Systems,10,15,1,145,8,3,No,No
+28,Paul White,Female,M.Sc. Software Engineering,10,17,2,160,8,0,Yes,Yes
+29,Frank Johnson,Female,B.Sc. Computer Science,6,16,3,145,7,4,No,No
+30,Eva Grey,Female,M.Sc. Software Engineering,10,10,3,85,3,4,No,No
+31,Bob White,Female,M.Sc. Software Engineering,3,13,1,125,9,3,No,No
+32,Bob Smith,Male,M.Sc. Software Engineering,10,7,1,65,5,1,No,No
+33,Olivia Grey,Male,B.Tech. Information Tech,3,15,2,140,9,4,No,No
+34,Sophia Grey,Female,B.Sc. Information Systems,8,18,1,175,7,5,No,No
+35,Quinn Green,Male,B.Sc. Information Systems,4,20,1,195,10,3,No,No
+36,Mia Grey,Female,B.Sc. Computer Science,9,20,2,190,5,5,No,No
+37,Noah Green,Male,M.Sc. Data Science,4,16,2,150,4,2,Yes,Yes
+38,Ryan Black,Female,B.Sc. Computer Science,9,11,0,110,3,3,No,No
+39,Iris Black,Male,B.Com.,4,7,0,70,8,1,No,No
+40,Liam Green,Male,M.Sc. Software Engineering,7,14,1,135,4,3,No,No
+41,Thomas Johnson,Female,B.Sc. Computer Science,4,14,3,125,9,3,No,No
+42,Quinn Grey,Female,B.Sc. Computer Science,3,12,0,120,9,2,Yes,Yes
+43,Thomas Johnson,Male,B.Com.,1,14,2,130,6,4,No,No
+44,Grace White,Male,B.Tech. Information Tech,6,5,1,45,6,5,No,No
+45,Alice White,Male,M.Sc. Data Science,6,8,2,70,5,3,No,No
+46,Bob Grey,Female,B.Sc. Computer Science,8,5,0,50,4,2,No,No
+47,Quinn Green,Male,B.Tech. Information Tech,9,11,0,110,4,4,No,No
+48,Quinn Black,Female,B.Sc. Information Systems,6,5,3,35,8,5,No,No
+49,Alice White,Male,B.Com.,7,20,2,190,3,0,Yes,Yes
+50,Henry Black,Male,B.Sc. Information Systems,1,15,0,150,7,0,Yes,Yes
+51,Bob Williams,Female,B.Sc. Information Systems,5,15,1,145,7,3,No,No
+52,Bob Blue,Female,B.Sc. Computer Science,2,11,1,105,10,0,Yes,Yes
+53,Bob Blue,Male,B.Sc. Computer Science,9,7,0,70,10,1,No,No
+54,Grace Williams,Female,M.Sc. Data Science,10,17,0,170,3,3,No,No
+55,Bob White,Male,B.Com.,4,10,0,100,5,2,Yes,Yes
+56,Sophia Johnson,Female,B.Com.,2,17,1,165,9,4,No,No
+57,Mia Green,Female,B.Com.,7,17,0,170,9,5,No,No
+58,Frank Black,Male,B.Com.,4,17,0,170,8,1,Yes,Yes
+59,Grace Williams,Female,B.Com.,4,15,3,135,10,5,No,No
+60,Alice Johnson,Male,B.Sc. Information Systems,9,11,0,110,9,0,Yes,Yes
+61,Quinn Blue,Male,B.Sc. Information Systems,8,7,3,55,6,1,No,No
+62,Carol Brown,Female,B.Tech. Information Tech,8,15,1,145,3,1,Yes,Yes
+63,David Williams,Male,M.Sc. Software Engineering,8,12,1,115,5,5,No,No
+64,Kelly White,Male,B.Sc. Computer Science,5,12,3,105,6,2,No,No
+65,Henry Brown,Female,M.Sc. Data Science,3,12,1,115,4,5,No,No
+66,Alice White,Female,B.Tech. Information Tech,2,17,2,160,6,4,No,No
+67,Iris White,Female,B.Sc. Information Systems,7,15,0,150,4,4,No,No
+68,Noah Grey,Female,M.Sc. Data Science,4,19,2,180,6,5,No,No
+69,Liam White,Female,M.Sc. Software Engineering,5,5,2,40,5,3,No,No
+70,Kelly Grey,Female,MBA,9,5,1,45,6,1,No,No
+71,Kelly Green,Male,MBA,9,10,0,100,4,4,No,No
+72,Thomas Black,Female,B.Com.,6,13,2,120,7,2,Yes,Yes
+73,David Blue,Male,B.Sc. Information Systems,1,12,3,105,3,5,No,No
+74,Grace Smith,Male,M.Sc. Software Engineering,1,12,1,115,10,0,Yes,Yes
+75,Alice Black,Male,M.Sc. Data Science,8,7,2,60,6,3,No,No
+76,Iris Williams,Male,B.Sc. Information Systems,3,12,1,115,7,3,No,No
+77,Thomas Smith,Male,MBA,4,19,2,180,10,3,No,No
+78,Olivia Johnson,Female,B.Com.,6,16,3,145,10,2,No,No
+79,Sophia White,Female,B.Com.,6,18,0,180,7,0,Yes,Yes
+80,Ryan Black,Female,M.Sc. Data Science,3,5,1,45,3,2,No,No
+81,Bob Black,Male,M.Sc. Data Science,7,6,2,50,3,3,No,No
+82,Thomas Johnson,Male,B.Tech. Information Tech,2,18,1,175,8,0,Yes,Yes
+83,Bob Blue,Male,B.Sc. Computer Science,4,18,1,175,9,2,Yes,Yes
+84,Grace White,Female,B.Com.,9,16,1,155,10,3,No,No
+85,Liam Johnson,Female,MBA,7,5,3,35,10,4,No,No
+86,Bob Johnson,Male,B.Com.,7,6,2,50,9,5,No,No
+87,Quinn Black,Female,B.Com.,7,20,2,190,3,1,Yes,Yes
+88,Quinn Green,Male,M.Sc. Software Engineering,2,7,2,60,8,1,No,No
+89,Henry White,Male,B.Com.,3,12,1,115,10,2,Yes,Yes
+90,Jack White,Male,B.Sc. Information Systems,8,17,2,160,9,1,Yes,Yes
+91,Ryan Blue,Male,B.Sc. Computer Science,7,9,1,85,3,4,No,No
+92,Liam Grey,Female,B.Com.,3,10,0,100,10,0,Yes,Yes
+93,Mia Brown,Female,B.Tech. Information Tech,2,19,1,185,10,4,No,No
+94,Thomas Williams,Male,MBA,10,20,1,195,5,1,Yes,Yes
+95,Paul Grey,Male,B.Sc. Information Systems,2,16,2,150,10,1,Yes,Yes
+96,Kelly Blue,Male,M.Sc. Data Science,6,19,3,175,10,0,No,No
+97,Grace Black,Female,MBA,5,8,3,65,3,3,No,No
+98,Carol Blue,Male,B.Sc. Computer Science,7,9,2,80,4,0,No,No
+99,Frank Green,Female,B.Com.,5,20,3,185,4,0,No,No
+100,Olivia Grey,Female,B.Com.,9,13,3,115,9,1,No,No
+101,Carol Smith,Male,B.Sc. Computer Science,5,15,3,135,4,4,No,No
+102,Ryan Williams,Male,M.Sc. Data Science,8,20,2,190,5,1,Yes,Yes
+103,Jack Johnson,Female,B.Sc. Computer Science,6,18,1,175,10,2,Yes,Yes
+104,David Green,Female,B.Sc. Computer Science,10,6,0,60,10,5,No,No
+105,David Smith,Male,B.Tech. Information Tech,4,11,0,110,4,3,No,No
+106,Bob Smith,Female,MBA,6,5,2,40,9,5,No,No
+107,Mia Smith,Male,B.Com.,3,17,2,160,6,2,Yes,Yes
+108,Jack Grey,Female,B.Com.,4,12,2,110,9,3,No,No
+109,Carol Brown,Male,M.Sc. Data Science,5,7,1,65,9,0,No,No
+110,Noah Blue,Male,M.Sc. Software Engineering,4,5,0,50,3,4,No,No
+111,Jack Brown,Male,B.Com.,7,17,1,165,10,1,Yes,Yes
+112,Carol White,Female,MBA,8,18,2,170,10,0,Yes,Yes
+113,Thomas Williams,Male,B.Tech. Information Tech,8,15,0,150,10,4,No,No
+114,Sophia White,Female,B.Sc. Computer Science,4,19,0,190,7,0,Yes,Yes
+115,Alice Brown,Male,M.Sc. Software Engineering,8,17,0,170,4,1,Yes,Yes
+116,Quinn White,Male,MBA,1,19,0,190,8,0,Yes,Yes
+117,Sophia Green,Female,M.Sc. Data Science,9,15,0,150,7,2,Yes,Yes
+118,Bob White,Female,M.Sc. Data Science,8,20,0,200,6,0,Yes,Yes
+119,Ryan Smith,Female,MBA,5,10,1,95,3,0,Yes,Yes
+120,Alice Brown,Female,B.Com.,9,19,1,185,3,4,No,No
+121,Sophia Grey,Female,B.Sc. Computer Science,1,17,0,170,8,0,Yes,Yes
+122,Liam Green,Female,MBA,6,5,2,40,5,1,No,No
+123,Henry White,Female,M.Sc. Data Science,9,14,0,140,5,4,No,No
+124,Liam Johnson,Female,MBA,2,8,1,75,4,3,No,No
+125,Iris Smith,Female,B.Com.,6,20,0,200,7,2,Yes,Yes
+126,Carol Blue,Female,B.Com.,8,8,2,70,3,4,No,No
+127,Liam Johnson,Male,B.Com.,10,5,2,40,3,4,No,No
+128,Eva Smith,Male,B.Com.,7,6,3,45,7,0,No,No
+129,Liam White,Female,B.Sc. Information Systems,2,6,2,50,10,1,No,No
+130,Kelly White,Male,B.Sc. Information Systems,4,6,3,45,10,5,No,No
+131,Mia White,Male,B.Sc. Information Systems,1,9,3,75,9,2,No,No
+132,Jack White,Male,M.Sc. Software Engineering,6,7,2,60,5,0,No,No
+133,Paul Blue,Male,M.Sc. Data Science,7,19,3,175,4,2,No,No
+134,Mia Grey,Male,MBA,5,18,3,165,10,4,No,No
+135,Quinn Johnson,Female,B.Com.,6,19,2,180,8,4,No,No
+136,Iris Grey,Female,B.Com.,2,20,2,190,8,2,Yes,Yes
+137,Liam White,Female,M.Sc. Software Engineering,8,20,3,185,5,1,No,No
+138,Alice Black,Male,B.Com.,2,13,3,115,7,2,No,No
+139,Iris Green,Male,B.Com.,5,19,2,180,5,3,No,No
+140,Kelly Grey,Male,B.Sc. Computer Science,5,5,0,50,9,1,No,No
+141,Jack Blue,Female,MBA,7,16,1,155,3,0,Yes,Yes
+142,Carol Blue,Male,M.Sc. Software Engineering,4,20,3,185,10,1,No,No
+143,Jack Blue,Male,M.Sc. Data Science,3,12,1,115,4,1,Yes,Yes
+144,Paul White,Male,M.Sc. Data Science,6,15,1,145,3,5,No,No
+145,Grace Black,Female,B.Sc. Information Systems,2,10,3,85,9,2,No,No
+146,Grace White,Male,B.Sc. Information Systems,3,14,2,130,3,0,Yes,Yes
+147,Mia Grey,Female,B.Sc. Information Systems,8,18,3,165,10,4,No,No
+148,Henry Williams,Female,B.Sc. Computer Science,4,16,1,155,9,2,Yes,Yes
+149,Liam Grey,Female,MBA,4,14,0,140,4,0,Yes,Yes
+150,Ryan Johnson,Female,M.Sc. Data Science,10,7,3,55,3,3,No,No
+151,Kelly Green,Female,B.Sc. Information Systems,2,13,1,125,5,4,No,No
+152,Iris Black,Male,MBA,4,14,0,140,4,3,No,No
+153,Eva Smith,Male,B.Sc. Information Systems,6,5,3,35,6,5,No,No
+154,Frank Smith,Female,B.Sc. Information Systems,10,17,2,160,8,5,No,No
+155,Carol Brown,Male,B.Sc. Information Systems,4,12,1,115,7,1,Yes,Yes
+156,Kelly White,Female,B.Sc. Computer Science,7,16,1,155,6,0,Yes,Yes
+157,Paul Black,Male,M.Sc. Software Engineering,5,16,0,160,8,0,Yes,Yes
+158,Kelly Smith,Male,B.Com.,3,14,1,135,5,4,No,No
+159,Kelly Black,Female,B.Sc. Computer Science,10,18,0,180,5,0,Yes,Yes
+160,Sophia Blue,Female,M.Sc. Software Engineering,8,15,3,135,8,2,No,No
+161,Bob Brown,Female,B.Sc. Information Systems,10,17,0,170,3,5,No,No
+162,Henry Blue,Male,B.Tech. Information Tech,3,7,3,55,5,1,No,No
+163,Sophia Black,Male,B.Tech. Information Tech,3,17,0,170,4,1,Yes,Yes
+164,Bob Grey,Female,M.Sc. Data Science,10,10,1,95,7,0,Yes,Yes
+165,Noah Williams,Female,MBA,5,10,1,95,7,2,Yes,Yes
+166,Kelly Blue,Female,B.Com.,4,12,0,120,8,3,No,No
+167,Bob Brown,Female,B.Sc. Computer Science,7,11,2,100,6,2,Yes,Yes
+168,Mia Smith,Female,B.Sc. Information Systems,7,13,1,125,6,1,Yes,Yes
+169,Sophia Grey,Female,M.Sc. Data Science,4,9,1,85,8,5,No,No
+170,Paul Smith,Female,M.Sc. Data Science,9,18,1,175,3,0,Yes,Yes
+171,Grace Blue,Female,B.Tech. Information Tech,10,8,0,80,6,0,No,No
+172,Bob Smith,Male,M.Sc. Data Science,9,11,1,105,3,0,Yes,Yes
+173,Grace Williams,Female,B.Sc. Computer Science,9,8,0,80,8,5,No,No
+174,David Smith,Female,M.Sc. Data Science,9,14,3,125,6,5,No,No
+175,David Williams,Male,M.Sc. Data Science,3,12,3,105,6,1,No,No
+176,Olivia Green,Female,M.Sc. Data Science,7,19,1,185,3,5,No,No
+177,Sophia Williams,Female,B.Sc. Computer Science,3,7,3,55,7,4,No,No
+178,Sophia Blue,Male,B.Sc. Information Systems,5,9,0,90,3,5,No,No
+179,Thomas Williams,Male,B.Sc. Information Systems,3,15,0,150,3,1,Yes,Yes
+180,Jack Brown,Male,B.Sc. Computer Science,2,13,1,125,9,4,No,No
+181,Quinn Williams,Male,M.Sc. Software Engineering,5,12,0,120,5,1,Yes,Yes
+182,Kelly Brown,Female,M.Sc. Software Engineering,5,7,0,70,3,4,No,No
+183,Noah Green,Male,B.Sc. Information Systems,8,6,0,60,4,0,No,No
+184,Paul Johnson,Male,B.Sc. Computer Science,9,5,2,40,9,4,No,No
+185,Sophia Johnson,Male,B.Sc. Computer Science,4,9,3,75,10,1,No,No
+186,Kelly Grey,Male,B.Com.,6,15,0,150,10,2,Yes,Yes
+187,Kelly Black,Female,MBA,2,7,3,55,4,0,No,No
+188,Carol White,Male,M.Sc. Data Science,5,9,3,75,6,3,No,No
+189,Olivia Black,Male,MBA,4,10,0,100,6,5,No,No
+190,Kelly Grey,Female,M.Sc. Software Engineering,3,7,0,70,5,3,No,No
+191,Thomas Brown,Female,M.Sc. Data Science,3,18,1,175,7,5,No,No
+192,Liam Black,Male,MBA,9,16,0,160,7,4,No,No
+193,Frank Green,Male,M.Sc. Software Engineering,9,10,0,100,6,3,No,No
+194,Alice Black,Male,B.Sc. Information Systems,1,9,0,90,8,3,No,No
+195,Noah Green,Male,MBA,8,13,0,130,3,2,Yes,Yes
+196,Grace Black,Female,MBA,1,16,2,150,6,4,No,No
+197,Eva Black,Female,MBA,10,16,3,145,6,0,No,No
+198,Paul Williams,Male,B.Tech. Information Tech,8,14,2,130,9,1,Yes,Yes
+199,David Smith,Male,MBA,4,14,2,130,8,3,No,No
+200,Jack Blue,Male,M.Sc. Data Science,6,18,3,165,10,5,No,No
+201,Paul Smith,Male,B.Sc. Computer Science,1,11,2,100,9,1,Yes,Yes
+202,Sophia Johnson,Male,B.Sc. Information Systems,2,19,1,185,7,1,Yes,Yes
+203,Frank Grey,Female,MBA,6,14,0,140,7,3,No,No
+204,Carol Black,Female,B.Sc. Computer Science,7,18,3,165,4,3,No,No
+205,Mia Grey,Female,B.Sc. Information Systems,9,11,3,95,5,2,No,No
+206,Ryan Blue,Female,B.Sc. Computer Science,4,9,0,90,4,1,No,No
+207,Paul Blue,Male,M.Sc. Software Engineering,3,8,3,65,3,5,No,No
+208,Mia Grey,Male,B.Sc. Information Systems,4,8,0,80,3,2,No,No
+209,Kelly Williams,Male,B.Sc. Computer Science,6,18,2,170,3,1,Yes,Yes
+210,Alice White,Female,M.Sc. Data Science,2,10,3,85,5,3,No,No
+211,Carol Brown,Male,M.Sc. Data Science,4,11,0,110,9,4,No,No
+212,Liam Black,Male,M.Sc. Software Engineering,6,18,2,170,6,5,No,No
+213,Grace Smith,Female,B.Sc. Computer Science,2,17,2,160,7,0,Yes,Yes
+214,Iris Blue,Female,B.Com.,2,18,2,170,3,3,No,No
+215,Alice Smith,Male,B.Tech. Information Tech,3,10,2,90,10,4,No,No
+216,Quinn White,Female,MBA,6,16,1,155,8,3,No,No
+217,Noah Brown,Female,B.Com.,6,6,0,60,6,5,No,No
+218,Liam Blue,Female,M.Sc. Software Engineering,6,5,2,40,7,5,No,No
+219,Carol Green,Female,MBA,4,5,1,45,9,4,No,No
+220,Alice Williams,Male,M.Sc. Software Engineering,6,18,3,165,9,4,No,No
+221,Frank Johnson,Male,M.Sc. Software Engineering,4,10,1,95,4,1,Yes,Yes
+222,Bob Brown,Male,M.Sc. Software Engineering,2,17,3,155,9,3,No,No
+223,Alice Williams,Male,B.Sc. Computer Science,10,12,3,105,10,0,No,No
+224,Ryan White,Female,MBA,7,15,3,135,6,4,No,No
+225,Noah Johnson,Male,B.Com.,4,15,0,150,8,5,No,No
+226,Paul Williams,Male,MBA,2,12,0,120,8,0,Yes,Yes
+227,Ryan Smith,Male,B.Sc. Information Systems,5,18,3,165,5,1,No,No
+228,Bob White,Female,B.Tech. Information Tech,3,8,1,75,8,1,No,No
+229,David Smith,Male,M.Sc. Software Engineering,8,20,3,185,7,5,No,No
+230,Grace Smith,Male,B.Tech. Information Tech,7,18,0,180,7,4,No,No
+231,Olivia Brown,Female,B.Sc. Information Systems,5,20,1,195,7,1,Yes,Yes
+232,Quinn Black,Female,B.Com.,6,10,0,100,4,2,Yes,Yes
+233,Thomas Blue,Male,MBA,1,8,0,80,5,2,No,No
+234,Henry Johnson,Male,MBA,7,20,3,185,3,2,No,No
+235,Quinn White,Male,M.Sc. Software Engineering,10,15,0,150,3,0,Yes,Yes
+236,Sophia White,Male,M.Sc. Software Engineering,10,20,0,200,5,4,No,No
+237,Frank Blue,Male,B.Com.,3,6,0,60,6,2,No,No
+238,Alice White,Female,M.Sc. Software Engineering,8,19,3,175,3,2,No,No
+239,Carol Brown,Female,B.Sc. Information Systems,5,13,0,130,9,4,No,No
+240,Iris White,Female,MBA,1,17,2,160,4,1,Yes,Yes
+241,Eva Johnson,Female,B.Com.,10,18,0,180,10,4,No,No
+242,Grace Brown,Female,M.Sc. Software Engineering,5,5,0,50,5,2,No,No
+243,Ryan Smith,Female,B.Tech. Information Tech,5,14,0,140,3,1,Yes,Yes
+244,Quinn Brown,Male,B.Com.,6,18,3,165,7,1,No,No
+245,Carol Johnson,Male,B.Com.,1,16,1,155,4,5,No,No
+246,Grace Grey,Female,MBA,5,18,3,165,10,2,No,No
+247,Mia Smith,Male,M.Sc. Software Engineering,4,7,2,60,8,0,No,No
+248,Mia Williams,Female,B.Sc. Information Systems,9,8,3,65,6,0,No,No
+249,Kelly Smith,Male,M.Sc. Data Science,10,10,0,100,5,0,Yes,Yes
+250,Noah White,Male,M.Sc. Data Science,3,16,2,150,9,3,No,No
+251,Frank Blue,Female,B.Com.,4,13,0,130,5,4,No,No
+252,Alice Brown,Female,B.Sc. Computer Science,3,15,3,135,5,5,No,No
+253,Mia Johnson,Male,B.Tech. Information Tech,2,20,3,185,7,2,No,No
+254,Noah White,Male,MBA,4,14,3,125,10,4,No,No
+255,Alice Brown,Female,B.Sc. Information Systems,5,7,2,60,10,1,No,No
+256,Alice Williams,Male,B.Com.,7,10,1,95,5,3,No,No
+257,Carol Blue,Female,B.Com.,6,18,0,180,4,4,No,No
+258,Paul Williams,Female,B.Sc. Computer Science,1,16,0,160,10,3,No,No
+259,Frank Brown,Male,B.Sc. Information Systems,2,15,1,145,4,0,Yes,Yes
+260,Kelly Smith,Female,B.Sc. Computer Science,7,18,0,180,8,5,No,No
+261,Eva Brown,Male,B.Com.,9,11,1,105,7,0,Yes,Yes
+262,David Grey,Male,B.Com.,10,5,3,35,4,1,No,No
+263,Bob Brown,Female,B.Tech. Information Tech,4,11,2,100,4,5,No,No
+264,Iris Blue,Female,B.Tech. Information Tech,10,20,0,200,7,2,Yes,Yes
+265,Iris Blue,Male,B.Sc. Information Systems,2,15,2,140,7,0,Yes,Yes
+266,Kelly Green,Male,B.Sc. Information Systems,3,13,0,130,4,0,Yes,Yes
+267,Olivia Williams,Female,M.Sc. Data Science,5,14,2,130,6,2,Yes,Yes
+268,Jack Black,Male,B.Com.,6,12,0,120,5,5,No,No
+269,Jack Green,Female,M.Sc. Software Engineering,7,18,0,180,5,0,Yes,Yes
+270,Bob Smith,Female,MBA,5,8,0,80,5,0,No,No
+271,Sophia Smith,Female,B.Com.,10,17,0,170,10,0,Yes,Yes
+272,Bob White,Female,B.Sc. Computer Science,8,14,3,125,8,1,No,No
+273,Henry Black,Male,M.Sc. Software Engineering,1,11,0,110,10,1,Yes,Yes
+274,Grace Green,Male,B.Sc. Computer Science,10,7,0,70,4,2,No,No
+275,Liam Black,Female,M.Sc. Data Science,8,17,0,170,6,2,Yes,Yes
+276,Ryan Grey,Female,B.Com.,10,14,2,130,5,4,No,No
+277,Iris Smith,Male,M.Sc. Software Engineering,8,12,1,115,4,4,No,No
+278,Kelly Smith,Male,B.Sc. Computer Science,5,18,1,175,10,5,No,No
+279,Quinn Grey,Female,B.Tech. Information Tech,5,15,0,150,8,4,No,No
+280,Quinn Brown,Female,B.Com.,1,7,0,70,8,0,No,No
+281,Eva Brown,Female,M.Sc. Software Engineering,7,11,0,110,4,3,No,No
+282,Mia Williams,Female,M.Sc. Software Engineering,10,18,0,180,3,5,No,No
+283,Iris Green,Female,B.Tech. Information Tech,3,9,1,85,9,5,No,No
+284,Bob Grey,Female,MBA,4,5,1,45,3,2,No,No
+285,Bob Brown,Female,B.Sc. Information Systems,5,10,0,100,10,5,No,No
+286,Bob Brown,Female,B.Sc. Computer Science,6,15,0,150,10,5,No,No
+287,Ryan Blue,Male,B.Com.,5,14,3,125,3,4,No,No
+288,Jack White,Female,B.Sc. Information Systems,10,17,1,165,9,0,Yes,Yes
+289,Mia Johnson,Male,MBA,4,17,2,160,10,4,No,No
+290,Thomas Smith,Male,B.Sc. Computer Science,2,20,2,190,7,0,Yes,Yes
+291,Frank Green,Male,B.Tech. Information Tech,1,14,1,135,6,5,No,No
+292,Olivia Grey,Male,B.Sc. Information Systems,10,5,1,45,10,4,No,No
+293,Paul Blue,Male,MBA,9,7,3,55,4,4,No,No
+294,Henry Blue,Female,M.Sc. Data Science,4,15,3,135,9,2,No,No
+295,Olivia Blue,Female,B.Tech. Information Tech,3,16,1,155,4,5,No,No
+296,Kelly Brown,Male,B.Tech. Information Tech,6,6,1,55,9,2,No,No
+297,Quinn Green,Female,B.Sc. Information Systems,10,8,0,80,10,1,No,No
+298,Olivia Johnson,Female,MBA,3,18,1,175,6,0,Yes,Yes
+299,Grace Black,Male,B.Sc. Information Systems,1,6,2,50,9,4,No,No
+300,Bob Green,Female,M.Sc. Software Engineering,3,6,2,50,7,2,No,No
+301,Thomas Blue,Female,M.Sc. Software Engineering,1,10,3,85,5,0,No,No
+302,Ryan White,Male,B.Sc. Computer Science,5,20,2,190,7,4,No,No
+303,Iris Smith,Female,MBA,6,8,2,70,6,5,No,No
+304,Eva Williams,Female,M.Sc. Software Engineering,2,13,2,120,4,4,No,No
+305,Liam Smith,Female,B.Sc. Information Systems,5,17,0,170,6,2,Yes,Yes
+306,Bob Grey,Male,M.Sc. Software Engineering,7,18,1,175,9,1,Yes,Yes
+307,Olivia Smith,Female,MBA,6,13,3,115,4,4,No,No
+308,Quinn White,Male,B.Tech. Information Tech,5,12,2,110,3,1,Yes,Yes
+309,Henry Williams,Male,B.Tech. Information Tech,8,11,3,95,7,3,No,No
+310,Eva Black,Male,B.Sc. Information Systems,6,15,2,140,6,3,No,No
+311,Liam Williams,Female,MBA,2,16,2,150,8,1,Yes,Yes
+312,Kelly Williams,Male,B.Com.,3,17,3,155,5,2,No,No
+313,Alice Blue,Male,M.Sc. Data Science,3,6,0,60,5,0,No,No
+314,Alice Johnson,Female,MBA,2,15,3,135,6,1,No,No
+315,Olivia Green,Male,B.Sc. Information Systems,2,9,1,85,4,5,No,No
+316,Thomas Black,Female,B.Sc. Computer Science,4,9,1,85,5,5,No,No
+317,Thomas Johnson,Male,B.Tech. Information Tech,3,12,3,105,8,3,No,No
+318,Noah Black,Female,M.Sc. Software Engineering,8,13,2,120,7,5,No,No
+319,Sophia Brown,Female,B.Tech. Information Tech,2,7,0,70,9,2,No,No
+320,Sophia Grey,Male,MBA,8,9,3,75,9,5,No,No
+321,Eva Brown,Male,B.Sc. Computer Science,2,20,0,200,10,4,No,No
+322,Quinn Brown,Female,B.Sc. Information Systems,2,19,0,190,6,5,No,No
+323,Carol Brown,Male,M.Sc. Software Engineering,1,6,3,45,4,2,No,No
+324,David Blue,Female,B.Com.,7,9,2,80,7,1,No,No
+325,Olivia Williams,Female,MBA,7,15,2,140,9,3,No,No
+326,Kelly Black,Male,MBA,2,13,3,115,8,0,No,No
+327,Henry White,Male,B.Sc. Computer Science,6,14,2,130,8,3,No,No
+328,Mia Green,Male,M.Sc. Data Science,9,20,1,195,9,2,Yes,Yes
+329,Bob Black,Female,M.Sc. Software Engineering,10,7,1,65,9,2,No,No
+330,Paul Blue,Male,MBA,4,11,0,110,9,3,No,No
+331,Grace Johnson,Female,MBA,8,10,2,90,10,0,Yes,Yes
+332,Sophia Black,Male,B.Sc. Information Systems,3,12,1,115,7,2,Yes,Yes
+333,Noah Williams,Male,B.Tech. Information Tech,2,12,3,105,5,5,No,No
+334,Eva Brown,Male,B.Tech. Information Tech,9,13,3,115,6,0,No,No
+335,Alice Grey,Male,B.Tech. Information Tech,6,10,0,100,4,4,No,No
+336,Grace Green,Male,B.Com.,7,20,0,200,8,2,Yes,Yes
+337,Bob Johnson,Male,B.Tech. Information Tech,3,10,2,90,10,3,No,No
+338,Sophia Brown,Female,B.Sc. Information Systems,8,10,0,100,4,0,Yes,Yes
+339,Paul Johnson,Male,M.Sc. Software Engineering,8,11,3,95,3,3,No,No
+340,Frank Smith,Male,MBA,5,15,1,145,10,0,Yes,Yes
+341,Ryan Smith,Female,MBA,7,10,1,95,3,1,Yes,Yes
+342,Sophia Blue,Male,B.Sc. Information Systems,9,7,3,55,7,5,No,No
+343,Ryan Smith,Male,M.Sc. Data Science,6,14,2,130,5,1,Yes,Yes
+344,Mia Johnson,Male,M.Sc. Data Science,7,20,0,200,6,0,Yes,Yes
+345,Liam Williams,Male,MBA,6,17,3,155,7,5,No,No
+346,Mia Brown,Female,MBA,6,14,2,130,7,0,Yes,Yes
+347,Olivia Blue,Male,B.Com.,2,10,0,100,4,0,Yes,Yes
+348,Henry Brown,Female,MBA,6,10,0,100,5,4,No,No
+349,Liam Williams,Male,M.Sc. Data Science,8,15,2,140,6,5,No,No
+350,Jack Green,Male,MBA,10,17,1,165,4,5,No,No
+351,Ryan Black,Female,B.Sc. Computer Science,10,18,0,180,6,4,No,No
+352,Jack Grey,Male,B.Tech. Information Tech,6,17,0,170,10,4,No,No
+353,Frank White,Female,B.Sc. Computer Science,4,19,3,175,6,2,No,No
+354,Olivia Williams,Female,M.Sc. Data Science,2,14,2,130,5,0,Yes,Yes
+355,Sophia Brown,Male,B.Com.,5,7,2,60,10,5,No,No
+356,Ryan Black,Male,B.Sc. Information Systems,4,20,2,190,7,2,Yes,Yes
+357,Bob Blue,Male,B.Sc. Computer Science,3,11,2,100,8,3,No,No
+358,David Williams,Female,MBA,6,6,2,50,3,2,No,No
+359,Ryan Grey,Female,B.Tech. Information Tech,2,13,0,130,8,1,Yes,Yes
+360,Eva Blue,Male,M.Sc. Software Engineering,4,16,2,150,6,3,No,No
+361,Frank Williams,Male,MBA,9,19,2,180,10,1,Yes,Yes
+362,David Williams,Male,M.Sc. Software Engineering,4,5,0,50,5,1,No,No
+363,Kelly Blue,Male,M.Sc. Software Engineering,6,15,2,140,7,0,Yes,Yes
+364,Jack Brown,Male,B.Sc. Information Systems,8,14,2,130,8,3,No,No
+365,Mia Grey,Female,M.Sc. Software Engineering,6,11,0,110,4,1,Yes,Yes
+366,Bob Green,Male,B.Tech. Information Tech,7,12,0,120,4,4,No,No
+367,Ryan Smith,Female,MBA,9,8,2,70,8,2,No,No
+368,David Grey,Male,B.Com.,1,8,1,75,10,1,No,No
+369,Olivia Smith,Female,B.Tech. Information Tech,8,5,3,35,5,3,No,No
+370,Olivia Blue,Male,B.Sc. Information Systems,8,7,3,55,10,5,No,No
+371,Kelly White,Female,B.Tech. Information Tech,3,5,3,35,9,2,No,No
+372,Liam Brown,Male,B.Sc. Information Systems,3,10,1,95,9,4,No,No
+373,Mia Smith,Male,MBA,7,11,0,110,10,5,No,No
+374,Eva Green,Female,M.Sc. Data Science,8,10,2,90,8,1,Yes,Yes
+375,Sophia Smith,Male,B.Sc. Information Systems,3,10,3,85,7,4,No,No
+376,Sophia Green,Male,B.Com.,7,5,0,50,5,1,No,No
+377,Kelly Williams,Male,B.Sc. Computer Science,9,9,2,80,8,0,No,No
+378,Mia Johnson,Female,M.Sc. Software Engineering,7,14,1,135,6,5,No,No
+379,Quinn Johnson,Male,MBA,3,8,0,80,10,1,No,No
+380,Alice Black,Male,MBA,10,15,2,140,8,1,Yes,Yes
+381,Eva Brown,Male,M.Sc. Software Engineering,1,5,0,50,5,5,No,No
+382,Paul Black,Female,B.Sc. Information Systems,5,6,0,60,8,5,No,No
+383,Bob Grey,Female,B.Sc. Computer Science,10,18,3,165,8,5,No,No
+384,Mia Williams,Female,B.Sc. Information Systems,5,14,2,130,9,1,Yes,Yes
+385,Noah Williams,Female,M.Sc. Data Science,1,14,2,130,3,4,No,No
+386,Noah Brown,Female,B.Sc. Information Systems,5,10,3,85,8,5,No,No
+387,Quinn Johnson,Male,B.Sc. Information Systems,2,20,0,200,6,0,Yes,Yes
+388,Henry Brown,Male,B.Sc. Computer Science,1,16,2,150,8,1,Yes,Yes
+389,Jack Black,Male,B.Sc. Computer Science,8,13,2,120,3,5,No,No
+390,Eva Johnson,Male,B.Com.,5,7,2,60,5,4,No,No
+391,Paul Johnson,Male,B.Com.,5,18,0,180,3,5,No,No
+392,Eva Williams,Female,B.Sc. Information Systems,6,12,2,110,10,2,Yes,Yes
+393,Kelly Smith,Male,MBA,6,13,3,115,3,3,No,No
+394,Carol White,Male,B.Tech. Information Tech,1,7,0,70,3,3,No,No
+395,Noah Johnson,Male,M.Sc. Data Science,6,7,0,70,4,5,No,No
+396,Ryan Black,Female,B.Tech. Information Tech,10,7,3,55,4,4,No,No
+397,Carol Black,Male,B.Sc. Information Systems,9,7,1,65,10,5,No,No
+398,Mia Williams,Female,B.Sc. Information Systems,9,14,3,125,7,0,No,No
+399,Kelly Black,Male,M.Sc. Software Engineering,2,10,2,90,7,1,Yes,Yes
+400,Alice Brown,Female,B.Sc. Computer Science,2,20,3,185,9,4,No,No
+401,Jack White,Female,M.Sc. Software Engineering,1,15,2,140,10,0,Yes,Yes
+402,Bob Williams,Male,M.Sc. Data Science,7,20,1,195,9,0,Yes,Yes
+403,Thomas Grey,Female,B.Com.,8,14,2,130,5,4,No,No
+404,Olivia Williams,Male,M.Sc. Data Science,5,18,2,170,8,0,Yes,Yes
+405,Frank Brown,Male,B.Com.,8,18,1,175,5,0,Yes,Yes
+406,David Williams,Female,B.Sc. Information Systems,3,16,2,150,7,2,Yes,Yes
+407,Henry Johnson,Female,B.Sc. Computer Science,3,9,3,75,3,0,No,No
+408,Ryan Brown,Female,B.Sc. Computer Science,8,19,3,175,7,3,No,No
+409,Eva Williams,Female,B.Sc. Computer Science,2,11,0,110,4,2,Yes,Yes
+410,Sophia Williams,Female,MBA,5,17,2,160,7,0,Yes,Yes
+411,Alice Smith,Female,MBA,9,14,1,135,10,1,Yes,Yes
+412,Frank Smith,Female,M.Sc. Data Science,1,7,3,55,8,3,No,No
+413,Grace Green,Female,MBA,4,11,1,105,9,0,Yes,Yes
+414,Thomas Blue,Male,M.Sc. Software Engineering,1,10,2,90,10,5,No,No
+415,Carol Blue,Female,B.Sc. Computer Science,3,16,0,160,4,4,No,No
+416,Kelly Grey,Male,MBA,5,10,3,85,10,4,No,No
+417,Noah Grey,Male,B.Sc. Computer Science,5,13,0,130,6,5,No,No
+418,Henry Grey,Male,B.Sc. Information Systems,8,9,0,90,6,3,No,No
+419,Grace Williams,Male,B.Tech. Information Tech,6,8,3,65,3,2,No,No
+420,Bob Blue,Female,M.Sc. Data Science,9,7,0,70,5,5,No,No
+421,Olivia White,Male,M.Sc. Data Science,2,6,3,45,4,4,No,No
+422,Henry Green,Male,B.Sc. Information Systems,2,9,1,85,10,1,No,No
+423,Ryan Johnson,Female,MBA,3,11,0,110,9,0,Yes,Yes
+424,Grace Smith,Female,B.Com.,10,15,1,145,9,3,No,No
+425,Carol Grey,Male,B.Com.,6,20,1,195,5,0,Yes,Yes
+426,Carol White,Female,M.Sc. Software Engineering,4,8,1,75,8,3,No,No
+427,Kelly Blue,Female,B.Sc. Computer Science,9,5,1,45,5,1,No,No
+428,Grace Black,Female,M.Sc. Data Science,2,16,2,150,4,2,Yes,Yes
+429,Jack Smith,Female,B.Tech. Information Tech,7,13,2,120,6,0,Yes,Yes
+430,Carol Brown,Male,B.Tech. Information Tech,6,8,3,65,9,4,No,No
+431,Olivia Williams,Male,B.Com.,9,20,1,195,4,1,Yes,Yes
+432,Mia Williams,Female,M.Sc. Software Engineering,4,17,1,165,10,4,No,No
+433,Mia Johnson,Male,MBA,6,20,2,190,8,5,No,No
+434,Quinn Johnson,Male,M.Sc. Software Engineering,6,11,2,100,9,0,Yes,Yes
+435,Olivia Johnson,Male,M.Sc. Data Science,1,9,2,80,5,1,No,No
+436,Sophia Smith,Male,B.Tech. Information Tech,6,12,0,120,7,2,Yes,Yes
+437,Frank Blue,Male,M.Sc. Data Science,9,12,3,105,5,5,No,No
+438,Thomas White,Male,B.Sc. Information Systems,3,10,0,100,5,2,Yes,Yes
+439,Mia Smith,Female,B.Sc. Information Systems,9,9,2,80,7,5,No,No
+440,Kelly Grey,Female,M.Sc. Software Engineering,2,19,0,190,7,4,No,No
+441,David Blue,Male,B.Sc. Computer Science,8,11,3,95,3,2,No,No
+442,Bob Black,Male,MBA,3,6,0,60,7,1,No,No
+443,Jack Smith,Female,B.Sc. Computer Science,4,16,3,145,9,4,No,No
+444,Sophia Williams,Male,M.Sc. Software Engineering,3,7,1,65,7,5,No,No
+445,Frank Johnson,Female,M.Sc. Software Engineering,8,9,2,80,10,0,No,No
+446,Ryan White,Female,M.Sc. Software Engineering,8,8,2,70,8,3,No,No
+447,Mia Williams,Male,B.Com.,7,18,1,175,9,3,No,No
+448,Alice Smith,Female,M.Sc. Software Engineering,5,11,3,95,4,3,No,No
+449,Liam Green,Female,B.Sc. Information Systems,7,20,0,200,3,1,Yes,Yes
+450,Iris Smith,Female,B.Com.,9,6,3,45,4,5,No,No
+451,Liam Brown,Female,M.Sc. Data Science,10,10,1,95,7,4,No,No
+452,Mia Green,Female,B.Com.,1,16,3,145,3,4,No,No
+453,Bob Grey,Male,M.Sc. Data Science,3,14,1,135,10,1,Yes,Yes
+454,Carol Grey,Female,B.Com.,6,16,3,145,4,0,No,No
+455,Frank Smith,Male,B.Sc. Information Systems,9,19,3,175,7,4,No,No
+456,Thomas Johnson,Male,M.Sc. Data Science,2,12,0,120,5,0,Yes,Yes
+457,Frank Black,Male,B.Com.,8,10,1,95,3,5,No,No
+458,Paul Green,Male,MBA,7,13,0,130,8,0,Yes,Yes
+459,Quinn Smith,Female,B.Tech. Information Tech,6,17,3,155,10,1,No,No
+460,David Williams,Male,M.Sc. Software Engineering,3,6,3,45,10,4,No,No
+461,Noah Brown,Male,B.Sc. Computer Science,10,6,3,45,7,3,No,No
+462,David Black,Female,B.Tech. Information Tech,2,18,0,180,10,0,Yes,Yes
+463,David Green,Male,M.Sc. Data Science,2,7,3,55,3,1,No,No
+464,Mia Green,Male,M.Sc. Data Science,1,19,1,185,10,1,Yes,Yes
+465,Carol Brown,Male,MBA,9,17,1,165,4,0,Yes,Yes
+466,Henry Grey,Male,B.Com.,9,6,0,60,4,0,No,No
+467,Eva Williams,Male,MBA,9,8,2,70,9,2,No,No
+468,Ryan Grey,Male,B.Tech. Information Tech,8,19,1,185,6,0,Yes,Yes
+469,Ryan Williams,Male,B.Tech. Information Tech,1,19,1,185,6,1,Yes,Yes
+470,Ryan White,Female,B.Sc. Computer Science,9,12,1,115,8,1,Yes,Yes
+471,Carol Brown,Male,B.Sc. Information Systems,3,10,1,95,8,3,No,No
+472,Frank White,Male,M.Sc. Software Engineering,1,13,3,115,8,5,No,No
+473,Paul Johnson,Male,B.Sc. Information Systems,3,7,2,60,10,3,No,No
+474,Bob Green,Female,B.Tech. Information Tech,2,15,1,145,5,5,No,No
+475,Grace Smith,Female,M.Sc. Software Engineering,6,20,1,195,4,3,No,No
+476,Thomas Brown,Male,B.Sc. Information Systems,9,6,0,60,5,1,No,No
+477,Olivia Black,Female,M.Sc. Data Science,4,19,2,180,10,2,Yes,Yes
+478,Grace Williams,Male,B.Sc. Information Systems,5,19,3,175,7,4,No,No
+479,Mia White,Male,MBA,7,10,1,95,3,0,Yes,Yes
+480,Kelly White,Female,B.Sc. Information Systems,1,5,2,40,6,2,No,No
+481,Sophia Green,Female,B.Com.,2,20,1,195,5,0,Yes,Yes
+482,Noah Williams,Male,B.Sc. Computer Science,1,14,1,135,7,2,Yes,Yes
+483,Jack Brown,Female,B.Sc. Computer Science,7,20,3,185,10,0,No,No
+484,Iris Green,Male,M.Sc. Software Engineering,6,18,3,165,4,1,No,No
+485,Thomas Smith,Male,MBA,1,12,3,105,10,1,No,No
+486,David White,Male,B.Tech. Information Tech,10,14,0,140,5,5,No,No
+487,Thomas Green,Male,B.Sc. Information Systems,1,6,0,60,8,4,No,No
+488,Noah Green,Female,B.Com.,5,16,0,160,9,5,No,No
+489,Olivia Blue,Female,B.Tech. Information Tech,10,9,1,85,4,5,No,No
+490,Kelly Brown,Male,B.Com.,2,17,2,160,7,4,No,No
+491,Ryan Black,Male,B.Sc. Computer Science,1,13,2,120,3,5,No,No
+492,Kelly Black,Male,B.Sc. Information Systems,3,15,1,145,5,2,Yes,Yes
+493,Sophia Smith,Female,B.Sc. Information Systems,8,16,2,150,10,4,No,No
+494,Henry Williams,Female,M.Sc. Software Engineering,9,16,0,160,5,5,No,No
+495,David Brown,Male,B.Com.,7,7,1,65,5,4,No,No
+496,Ryan Black,Female,M.Sc. Software Engineering,6,18,3,165,7,5,No,No
+497,Eva White,Male,B.Tech. Information Tech,6,16,0,160,8,0,Yes,Yes
+498,David Grey,Male,B.Sc. Computer Science,5,6,0,60,10,3,No,No
+499,Paul Williams,Male,B.Com.,3,14,1,135,9,4,No,No
+500,Kelly Green,Female,B.Com.,8,10,3,85,10,5,No,No
+501,Sophia Brown,Male,M.Sc. Data Science,1,12,2,110,3,2,Yes,Yes
+502,Frank Black,Female,M.Sc. Software Engineering,9,19,1,185,8,1,Yes,Yes
+503,Olivia Johnson,Female,B.Sc. Computer Science,3,6,3,45,5,4,No,No
+504,Henry White,Female,B.Tech. Information Tech,10,6,2,50,6,3,No,No
+505,Henry Grey,Female,B.Sc. Computer Science,9,11,2,100,6,5,No,No
+506,Mia Smith,Female,B.Sc. Information Systems,7,12,1,115,8,3,No,No
+507,Paul Grey,Male,B.Tech. Information Tech,9,7,3,55,4,5,No,No
+508,Liam Smith,Female,M.Sc. Software Engineering,8,20,2,190,3,5,No,No
+509,Liam Brown,Male,M.Sc. Software Engineering,1,17,3,155,10,5,No,No
+510,Paul Johnson,Male,B.Sc. Information Systems,8,18,1,175,6,1,Yes,Yes
+511,Paul Johnson,Female,MBA,4,15,3,135,4,1,No,No
+512,Alice Brown,Male,MBA,8,11,2,100,9,5,No,No
+513,Thomas Williams,Female,M.Sc. Software Engineering,8,8,1,75,6,4,No,No
+514,Olivia Brown,Male,B.Tech. Information Tech,2,14,1,135,5,4,No,No
+515,Kelly Brown,Female,B.Sc. Computer Science,5,18,0,180,4,2,Yes,Yes
+516,Paul Green,Female,B.Com.,2,16,3,145,8,0,No,No
+517,Kelly Brown,Female,M.Sc. Data Science,2,11,2,100,4,0,Yes,Yes
+518,Ryan Blue,Female,M.Sc. Data Science,6,15,1,145,8,1,Yes,Yes
+519,Liam White,Male,B.Com.,2,15,1,145,4,1,Yes,Yes
+520,Eva White,Male,MBA,4,17,0,170,5,3,No,No
+521,Iris Green,Female,B.Tech. Information Tech,10,13,0,130,8,3,No,No
+522,Kelly Grey,Female,B.Sc. Computer Science,3,9,0,90,4,1,No,No
+523,Sophia Blue,Female,M.Sc. Software Engineering,2,6,2,50,10,4,No,No
+524,Olivia Black,Female,M.Sc. Data Science,3,6,2,50,5,0,No,No
+525,Liam Johnson,Male,B.Tech. Information Tech,9,10,1,95,4,1,Yes,Yes
+526,Thomas Brown,Female,B.Sc. Information Systems,7,14,2,130,8,3,No,No
+527,Iris Smith,Female,MBA,8,7,0,70,8,3,No,No
+528,Iris Blue,Female,B.Sc. Information Systems,9,18,2,170,4,0,Yes,Yes
+529,Thomas Brown,Female,MBA,9,17,1,165,3,3,No,No
+530,Jack Johnson,Male,B.Sc. Computer Science,8,10,1,95,3,3,No,No
+531,Kelly Smith,Female,B.Sc. Computer Science,1,16,3,145,9,2,No,No
+532,Liam Williams,Female,MBA,2,8,0,80,9,2,No,No
+533,Bob Williams,Male,MBA,10,13,3,115,8,2,No,No
+534,Sophia Brown,Female,B.Sc. Computer Science,4,19,3,175,6,1,No,No
+535,Alice White,Male,B.Com.,9,6,2,50,10,0,No,No
+536,Paul Johnson,Male,B.Sc. Computer Science,3,16,2,150,5,5,No,No
+537,Alice Blue,Male,B.Tech. Information Tech,7,8,0,80,5,0,No,No
+538,Kelly Blue,Female,M.Sc. Data Science,5,8,0,80,10,4,No,No
+539,Frank Smith,Female,M.Sc. Data Science,6,12,3,105,4,1,No,No
+540,Grace Blue,Male,MBA,6,14,3,125,3,4,No,No
+541,Carol Smith,Female,B.Com.,7,11,1,105,9,3,No,No
+542,David Williams,Female,MBA,6,8,2,70,5,3,No,No
+543,Carol Blue,Female,B.Com.,9,13,1,125,9,4,No,No
+544,Grace Blue,Male,M.Sc. Software Engineering,4,14,0,140,6,2,Yes,Yes
+545,Liam Brown,Female,B.Sc. Computer Science,8,20,1,195,8,2,Yes,Yes
+546,Kelly Smith,Female,M.Sc. Software Engineering,10,9,2,80,5,1,No,No
+547,Henry Johnson,Female,B.Sc. Information Systems,10,6,2,50,5,5,No,No
+548,Liam Brown,Male,B.Com.,4,13,2,120,8,1,Yes,Yes
+549,Jack Williams,Male,B.Com.,8,6,2,50,4,2,No,No
+550,Olivia Johnson,Female,B.Sc. Information Systems,4,19,3,175,6,4,No,No
+551,Sophia Green,Female,B.Com.,9,18,1,175,7,4,No,No
+552,Alice Brown,Male,B.Com.,1,6,0,60,5,3,No,No
+553,Bob Johnson,Male,B.Sc. Computer Science,6,13,1,125,5,4,No,No
+554,Eva Green,Female,M.Sc. Software Engineering,3,12,3,105,9,5,No,No
+555,Carol Smith,Female,MBA,4,10,1,95,3,1,Yes,Yes
+556,Liam Grey,Female,B.Com.,5,10,3,85,5,1,No,No
+557,Alice Smith,Female,B.Sc. Computer Science,9,20,2,190,8,1,Yes,Yes
+558,David White,Female,MBA,1,16,3,145,5,1,No,No
+559,Quinn Black,Female,M.Sc. Software Engineering,10,13,3,115,6,3,No,No
+560,Henry Williams,Male,B.Sc. Information Systems,6,15,2,140,5,4,No,No
+561,Paul Brown,Female,B.Com.,4,18,0,180,4,4,No,No
+562,Noah Grey,Female,B.Sc. Computer Science,2,17,1,165,9,1,Yes,Yes
+563,Liam Blue,Male,MBA,9,13,3,115,8,3,No,No
+564,David Grey,Male,B.Sc. Information Systems,5,13,3,115,10,0,No,No
+565,David Grey,Male,MBA,10,16,1,155,10,4,No,No
+566,Eva Grey,Female,B.Sc. Information Systems,2,12,3,105,5,4,No,No
+567,Frank Johnson,Female,B.Sc. Information Systems,2,16,3,145,10,4,No,No
+568,Quinn Smith,Male,M.Sc. Software Engineering,7,13,1,125,9,5,No,No
+569,Quinn Blue,Female,M.Sc. Software Engineering,8,8,2,70,7,3,No,No
+570,Carol Grey,Female,B.Sc. Information Systems,1,6,1,55,5,1,No,No
+571,David Blue,Female,M.Sc. Data Science,2,13,2,120,3,5,No,No
+572,Liam Brown,Female,B.Sc. Computer Science,2,12,1,115,5,4,No,No
+573,Iris Grey,Female,B.Com.,3,6,3,45,4,5,No,No
+574,Kelly Grey,Male,B.Com.,9,15,1,145,6,2,Yes,Yes
+575,Jack White,Female,B.Sc. Computer Science,2,20,1,195,3,0,Yes,Yes
+576,Carol Brown,Female,B.Sc. Information Systems,5,20,3,185,5,3,No,No
+577,Ryan Green,Female,B.Com.,4,15,2,140,3,2,Yes,Yes
+578,Jack Green,Female,B.Com.,6,14,0,140,4,5,No,No
+579,Iris Williams,Female,MBA,1,8,1,75,5,3,No,No
+580,Frank Brown,Male,M.Sc. Data Science,9,20,2,190,4,0,Yes,Yes
+581,Eva Williams,Male,M.Sc. Software Engineering,1,6,3,45,9,3,No,No
+582,Olivia Green,Female,M.Sc. Data Science,10,17,2,160,9,0,Yes,Yes
+583,Carol Williams,Male,M.Sc. Software Engineering,2,9,2,80,8,1,No,No
+584,Bob Brown,Male,B.Com.,9,16,2,150,9,1,Yes,Yes
+585,Grace Green,Female,M.Sc. Data Science,3,10,2,90,8,0,Yes,Yes
+586,Iris Green,Male,MBA,5,17,3,155,10,3,No,No
+587,David Williams,Male,B.Sc. Computer Science,1,14,1,135,8,3,No,No
+588,Kelly Grey,Male,B.Sc. Computer Science,1,19,2,180,7,5,No,No
+589,David Smith,Female,MBA,2,18,3,165,6,5,No,No
+590,Thomas Johnson,Female,B.Sc. Information Systems,8,8,1,75,6,2,No,No
+591,Noah Johnson,Male,B.Com.,8,9,3,75,6,3,No,No
+592,Quinn White,Male,M.Sc. Data Science,10,17,0,170,8,2,Yes,Yes
+593,Iris Johnson,Male,M.Sc. Data Science,10,5,2,40,5,3,No,No
+594,Kelly Blue,Male,M.Sc. Software Engineering,1,5,3,35,7,0,No,No
+595,Grace Grey,Female,B.Com.,10,5,0,50,10,1,No,No
+596,Grace Brown,Male,B.Sc. Information Systems,10,10,0,100,5,3,No,No
+597,Frank Brown,Male,B.Sc. Computer Science,4,12,3,105,8,2,No,No
+598,Olivia Blue,Male,B.Sc. Information Systems,3,5,0,50,6,3,No,No
+599,Mia Black,Female,B.Tech. Information Tech,8,20,1,195,3,5,No,No
+600,Frank Grey,Male,M.Sc. Data Science,5,14,1,135,6,3,No,No
+601,Liam Green,Male,MBA,6,7,0,70,9,5,No,No
+602,Iris Blue,Female,B.Tech. Information Tech,7,19,3,175,8,2,No,No
+603,Kelly Green,Female,M.Sc. Data Science,2,8,1,75,7,0,No,No
+604,Alice Brown,Female,B.Com.,2,15,2,140,6,4,No,No
+605,Ryan Williams,Female,B.Tech. Information Tech,5,13,3,115,3,0,No,No
+606,Henry Brown,Male,B.Tech. Information Tech,10,7,0,70,6,1,No,No
+607,Olivia Black,Male,M.Sc. Data Science,7,18,3,165,5,0,No,No
+608,Bob White,Female,B.Com.,6,19,0,190,6,3,No,No
+609,Iris White,Male,B.Sc. Computer Science,10,13,3,115,8,1,No,No
+610,Mia Williams,Female,B.Sc. Information Systems,2,16,3,145,5,1,No,No
+611,Ryan Smith,Male,B.Sc. Information Systems,6,18,0,180,9,1,Yes,Yes
+612,Quinn Brown,Male,B.Com.,4,13,0,130,7,2,Yes,Yes
+613,David Grey,Male,B.Tech. Information Tech,1,9,3,75,8,2,No,No
+614,Kelly Smith,Male,B.Tech. Information Tech,1,5,0,50,7,4,No,No
+615,Mia White,Female,M.Sc. Software Engineering,2,16,1,155,4,0,Yes,Yes
+616,Sophia Blue,Female,MBA,7,10,2,90,3,0,Yes,Yes
+617,Thomas Johnson,Male,B.Sc. Information Systems,10,11,3,95,3,2,No,No
+618,Sophia Smith,Male,B.Sc. Computer Science,10,6,0,60,5,4,No,No
+619,Henry Blue,Male,B.Sc. Computer Science,10,8,0,80,8,5,No,No
+620,Eva Williams,Female,B.Sc. Computer Science,2,11,0,110,6,2,Yes,Yes
+621,Paul Brown,Male,B.Sc. Information Systems,6,12,0,120,5,2,Yes,Yes
+622,Liam White,Male,M.Sc. Data Science,1,20,1,195,8,2,Yes,Yes
+623,Liam Grey,Female,M.Sc. Software Engineering,7,5,2,40,6,4,No,No
+624,Mia Blue,Female,B.Sc. Information Systems,8,16,0,160,10,2,Yes,Yes
+625,Eva Black,Female,B.Tech. Information Tech,10,20,2,190,9,0,Yes,Yes
+626,David Black,Male,B.Sc. Computer Science,9,6,0,60,7,5,No,No
+627,Carol Green,Male,B.Sc. Information Systems,8,16,3,145,9,2,No,No
+628,Henry Grey,Female,B.Sc. Computer Science,1,12,1,115,3,5,No,No
+629,Noah Black,Male,MBA,6,15,0,150,6,1,Yes,Yes
+630,Grace Williams,Male,B.Sc. Computer Science,5,8,0,80,9,2,No,No
+631,Bob Black,Female,MBA,1,18,1,175,7,2,Yes,Yes
+632,Frank Brown,Female,B.Tech. Information Tech,2,5,3,35,3,4,No,No
+633,Paul Brown,Female,B.Sc. Computer Science,7,10,1,95,9,3,No,No
+634,Kelly Grey,Male,M.Sc. Data Science,3,7,3,55,5,2,No,No
+635,Quinn Johnson,Male,M.Sc. Software Engineering,2,10,1,95,9,0,Yes,Yes
+636,Ryan White,Male,B.Tech. Information Tech,10,6,1,55,4,2,No,No
+637,Kelly Blue,Female,B.Sc. Computer Science,9,13,1,125,8,0,Yes,Yes
+638,Alice Black,Male,B.Com.,3,16,3,145,3,1,No,No
+639,Ryan Johnson,Male,MBA,1,14,1,135,6,3,No,No
+640,Quinn Brown,Female,B.Com.,9,20,1,195,7,5,No,No
+641,Paul Smith,Female,B.Com.,9,17,2,160,10,4,No,No
+642,Carol Blue,Female,B.Sc. Computer Science,7,5,3,35,7,3,No,No
+643,Quinn Smith,Male,B.Sc. Information Systems,3,10,2,90,8,2,Yes,Yes
+644,David Green,Male,MBA,8,7,3,55,5,1,No,No
+645,David Blue,Male,B.Com.,10,15,0,150,7,3,No,No
+646,Sophia Johnson,Male,M.Sc. Software Engineering,7,12,1,115,9,2,Yes,Yes
+647,David Johnson,Female,B.Sc. Computer Science,2,13,0,130,3,2,Yes,Yes
+648,David Williams,Male,MBA,3,16,1,155,8,1,Yes,Yes
+649,Kelly Brown,Male,B.Sc. Computer Science,8,7,0,70,4,3,No,No
+650,Olivia Grey,Male,M.Sc. Data Science,8,11,0,110,3,1,Yes,Yes
+651,Kelly Johnson,Female,B.Sc. Information Systems,2,19,1,185,9,4,No,No
+652,Henry Blue,Male,M.Sc. Data Science,8,10,2,90,5,2,Yes,Yes
+653,Grace Smith,Male,B.Sc. Computer Science,9,6,1,55,7,1,No,No
+654,Ryan Smith,Female,B.Tech. Information Tech,4,11,1,105,7,5,No,No
+655,Olivia Smith,Male,B.Sc. Information Systems,9,11,0,110,3,2,Yes,Yes
+656,Henry Williams,Male,B.Com.,10,8,2,70,6,5,No,No
+657,Jack Smith,Female,M.Sc. Data Science,8,11,2,100,4,3,No,No
+658,Grace Black,Female,B.Com.,4,13,0,130,6,5,No,No
+659,Grace Williams,Female,B.Sc. Information Systems,3,16,1,155,7,3,No,No
+660,Paul Johnson,Male,B.Com.,6,8,1,75,10,0,No,No
+661,Olivia Grey,Female,B.Tech. Information Tech,1,10,0,100,7,3,No,No
+662,Carol Green,Female,B.Sc. Computer Science,4,7,2,60,4,5,No,No
+663,Thomas Grey,Female,B.Tech. Information Tech,9,11,1,105,6,4,No,No
+664,Jack White,Male,MBA,6,6,1,55,5,3,No,No
+665,David Black,Male,B.Com.,3,19,3,175,5,4,No,No
+666,Frank Smith,Male,B.Sc. Computer Science,3,13,1,125,3,1,Yes,Yes
+667,Alice Johnson,Male,B.Sc. Computer Science,1,14,2,130,6,5,No,No
+668,Sophia Grey,Female,B.Sc. Information Systems,10,8,0,80,10,0,No,No
+669,Eva Grey,Female,B.Com.,10,9,1,85,3,2,No,No
+670,Noah Black,Female,M.Sc. Software Engineering,4,17,0,170,4,0,Yes,Yes
+671,Thomas Williams,Female,M.Sc. Data Science,3,18,3,165,8,0,No,No
+672,Frank Blue,Male,MBA,6,15,2,140,4,1,Yes,Yes
+673,Thomas Williams,Female,M.Sc. Data Science,7,17,0,170,5,1,Yes,Yes
+674,Mia Blue,Female,B.Sc. Information Systems,2,11,2,100,9,2,Yes,Yes
+675,Olivia Black,Female,B.Com.,5,20,0,200,6,1,Yes,Yes
+676,Thomas Blue,Male,B.Com.,8,15,1,145,7,3,No,No
+677,Quinn Brown,Male,B.Com.,9,10,0,100,10,0,Yes,Yes
+678,Kelly Brown,Female,B.Tech. Information Tech,6,14,0,140,8,3,No,No
+679,Kelly White,Female,M.Sc. Software Engineering,3,5,1,45,3,0,No,No
+680,Sophia Grey,Female,M.Sc. Data Science,6,12,3,105,4,3,No,No
+681,Bob Johnson,Male,M.Sc. Software Engineering,8,5,1,45,8,4,No,No
+682,Jack Williams,Male,M.Sc. Software Engineering,2,16,2,150,10,0,Yes,Yes
+683,David Brown,Male,B.Sc. Information Systems,10,18,1,175,3,4,No,No
+684,Thomas Williams,Female,B.Tech. Information Tech,9,13,0,130,7,3,No,No
+685,Jack Johnson,Male,M.Sc. Data Science,1,16,2,150,4,1,Yes,Yes
+686,Sophia Black,Female,M.Sc. Data Science,9,15,3,135,10,0,No,No
+687,Liam Black,Male,MBA,7,7,3,55,7,4,No,No
+688,Frank Green,Male,M.Sc. Software Engineering,4,12,3,105,5,2,No,No
+689,Olivia Johnson,Male,MBA,9,11,1,105,3,3,No,No
+690,Grace Smith,Female,B.Com.,9,10,3,85,8,3,No,No
+691,Quinn Grey,Female,M.Sc. Data Science,6,15,3,135,9,1,No,No
+692,Noah White,Female,B.Sc. Information Systems,6,20,2,190,4,5,No,No
+693,Alice Grey,Male,B.Sc. Computer Science,10,6,1,55,5,4,No,No
+694,Henry Black,Female,M.Sc. Software Engineering,1,18,2,170,5,5,No,No
+695,Bob Brown,Female,B.Sc. Computer Science,10,6,2,50,9,4,No,No
+696,Thomas Grey,Female,B.Tech. Information Tech,5,13,1,125,9,1,Yes,Yes
+697,Alice White,Male,B.Tech. Information Tech,1,7,0,70,9,0,No,No
+698,Iris Brown,Male,MBA,1,18,2,170,6,0,Yes,Yes
+699,Quinn Black,Male,MBA,10,20,2,190,9,3,No,No
+700,Ryan Green,Female,M.Sc. Data Science,6,16,1,155,6,4,No,No
+701,Jack White,Male,B.Sc. Computer Science,1,7,1,65,4,1,No,No
+702,Frank Grey,Female,B.Tech. Information Tech,2,18,1,175,9,0,Yes,Yes
+703,Paul Grey,Male,M.Sc. Data Science,1,18,0,180,10,3,No,No
+704,Henry Johnson,Female,M.Sc. Data Science,2,20,1,195,9,4,No,No
+705,Olivia Williams,Female,B.Sc. Computer Science,3,8,1,75,10,0,No,No
+706,Paul Grey,Male,B.Sc. Information Systems,1,13,2,120,6,3,No,No
+707,Carol Grey,Female,B.Sc. Information Systems,9,6,1,55,3,1,No,No
+708,Mia Williams,Female,M.Sc. Data Science,4,13,2,120,5,0,Yes,Yes
+709,David Grey,Male,B.Sc. Computer Science,9,17,1,165,4,0,Yes,Yes
+710,Eva Green,Male,M.Sc. Software Engineering,3,9,2,80,8,3,No,No
+711,Kelly Black,Male,MBA,10,13,0,130,6,1,Yes,Yes
+712,Bob Smith,Female,M.Sc. Software Engineering,5,14,0,140,5,5,No,No
+713,Eva White,Male,M.Sc. Data Science,5,9,3,75,6,4,No,No
+714,Kelly Grey,Female,B.Tech. Information Tech,2,16,1,155,8,5,No,No
+715,Thomas Grey,Male,B.Tech. Information Tech,5,10,2,90,10,2,Yes,Yes
+716,David Black,Female,B.Sc. Information Systems,1,17,1,165,4,3,No,No
+717,Henry Johnson,Male,B.Com.,6,10,3,85,5,4,No,No
+718,Kelly White,Male,M.Sc. Software Engineering,9,5,0,50,9,5,No,No
+719,Mia Black,Male,MBA,4,6,2,50,6,4,No,No
+720,Eva White,Male,B.Com.,9,8,1,75,6,0,No,No
+721,Grace Black,Female,B.Com.,5,15,0,150,9,0,Yes,Yes
+722,Iris Grey,Female,B.Com.,5,15,0,150,6,5,No,No
+723,Bob Green,Male,B.Com.,6,10,0,100,9,5,No,No
+724,Henry Grey,Male,B.Com.,4,7,0,70,5,5,No,No
+725,Paul White,Male,B.Sc. Information Systems,8,7,3,55,5,2,No,No
+726,Paul Green,Female,B.Tech. Information Tech,4,18,0,180,4,0,Yes,Yes
+727,Iris Brown,Male,B.Sc. Computer Science,10,15,2,140,4,3,No,No
+728,Carol Johnson,Female,M.Sc. Data Science,5,7,1,65,7,1,No,No
+729,Grace Black,Male,B.Tech. Information Tech,4,17,0,170,8,5,No,No
+730,Mia Smith,Male,B.Sc. Information Systems,7,19,0,190,9,4,No,No
+731,Iris Johnson,Male,B.Sc. Computer Science,7,11,3,95,3,5,No,No
+732,David Smith,Female,B.Sc. Information Systems,7,14,3,125,9,2,No,No
+733,Olivia Brown,Male,B.Sc. Computer Science,7,12,2,110,10,1,Yes,Yes
+734,Paul Black,Female,B.Sc. Computer Science,4,10,1,95,4,3,No,No
+735,Carol Black,Male,B.Tech. Information Tech,4,15,0,150,8,1,Yes,Yes
+736,Jack Smith,Male,B.Com.,2,12,0,120,8,5,No,No
+737,Paul Black,Female,MBA,1,18,3,165,3,0,No,No
+738,Quinn White,Male,B.Sc. Computer Science,9,13,3,115,5,3,No,No
+739,Quinn Williams,Male,B.Sc. Information Systems,9,6,2,50,6,1,No,No
+740,Paul Black,Female,M.Sc. Software Engineering,1,17,1,165,9,2,Yes,Yes
+741,Thomas Brown,Female,B.Tech. Information Tech,9,8,3,65,7,5,No,No
+742,Iris White,Female,B.Com.,8,12,0,120,7,1,Yes,Yes
+743,David Grey,Female,B.Com.,7,5,1,45,3,3,No,No
+744,Alice White,Female,B.Sc. Information Systems,3,12,2,110,8,2,Yes,Yes
+745,Quinn Smith,Female,M.Sc. Data Science,9,9,2,80,10,0,No,No
+746,Ryan Brown,Female,B.Com.,7,5,3,35,9,3,No,No
+747,Frank Brown,Female,MBA,10,18,3,165,9,0,No,No
+748,Carol White,Male,M.Sc. Software Engineering,7,12,2,110,10,3,No,No
+749,Sophia Brown,Female,B.Sc. Information Systems,5,11,0,110,3,2,Yes,Yes
+750,Paul Black,Female,MBA,6,6,2,50,10,5,No,No
+751,Jack Green,Female,B.Tech. Information Tech,5,15,2,140,6,0,Yes,Yes
+752,Sophia White,Male,B.Tech. Information Tech,2,8,3,65,7,4,No,No
+753,Grace Blue,Female,B.Sc. Information Systems,3,11,0,110,4,0,Yes,Yes
+754,Noah Brown,Female,MBA,6,8,1,75,10,2,No,No
+755,Thomas Williams,Female,M.Sc. Data Science,7,8,2,70,6,2,No,No
+756,Olivia Blue,Male,MBA,1,17,1,165,6,0,Yes,Yes
+757,Paul Brown,Female,M.Sc. Data Science,8,12,1,115,4,0,Yes,Yes
+758,Olivia Brown,Female,B.Com.,5,9,1,85,10,2,No,No
+759,Alice Brown,Male,B.Sc. Computer Science,6,7,3,55,7,0,No,No
+760,Paul Johnson,Female,B.Tech. Information Tech,8,16,1,155,4,3,No,No
+761,David Blue,Female,B.Sc. Information Systems,10,12,3,105,10,2,No,No
+762,Quinn Blue,Female,MBA,5,10,0,100,9,3,No,No
+763,Paul Williams,Female,M.Sc. Data Science,7,5,3,35,3,4,No,No
+764,Iris Grey,Female,B.Tech. Information Tech,3,5,3,35,5,0,No,No
+765,Olivia Smith,Female,B.Com.,4,11,1,105,5,1,Yes,Yes
+766,Thomas Williams,Female,B.Tech. Information Tech,1,5,3,35,7,0,No,No
+767,David Brown,Male,MBA,1,17,2,160,6,2,Yes,Yes
+768,Bob Green,Female,MBA,5,17,0,170,10,3,No,No
+769,Eva Smith,Male,B.Sc. Information Systems,5,18,2,170,10,4,No,No
+770,Paul Williams,Male,B.Tech. Information Tech,10,13,3,115,8,5,No,No
+771,David Brown,Female,M.Sc. Data Science,7,13,0,130,5,0,Yes,Yes
+772,Eva Smith,Male,B.Sc. Computer Science,7,13,2,120,10,5,No,No
+773,Frank Williams,Female,M.Sc. Data Science,3,15,1,145,9,0,Yes,Yes
+774,Ryan Black,Female,M.Sc. Data Science,5,8,2,70,5,1,No,No
+775,Noah Brown,Male,B.Sc. Information Systems,1,19,0,190,3,3,No,No
+776,Eva Black,Female,B.Sc. Computer Science,2,19,0,190,3,1,Yes,Yes
+777,Noah Green,Male,B.Tech. Information Tech,8,6,1,55,6,5,No,No
+778,Olivia Green,Male,M.Sc. Software Engineering,7,10,1,95,8,2,Yes,Yes
+779,David Brown,Male,M.Sc. Software Engineering,4,8,2,70,6,2,No,No
+780,Bob Smith,Male,MBA,8,19,3,175,5,5,No,No
+781,Ryan Brown,Male,B.Sc. Computer Science,4,15,0,150,5,0,Yes,Yes
+782,Jack Grey,Female,B.Com.,9,9,3,75,9,5,No,No
+783,Noah Green,Male,B.Tech. Information Tech,7,5,2,40,6,5,No,No
+784,Liam Blue,Male,B.Tech. Information Tech,4,14,2,130,8,1,Yes,Yes
+785,Olivia Smith,Female,B.Com.,9,13,3,115,6,5,No,No
+786,Eva Green,Female,MBA,1,6,1,55,5,5,No,No
+787,Bob Johnson,Female,MBA,9,18,0,180,9,5,No,No
+788,Olivia Blue,Female,M.Sc. Data Science,7,14,1,135,5,0,Yes,Yes
+789,Jack Black,Male,M.Sc. Data Science,6,9,0,90,4,5,No,No
+790,Kelly Black,Male,B.Tech. Information Tech,6,17,0,170,6,1,Yes,Yes
+791,Quinn Blue,Female,B.Com.,2,20,1,195,9,5,No,No
+792,Thomas Williams,Female,B.Sc. Information Systems,6,18,2,170,10,2,Yes,Yes
+793,Sophia Black,Male,B.Sc. Computer Science,4,20,2,190,7,5,No,No
+794,Mia Johnson,Female,B.Sc. Computer Science,5,20,2,190,9,4,No,No
+795,Eva Grey,Female,M.Sc. Software Engineering,8,7,1,65,8,4,No,No
+796,Liam Black,Male,M.Sc. Software Engineering,9,5,3,35,9,0,No,No
+797,Henry Black,Female,M.Sc. Software Engineering,5,5,3,35,3,1,No,No
+798,Sophia Brown,Male,B.Sc. Information Systems,4,10,3,85,10,4,No,No
+799,Frank Grey,Male,B.Tech. Information Tech,2,10,2,90,5,3,No,No
+800,Mia Johnson,Female,MBA,8,15,3,135,6,3,No,No
+801,Noah Blue,Male,B.Sc. Computer Science,2,7,3,55,4,2,No,No
+802,Ryan White,Male,M.Sc. Software Engineering,9,6,0,60,6,1,No,No
+803,Noah Brown,Male,MBA,4,11,2,100,6,5,No,No
+804,Ryan Grey,Male,B.Com.,1,9,1,85,7,1,No,No
+805,Noah Green,Male,B.Com.,6,11,2,100,8,0,Yes,Yes
+806,Iris Williams,Male,B.Sc. Computer Science,7,14,0,140,8,5,No,No
+807,Paul Green,Male,M.Sc. Software Engineering,9,9,3,75,8,5,No,No
+808,Liam Williams,Female,B.Sc. Information Systems,7,16,0,160,3,1,Yes,Yes
+809,Grace Black,Female,B.Com.,10,15,3,135,5,4,No,No
+810,Noah Blue,Female,B.Com.,8,5,0,50,5,4,No,No
+811,Olivia Blue,Female,M.Sc. Software Engineering,2,19,3,175,6,1,No,No
+812,Grace White,Female,M.Sc. Software Engineering,8,15,2,140,5,4,No,No
+813,Jack White,Male,B.Tech. Information Tech,4,13,3,115,3,4,No,No
+814,Kelly Williams,Female,M.Sc. Data Science,8,14,1,135,6,3,No,No
+815,Bob Smith,Male,B.Com.,6,19,1,185,10,0,Yes,Yes
+816,Kelly Smith,Female,M.Sc. Software Engineering,6,5,2,40,7,0,No,No
+817,David Brown,Female,B.Tech. Information Tech,5,5,3,35,7,2,No,No
+818,Iris Williams,Male,M.Sc. Data Science,2,18,2,170,8,0,Yes,Yes
+819,Alice Grey,Female,M.Sc. Data Science,3,9,2,80,8,1,No,No
+820,Quinn Green,Male,MBA,1,18,0,180,7,4,No,No
+821,Liam Smith,Male,B.Sc. Information Systems,3,10,0,100,8,0,Yes,Yes
+822,David Brown,Male,B.Tech. Information Tech,4,9,1,85,5,1,No,No
+823,Paul White,Male,MBA,6,14,2,130,9,2,Yes,Yes
+824,Kelly Blue,Female,B.Sc. Computer Science,10,12,2,110,5,4,No,No
+825,Eva Smith,Female,B.Tech. Information Tech,3,10,2,90,3,2,Yes,Yes
+826,Ryan Green,Male,MBA,3,18,2,170,3,1,Yes,Yes
+827,Iris Green,Male,B.Sc. Computer Science,10,17,3,155,8,5,No,No
+828,Quinn Blue,Female,B.Sc. Computer Science,1,17,2,160,9,2,Yes,Yes
+829,Alice Black,Female,B.Tech. Information Tech,3,14,0,140,6,1,Yes,Yes
+830,Henry Smith,Male,B.Com.,9,20,2,190,10,3,No,No
+831,Ryan Black,Male,M.Sc. Software Engineering,3,12,1,115,4,4,No,No
+832,Jack Green,Female,M.Sc. Data Science,8,13,1,125,4,2,Yes,Yes
+833,Thomas White,Female,B.Tech. Information Tech,8,17,3,155,9,0,No,No
+834,Paul White,Female,B.Sc. Information Systems,9,6,1,55,6,0,No,No
+835,David Williams,Female,B.Com.,3,5,3,35,3,3,No,No
+836,Quinn Grey,Male,MBA,4,11,0,110,8,0,Yes,Yes
+837,Noah Johnson,Male,B.Sc. Information Systems,5,10,1,95,8,5,No,No
+838,Noah White,Female,M.Sc. Data Science,9,5,3,35,5,0,No,No
+839,Eva Smith,Female,B.Sc. Computer Science,2,18,2,170,6,4,No,No
+840,Liam Blue,Male,M.Sc. Data Science,2,14,1,135,5,1,Yes,Yes
+841,Liam Black,Female,B.Sc. Computer Science,10,15,0,150,3,4,No,No
+842,Alice Smith,Male,B.Sc. Information Systems,2,20,1,195,6,0,Yes,Yes
+843,Grace Williams,Female,M.Sc. Data Science,5,5,2,40,3,2,No,No
+844,Sophia Black,Female,M.Sc. Data Science,10,11,3,95,10,0,No,No
+845,Frank Black,Female,MBA,5,11,1,105,8,4,No,No
+846,Noah Blue,Male,B.Sc. Computer Science,8,15,0,150,3,2,Yes,Yes
+847,Mia Green,Female,B.Com.,3,17,0,170,7,2,Yes,Yes
+848,Bob Blue,Female,B.Sc. Computer Science,7,18,0,180,7,3,No,No
+849,Noah Smith,Male,M.Sc. Software Engineering,7,8,1,75,7,1,No,No
+850,Alice Blue,Female,B.Sc. Computer Science,2,16,3,145,4,2,No,No
+851,Sophia Black,Male,B.Com.,5,18,1,175,3,2,Yes,Yes
+852,Alice Johnson,Male,B.Sc. Computer Science,7,11,3,95,3,1,No,No
+853,Mia White,Male,B.Sc. Computer Science,6,19,0,190,3,0,Yes,Yes
+854,Noah Johnson,Male,M.Sc. Software Engineering,2,15,0,150,6,3,No,No
+855,Paul Green,Female,B.Sc. Computer Science,1,11,2,100,7,1,Yes,Yes
+856,Bob Black,Female,B.Sc. Computer Science,3,16,1,155,3,1,Yes,Yes
+857,Liam Smith,Male,B.Sc. Computer Science,9,10,0,100,6,0,Yes,Yes
+858,Liam Green,Male,MBA,10,8,1,75,6,2,No,No
+859,Carol White,Male,M.Sc. Software Engineering,2,11,2,100,7,4,No,No
+860,Carol Johnson,Female,M.Sc. Software Engineering,7,8,0,80,8,2,No,No
+861,Sophia White,Male,M.Sc. Software Engineering,10,17,2,160,7,5,No,No
+862,Frank Green,Male,B.Sc. Information Systems,8,15,1,145,7,4,No,No
+863,David White,Male,M.Sc. Software Engineering,7,19,0,190,6,0,Yes,Yes
+864,Iris Brown,Female,B.Sc. Computer Science,2,16,3,145,3,3,No,No
+865,Quinn Williams,Female,M.Sc. Data Science,7,11,0,110,6,2,Yes,Yes
+866,Jack Blue,Male,B.Sc. Computer Science,2,5,2,40,8,0,No,No
+867,Quinn Smith,Male,MBA,5,5,2,40,4,1,No,No
+868,Henry Brown,Female,B.Tech. Information Tech,10,11,0,110,10,5,No,No
+869,Jack Brown,Female,B.Sc. Information Systems,10,16,0,160,5,0,Yes,Yes
+870,Quinn Black,Female,B.Com.,3,19,2,180,5,0,Yes,Yes
+871,Frank Brown,Male,B.Sc. Computer Science,1,16,0,160,9,1,Yes,Yes
+872,Grace Blue,Female,MBA,8,14,0,140,5,4,No,No
+873,Ryan Williams,Male,B.Sc. Information Systems,4,17,3,155,5,5,No,No
+874,David White,Female,B.Sc. Information Systems,2,19,2,180,8,1,Yes,Yes
+875,Sophia Blue,Male,M.Sc. Software Engineering,5,16,0,160,8,3,No,No
+876,Jack Black,Female,B.Com.,2,19,2,180,8,0,Yes,Yes
+877,Mia Williams,Female,B.Com.,3,14,1,135,4,0,Yes,Yes
+878,Mia Williams,Female,M.Sc. Data Science,4,20,2,190,9,4,No,No
+879,Iris Green,Male,B.Com.,6,15,3,135,6,5,No,No
+880,Olivia Smith,Female,B.Tech. Information Tech,8,6,3,45,9,0,No,No
+881,Thomas White,Male,M.Sc. Data Science,3,13,3,115,7,0,No,No
+882,Grace Williams,Male,M.Sc. Software Engineering,2,16,2,150,7,3,No,No
+883,Thomas Blue,Female,B.Com.,7,13,0,130,7,3,No,No
+884,Carol White,Male,B.Sc. Computer Science,6,7,2,60,6,5,No,No
+885,Jack Johnson,Male,B.Com.,3,15,1,145,3,2,Yes,Yes
+886,Alice White,Female,M.Sc. Software Engineering,5,6,3,45,10,4,No,No
+887,Alice Johnson,Male,B.Tech. Information Tech,9,7,0,70,5,4,No,No
+888,Paul Smith,Male,B.Sc. Information Systems,3,14,0,140,5,3,No,No
+889,Ryan Smith,Male,MBA,8,16,2,150,7,1,Yes,Yes
+890,Paul Smith,Female,B.Sc. Information Systems,5,17,2,160,3,4,No,No
+891,David White,Female,B.Com.,8,12,3,105,3,2,No,No
+892,Jack Grey,Male,B.Sc. Computer Science,5,19,2,180,4,0,Yes,Yes
+893,Olivia Green,Male,M.Sc. Software Engineering,4,15,0,150,4,1,Yes,Yes
+894,Olivia Black,Female,M.Sc. Software Engineering,3,19,0,190,7,2,Yes,Yes
+895,Olivia Brown,Female,B.Sc. Information Systems,2,9,1,85,10,5,No,No
+896,Ryan Blue,Female,B.Tech. Information Tech,10,8,2,70,6,3,No,No
+897,Henry Grey,Female,B.Tech. Information Tech,4,11,2,100,6,2,Yes,Yes
+898,Quinn White,Male,M.Sc. Data Science,7,14,2,130,7,2,Yes,Yes
+899,Frank Johnson,Female,MBA,4,12,1,115,9,0,Yes,Yes
+900,Quinn White,Male,M.Sc. Data Science,2,9,2,80,8,1,No,No
+901,Bob Grey,Female,B.Sc. Information Systems,1,19,0,190,7,1,Yes,Yes
+902,Frank Blue,Male,B.Com.,6,14,0,140,4,4,No,No
+903,Kelly White,Male,B.Tech. Information Tech,4,6,2,50,5,0,No,No
+904,Carol Green,Female,M.Sc. Software Engineering,2,7,0,70,4,4,No,No
+905,Paul White,Female,MBA,8,17,3,155,6,1,No,No
+906,David Smith,Male,B.Sc. Information Systems,8,14,2,130,3,1,Yes,Yes
+907,Quinn Black,Female,B.Com.,6,19,3,175,10,5,No,No
+908,Frank Williams,Female,M.Sc. Data Science,6,17,1,165,9,3,No,No
+909,Iris Blue,Female,B.Tech. Information Tech,7,11,0,110,8,0,Yes,Yes
+910,Ryan Johnson,Female,M.Sc. Data Science,4,15,3,135,8,0,No,No
+911,Carol Smith,Male,B.Tech. Information Tech,8,15,3,135,6,5,No,No
+912,Kelly Grey,Female,B.Tech. Information Tech,5,14,0,140,3,4,No,No
+913,Iris Brown,Female,M.Sc. Data Science,3,11,0,110,6,5,No,No
+914,Carol White,Female,B.Sc. Computer Science,1,11,3,95,6,2,No,No
+915,Iris Black,Male,MBA,1,13,2,120,3,3,No,No
+916,Iris Brown,Male,M.Sc. Data Science,1,7,2,60,6,4,No,No
+917,Iris Brown,Female,B.Sc. Information Systems,8,13,3,115,9,2,No,No
+918,Mia Johnson,Male,B.Sc. Information Systems,8,11,3,95,4,5,No,No
+919,Eva Black,Female,M.Sc. Data Science,3,20,2,190,7,0,Yes,Yes
+920,Jack Smith,Female,B.Sc. Information Systems,10,8,2,70,3,5,No,No
+921,Henry Grey,Female,B.Com.,9,7,0,70,10,3,No,No
+922,Kelly White,Male,B.Com.,9,15,2,140,9,3,No,No
+923,Grace Black,Female,B.Tech. Information Tech,9,10,1,95,8,3,No,No
+924,Jack Grey,Male,B.Tech. Information Tech,9,6,2,50,4,3,No,No
+925,Paul Grey,Male,B.Sc. Information Systems,1,5,2,40,5,0,No,No
+926,Grace White,Male,B.Tech. Information Tech,7,6,2,50,6,4,No,No
+927,Bob Williams,Female,B.Tech. Information Tech,2,13,2,120,3,5,No,No
+928,Ryan Grey,Female,B.Tech. Information Tech,4,15,0,150,5,2,Yes,Yes
+929,Sophia Black,Male,M.Sc. Software Engineering,8,17,3,155,9,2,No,No
+930,Jack Johnson,Male,MBA,3,14,2,130,9,1,Yes,Yes
+931,Paul White,Female,B.Com.,2,17,1,165,9,3,No,No
+932,Eva Black,Male,MBA,6,19,1,185,8,5,No,No
+933,Ryan Green,Male,B.Sc. Information Systems,2,13,3,115,5,1,No,No
+934,Noah White,Male,B.Tech. Information Tech,10,7,3,55,10,2,No,No
+935,Sophia Smith,Male,B.Com.,3,11,3,95,4,0,No,No
+936,Eva Black,Female,B.Sc. Computer Science,7,18,2,170,4,5,No,No
+937,Alice Green,Female,B.Com.,7,14,0,140,3,1,Yes,Yes
+938,Frank Johnson,Female,B.Tech. Information Tech,10,12,2,110,7,1,Yes,Yes
+939,Paul Brown,Male,M.Sc. Software Engineering,5,20,2,190,6,2,Yes,Yes
+940,David White,Female,M.Sc. Data Science,8,5,2,40,4,4,No,No
+941,Eva Grey,Male,MBA,2,8,2,70,6,3,No,No
+942,Thomas Green,Male,B.Sc. Computer Science,9,19,0,190,8,3,No,No
+943,Quinn Williams,Male,B.Tech. Information Tech,4,7,2,60,7,5,No,No
+944,Iris Johnson,Male,B.Sc. Information Systems,5,5,1,45,10,2,No,No
+945,Noah Johnson,Male,B.Tech. Information Tech,4,18,3,165,6,4,No,No
+946,Jack Williams,Female,B.Sc. Information Systems,7,12,1,115,6,0,Yes,Yes
+947,Sophia Brown,Male,M.Sc. Software Engineering,2,7,2,60,7,4,No,No
+948,Kelly Black,Female,B.Sc. Information Systems,3,16,3,145,10,4,No,No
+949,Kelly Johnson,Female,B.Sc. Computer Science,7,16,3,145,10,3,No,No
+950,Ryan Brown,Male,M.Sc. Software Engineering,9,12,0,120,3,1,Yes,Yes
+951,Iris Black,Male,B.Sc. Information Systems,10,18,1,175,10,4,No,No
+952,Sophia Blue,Male,B.Tech. Information Tech,8,6,0,60,5,2,No,No
+953,Olivia Brown,Female,B.Tech. Information Tech,10,10,1,95,6,4,No,No
+954,Henry Brown,Female,B.Sc. Information Systems,7,19,0,190,9,3,No,No
+955,Jack Johnson,Female,M.Sc. Software Engineering,3,14,2,130,8,3,No,No
+956,Henry Brown,Female,B.Sc. Computer Science,5,5,0,50,6,5,No,No
+957,Frank Green,Male,B.Sc. Computer Science,6,14,2,130,3,2,Yes,Yes
+958,Liam Smith,Male,B.Sc. Information Systems,6,9,3,75,4,5,No,No
+959,Mia Smith,Male,MBA,1,13,0,130,5,0,Yes,Yes
+960,Kelly White,Male,B.Sc. Information Systems,6,17,0,170,5,0,Yes,Yes
+961,Jack Blue,Female,B.Tech. Information Tech,3,9,3,75,5,4,No,No
+962,Mia Black,Female,B.Tech. Information Tech,2,15,3,135,5,1,No,No
+963,Kelly White,Male,B.Com.,6,12,2,110,3,1,Yes,Yes
+964,Frank Blue,Male,B.Tech. Information Tech,8,6,0,60,4,2,No,No
+965,Paul Blue,Male,B.Com.,9,15,1,145,9,4,No,No
+966,Frank Black,Male,MBA,9,5,0,50,6,5,No,No
+967,Jack Grey,Female,B.Tech. Information Tech,1,17,3,155,7,0,No,No
+968,Olivia Green,Male,M.Sc. Data Science,9,16,1,155,6,3,No,No
+969,Frank Smith,Female,B.Tech. Information Tech,2,8,2,70,8,4,No,No
+970,Iris Johnson,Female,B.Com.,2,19,2,180,4,5,No,No
+971,Bob Brown,Male,M.Sc. Software Engineering,5,6,1,55,4,1,No,No
+972,Olivia Grey,Female,M.Sc. Software Engineering,9,8,0,80,3,4,No,No
+973,Mia Green,Male,M.Sc. Software Engineering,4,10,3,85,3,1,No,No
+974,Liam Smith,Male,B.Sc. Computer Science,7,19,1,185,8,2,Yes,Yes
+975,Thomas Black,Male,B.Sc. Computer Science,7,18,3,165,9,0,No,No
+976,Henry Williams,Female,M.Sc. Software Engineering,10,16,0,160,4,4,No,No
+977,Jack Johnson,Female,M.Sc. Software Engineering,1,12,0,120,7,4,No,No
+978,Iris Grey,Female,B.Com.,3,10,2,90,9,5,No,No
+979,David Blue,Female,MBA,9,14,3,125,9,2,No,No
+980,David Williams,Female,MBA,2,19,1,185,9,1,Yes,Yes
+981,Quinn Grey,Male,B.Sc. Information Systems,6,12,2,110,4,5,No,No
+982,Kelly Brown,Female,B.Sc. Computer Science,6,18,0,180,3,2,Yes,Yes
+983,Henry Grey,Male,B.Sc. Information Systems,2,7,1,65,3,5,No,No
+984,David Green,Female,M.Sc. Data Science,4,10,3,85,3,4,No,No
+985,Quinn Williams,Female,B.Sc. Computer Science,5,12,0,120,5,5,No,No
+986,Henry White,Male,B.Tech. Information Tech,7,5,2,40,10,1,No,No
+987,Alice Williams,Male,B.Sc. Information Systems,4,10,0,100,9,1,Yes,Yes
+988,Iris Green,Female,B.Com.,5,7,3,55,6,4,No,No
+989,Grace Green,Male,B.Com.,5,6,2,50,6,3,No,No
+990,Olivia Blue,Female,MBA,2,19,1,185,3,5,No,No
+991,Bob White,Male,B.Tech. Information Tech,10,18,2,170,3,3,No,No
+992,Iris White,Female,B.Tech. Information Tech,8,16,3,145,5,0,No,No
+993,Paul White,Female,B.Com.,4,13,0,130,8,4,No,No
+994,Alice Williams,Female,B.Sc. Computer Science,6,16,0,160,9,2,Yes,Yes
+995,Sophia Brown,Male,B.Sc. Computer Science,5,20,2,190,5,2,Yes,Yes
+996,Liam Smith,Male,M.Sc. Data Science,1,14,2,130,4,2,Yes,Yes
+997,Liam Johnson,Male,M.Sc. Software Engineering,4,20,3,185,6,0,No,No
+998,Paul Green,Female,B.Tech. Information Tech,9,9,0,90,5,2,No,No
+999,Ryan Green,Male,B.Sc. Computer Science,4,7,0,70,4,5,No,No
+1000,Ryan White,Male,M.Sc. Data Science,3,17,0,170,3,3,No,No
