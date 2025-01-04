@@ -1,0 +1,1001 @@
+Task ID,Employee ID,Employee Name,Task Name,Assigned By,Phase,Start Date,Due Date,End Date,Escalation,Reopened,Notes/Reason,Completion Status,Performance Score
+T0001,E093,Employee_50,Task_151,M002,Not Started,2025-01-01,2025-01-15,N/A,No,No,N/A,Not Started,
+T0002,E035,Employee_56,Task_47,M003,Cancelled,2025-03-01,2025-03-11,N/A,No,No,N/A,Cancelled,
+T0003,E090,Employee_27,Task_197,M003,Not Started,2025-11-10,2025-11-18,N/A,No,No,N/A,Not Started,
+T0004,E093,Employee_51,Task_114,M001,Cancelled,2025-10-07,2025-10-12,N/A,No,No,N/A,Cancelled,
+T0005,E068,Employee_35,Task_131,M002,Done,2025-03-22,2025-04-06,2025-04-04,No,No,N/A,Completed,73.0
+T0006,E073,Employee_32,Task_67,M002,In Progress,2025-06-05,2025-06-20,N/A,No,No,N/A,In Progress,
+T0007,E069,Employee_68,Task_113,M002,Postponed,2025-01-31,2025-02-11,N/A,No,No,Dependency on other functionality,Postponed,
+T0008,E064,Employee_70,Task_95,M003,Not Started,2025-01-28,2025-02-12,N/A,No,No,N/A,Not Started,
+T0009,E034,Employee_84,Task_52,M002,Not Started,2025-06-29,2025-07-13,N/A,No,No,N/A,Not Started,
+T0010,E003,Employee_73,Task_140,M002,Cancelled,2025-08-08,2025-08-14,N/A,No,No,Resource unavailability,Cancelled,
+T0011,E014,Employee_38,Task_169,M002,In Progress,2025-08-03,2025-08-15,N/A,No,No,N/A,In Progress,
+T0012,E055,Employee_18,Task_45,M003,Cancelled,2025-10-13,2025-10-25,N/A,No,No,Dependency on other functionality,Cancelled,
+T0013,E073,Employee_11,Task_169,M002,In Progress,2025-04-05,2025-04-16,N/A,No,No,N/A,In Progress,
+T0014,E024,Employee_47,Task_175,M001,Postponed,2025-10-20,2025-10-31,N/A,No,No,Dependency on other functionality,Postponed,
+T0015,E015,Employee_89,Task_101,M002,Behind Track,2025-09-01,2025-09-16,2025-09-10,No,No,Dependency on other functionality,Behind Track,78.0
+T0016,E063,Employee_50,Task_5,M003,Behind Track,2025-05-21,2025-05-26,2025-06-10,No,No,Resource unavailability,Behind Track,88.0
+T0017,E090,Employee_75,Task_45,M001,Done,2025-04-18,2025-05-03,2025-04-23,Yes,Yes,N/A,Completed,87.0
+T0018,E080,Employee_87,Task_159,M002,Not Started,2025-11-22,2025-12-05,N/A,No,No,N/A,Not Started,
+T0019,E023,Employee_3,Task_117,M002,Postponed,2025-04-28,2025-05-08,N/A,No,No,Dependency on other functionality,Postponed,
+T0020,E061,Employee_19,Task_90,M001,Postponed,2025-08-08,2025-08-19,N/A,No,No,Resource unavailability,Postponed,
+T0021,E049,Employee_94,Task_175,M002,Postponed,2025-11-23,2025-11-28,N/A,No,No,N/A,Postponed,
+T0022,E022,Employee_31,Task_80,M003,Cancelled,2025-08-24,2025-09-03,N/A,No,No,Resource unavailability,Cancelled,
+T0023,E066,Employee_100,Task_34,M001,Not Started,2025-02-22,2025-03-08,N/A,No,No,N/A,Not Started,
+T0024,E041,Employee_11,Task_159,M003,In Progress,2025-10-28,2025-11-12,N/A,No,No,N/A,In Progress,
+T0025,E008,Employee_66,Task_105,M003,In Progress,2025-03-02,2025-03-12,N/A,No,No,N/A,In Progress,
+T0026,E082,Employee_63,Task_125,M002,In Progress,2025-11-10,2025-11-18,N/A,No,No,N/A,In Progress,
+T0027,E047,Employee_81,Task_40,M003,In Progress,2025-03-18,2025-03-23,N/A,No,No,N/A,In Progress,
+T0028,E056,Employee_45,Task_90,M003,Done,2025-02-15,2025-02-22,2025-03-04,No,No,N/A,Completed,82.0
+T0029,E050,Employee_10,Task_130,M002,In Progress,2025-03-27,2025-04-01,N/A,No,No,N/A,In Progress,
+T0030,E082,Employee_54,Task_179,M002,Postponed,2025-10-22,2025-11-02,N/A,No,No,Dependency on other functionality,Postponed,
+T0031,E022,Employee_26,Task_123,M002,Not Started,2025-09-21,2025-10-05,N/A,No,No,N/A,Not Started,
+T0032,E066,Employee_53,Task_6,M001,Not Started,2025-12-22,2025-12-30,N/A,No,No,N/A,Not Started,
+T0033,E031,Employee_28,Task_113,M003,In Progress,2025-11-27,2025-12-11,N/A,No,No,N/A,In Progress,
+T0034,E054,Employee_25,Task_196,M001,Done,2025-02-19,2025-03-05,2025-03-04,Yes,Yes,N/A,Completed,74.0
+T0035,E096,Employee_32,Task_23,M001,Behind Track,2025-04-08,2025-04-20,2025-04-21,No,No,Client requirement changes,Behind Track,71.0
+T0036,E011,Employee_26,Task_103,M003,Not Started,2025-02-17,2025-02-27,N/A,No,No,N/A,Not Started,
+T0037,E040,Employee_84,Task_71,M002,In Progress,2025-12-20,2025-12-25,N/A,No,No,N/A,In Progress,
+T0038,E096,Employee_95,Task_136,M001,Behind Track,2025-05-06,2025-05-16,2025-05-14,No,No,Dependency on other functionality,Behind Track,100.0
+T0039,E081,Employee_13,Task_157,M002,Not Started,2025-12-07,2025-12-20,N/A,No,No,N/A,Not Started,
+T0040,E098,Employee_73,Task_88,M003,Done,2025-11-12,2025-11-23,2025-11-25,No,No,N/A,Completed,72.0
+T0041,E048,Employee_25,Task_130,M001,Cancelled,2025-04-30,2025-05-12,N/A,No,No,Resource unavailability,Cancelled,
+T0042,E078,Employee_67,Task_150,M001,Cancelled,2025-08-31,2025-09-14,N/A,No,No,Resource unavailability,Cancelled,
+T0043,E016,Employee_30,Task_74,M003,Cancelled,2025-04-08,2025-04-18,N/A,No,No,N/A,Cancelled,
+T0044,E021,Employee_84,Task_188,M003,Cancelled,2025-10-20,2025-10-31,N/A,No,No,Resource unavailability,Cancelled,
+T0045,E080,Employee_75,Task_5,M002,Done,2025-12-01,2025-12-08,2025-12-18,Yes,Yes,N/A,Completed,82.0
+T0046,E025,Employee_100,Task_197,M001,Cancelled,2025-07-13,2025-07-23,N/A,No,No,Resource unavailability,Cancelled,
+T0047,E044,Employee_85,Task_97,M003,Behind Track,2025-07-04,2025-07-09,2025-07-19,No,No,Resource unavailability,Behind Track,79.0
+T0048,E060,Employee_29,Task_123,M001,Behind Track,2025-03-13,2025-03-27,2025-03-17,No,No,Dependency on other functionality,Behind Track,93.0
+T0049,E035,Employee_12,Task_198,M002,Cancelled,2025-08-15,2025-08-21,N/A,No,No,Dependency on other functionality,Cancelled,
+T0050,E091,Employee_50,Task_133,M002,Not Started,2025-01-18,2025-01-28,N/A,No,No,N/A,Not Started,
+T0051,E001,Employee_78,Task_128,M002,In Progress,2025-12-10,2025-12-22,N/A,No,No,N/A,In Progress,
+T0052,E048,Employee_66,Task_12,M003,Not Started,2025-02-18,2025-02-27,N/A,No,No,N/A,Not Started,
+T0053,E081,Employee_19,Task_92,M001,Cancelled,2025-05-26,2025-05-31,N/A,No,No,N/A,Cancelled,
+T0054,E042,Employee_95,Task_112,M002,Done,2025-08-18,2025-08-28,2025-08-23,No,No,N/A,Completed,83.0
+T0055,E082,Employee_28,Task_117,M002,Behind Track,2025-12-11,2025-12-16,2025-12-28,No,No,Resource unavailability,Behind Track,70.0
+T0056,E011,Employee_44,Task_164,M003,Done,2025-06-19,2025-06-24,2025-07-05,No,No,N/A,Completed,84.0
+T0057,E075,Employee_55,Task_148,M001,Postponed,2025-03-19,2025-03-27,N/A,No,No,Resource unavailability,Postponed,
+T0058,E088,Employee_17,Task_45,M003,In Progress,2025-07-27,2025-08-05,N/A,No,No,N/A,In Progress,
+T0059,E074,Employee_74,Task_185,M001,In Progress,2025-11-10,2025-11-19,N/A,No,No,N/A,In Progress,
+T0060,E091,Employee_79,Task_153,M002,Cancelled,2025-11-13,2025-11-24,N/A,No,No,Dependency on other functionality,Cancelled,
+T0061,E055,Employee_94,Task_195,M001,Behind Track,2025-06-25,2025-07-10,2025-07-04,No,No,N/A,Behind Track,72.0
+T0062,E059,Employee_39,Task_188,M003,Behind Track,2025-04-04,2025-04-11,2025-04-07,No,No,N/A,Behind Track,73.0
+T0063,E058,Employee_82,Task_4,M003,Done,2025-06-19,2025-06-25,2025-06-21,Yes,Yes,N/A,Completed,86.0
+T0064,E065,Employee_70,Task_144,M001,Postponed,2025-09-20,2025-09-25,N/A,No,No,N/A,Postponed,
+T0065,E071,Employee_71,Task_131,M002,Not Started,2025-10-30,2025-11-12,N/A,No,No,N/A,Not Started,
+T0066,E099,Employee_3,Task_144,M002,Done,2025-11-12,2025-11-21,2025-11-25,Yes,Yes,N/A,Completed,99.0
+T0067,E097,Employee_31,Task_189,M002,In Progress,2025-02-24,2025-03-04,N/A,No,No,N/A,In Progress,
+T0068,E095,Employee_52,Task_62,M001,Postponed,2025-06-23,2025-07-08,N/A,No,No,Resource unavailability,Postponed,
+T0069,E040,Employee_56,Task_172,M001,Cancelled,2025-09-18,2025-09-26,N/A,No,No,Resource unavailability,Cancelled,
+T0070,E089,Employee_62,Task_134,M003,In Progress,2025-12-02,2025-12-14,N/A,No,No,N/A,In Progress,
+T0071,E069,Employee_97,Task_131,M002,Behind Track,2025-10-24,2025-11-08,2025-11-13,No,No,N/A,Behind Track,89.0
+T0072,E099,Employee_52,Task_29,M003,Postponed,2025-10-10,2025-10-20,N/A,No,No,Dependency on other functionality,Postponed,
+T0073,E010,Employee_47,Task_43,M002,Behind Track,2025-12-15,2025-12-29,2025-12-31,No,No,Resource unavailability,Behind Track,93.0
+T0074,E055,Employee_24,Task_93,M003,In Progress,2025-11-09,2025-11-16,N/A,No,No,N/A,In Progress,
+T0075,E067,Employee_37,Task_54,M002,Done,2025-08-16,2025-08-23,2025-09-04,Yes,Yes,N/A,Completed,93.0
+T0076,E068,Employee_91,Task_60,M003,In Progress,2025-03-28,2025-04-05,N/A,No,No,N/A,In Progress,
+T0077,E095,Employee_78,Task_155,M003,In Progress,2025-06-26,2025-07-11,N/A,No,No,N/A,In Progress,
+T0078,E038,Employee_89,Task_38,M001,Cancelled,2025-01-24,2025-01-30,N/A,No,No,Client requirement changes,Cancelled,
+T0079,E058,Employee_97,Task_28,M003,Behind Track,2025-03-18,2025-03-26,2025-04-01,No,No,N/A,Behind Track,93.0
+T0080,E009,Employee_66,Task_92,M003,Not Started,2025-05-03,2025-05-14,N/A,No,No,N/A,Not Started,
+T0081,E085,Employee_64,Task_23,M003,Postponed,2025-11-30,2025-12-07,N/A,No,No,Dependency on other functionality,Postponed,
+T0082,E049,Employee_59,Task_148,M002,Behind Track,2025-06-03,2025-06-14,2025-06-07,No,No,Dependency on other functionality,Behind Track,79.0
+T0083,E011,Employee_80,Task_7,M003,Not Started,2025-07-08,2025-07-13,N/A,No,No,N/A,Not Started,
+T0084,E028,Employee_76,Task_19,M002,Done,2025-09-21,2025-10-01,2025-10-09,No,No,N/A,Completed,81.0
+T0085,E067,Employee_70,Task_60,M001,In Progress,2025-06-01,2025-06-16,N/A,No,No,N/A,In Progress,
+T0086,E077,Employee_32,Task_44,M003,Postponed,2025-04-16,2025-04-23,N/A,No,No,Dependency on other functionality,Postponed,
+T0087,E089,Employee_9,Task_184,M001,Behind Track,2025-03-11,2025-03-24,2025-03-31,No,No,Resource unavailability,Behind Track,90.0
+T0088,E066,Employee_20,Task_122,M003,Not Started,2025-06-28,2025-07-10,N/A,No,No,N/A,Not Started,
+T0089,E006,Employee_40,Task_185,M001,In Progress,2025-05-28,2025-06-11,N/A,No,No,N/A,In Progress,
+T0090,E013,Employee_28,Task_191,M002,Behind Track,2025-05-19,2025-05-28,2025-05-25,No,No,Client requirement changes,Behind Track,81.0
+T0091,E001,Employee_70,Task_121,M001,Cancelled,2025-06-10,2025-06-15,N/A,No,No,Client requirement changes,Cancelled,
+T0092,E005,Employee_18,Task_113,M002,Behind Track,2025-11-10,2025-11-16,2025-11-11,No,No,N/A,Behind Track,97.0
+T0093,E018,Employee_69,Task_8,M002,Postponed,2025-03-19,2025-03-28,N/A,No,No,N/A,Postponed,
+T0094,E074,Employee_39,Task_130,M001,Not Started,2025-05-18,2025-06-01,N/A,No,No,N/A,Not Started,
+T0095,E086,Employee_44,Task_168,M002,Postponed,2025-01-27,2025-02-06,N/A,No,No,Resource unavailability,Postponed,
+T0096,E051,Employee_11,Task_133,M002,In Progress,2025-06-29,2025-07-10,N/A,No,No,N/A,In Progress,
+T0097,E046,Employee_77,Task_25,M001,In Progress,2025-10-09,2025-10-17,N/A,No,No,N/A,In Progress,
+T0098,E088,Employee_9,Task_180,M002,Behind Track,2025-04-24,2025-05-07,2025-04-27,No,No,N/A,Behind Track,76.0
+T0099,E086,Employee_97,Task_140,M003,Postponed,2025-02-12,2025-02-18,N/A,No,No,N/A,Postponed,
+T0100,E083,Employee_31,Task_5,M003,Behind Track,2025-03-23,2025-04-01,2025-03-31,No,No,Client requirement changes,Behind Track,87.0
+T0101,E071,Employee_96,Task_111,M002,Done,2025-10-13,2025-10-28,2025-10-18,No,No,N/A,Completed,93.0
+T0102,E058,Employee_25,Task_61,M002,Done,2025-01-19,2025-01-30,2025-02-07,Yes,Yes,N/A,Completed,91.0
+T0103,E058,Employee_39,Task_74,M002,Cancelled,2025-03-29,2025-04-04,N/A,No,No,Resource unavailability,Cancelled,
+T0104,E047,Employee_57,Task_153,M003,Not Started,2025-05-26,2025-06-08,N/A,No,No,N/A,Not Started,
+T0105,E071,Employee_23,Task_94,M001,Postponed,2025-03-16,2025-03-21,N/A,No,No,Resource unavailability,Postponed,
+T0106,E073,Employee_17,Task_131,M002,Done,2025-06-20,2025-06-25,2025-06-26,Yes,Yes,N/A,Completed,84.0
+T0107,E049,Employee_2,Task_115,M001,In Progress,2025-05-30,2025-06-05,N/A,No,No,N/A,In Progress,
+T0108,E076,Employee_71,Task_64,M001,Cancelled,2025-06-20,2025-06-25,N/A,No,No,Client requirement changes,Cancelled,
+T0109,E011,Employee_25,Task_172,M003,Done,2025-09-18,2025-09-23,2025-09-29,No,No,N/A,Completed,72.0
+T0110,E090,Employee_83,Task_185,M002,Not Started,2025-05-25,2025-06-01,N/A,No,No,N/A,Not Started,
+T0111,E079,Employee_79,Task_187,M002,Done,2025-05-11,2025-05-19,2025-05-15,No,No,N/A,Completed,74.0
+T0112,E051,Employee_73,Task_19,M003,Cancelled,2025-06-16,2025-06-21,N/A,No,No,N/A,Cancelled,
+T0113,E029,Employee_49,Task_63,M001,Done,2025-12-26,2026-01-03,2025-12-27,Yes,Yes,N/A,Completed,97.0
+T0114,E054,Employee_79,Task_197,M001,Postponed,2025-09-13,2025-09-22,N/A,No,No,Client requirement changes,Postponed,
+T0115,E003,Employee_75,Task_182,M002,Done,2025-05-25,2025-06-05,2025-06-03,Yes,Yes,N/A,Completed,81.0
+T0116,E053,Employee_39,Task_177,M003,Postponed,2025-03-14,2025-03-26,N/A,No,No,Resource unavailability,Postponed,
+T0117,E048,Employee_8,Task_162,M002,Done,2025-05-09,2025-05-15,2025-05-26,No,No,N/A,Completed,92.0
+T0118,E018,Employee_46,Task_48,M002,Behind Track,2025-07-28,2025-08-07,2025-08-09,No,No,Client requirement changes,Behind Track,75.0
+T0119,E024,Employee_22,Task_165,M003,Postponed,2025-08-11,2025-08-19,N/A,No,No,Client requirement changes,Postponed,
+T0120,E096,Employee_100,Task_194,M003,Cancelled,2025-03-01,2025-03-10,N/A,No,No,Resource unavailability,Cancelled,
+T0121,E044,Employee_46,Task_179,M002,In Progress,2025-12-15,2025-12-26,N/A,No,No,N/A,In Progress,
+T0122,E046,Employee_89,Task_130,M001,Behind Track,2025-04-11,2025-04-26,2025-04-17,No,No,N/A,Behind Track,77.0
+T0123,E086,Employee_79,Task_54,M001,Behind Track,2025-08-31,2025-09-15,2025-09-06,No,No,N/A,Behind Track,70.0
+T0124,E059,Employee_4,Task_47,M002,Behind Track,2025-01-17,2025-01-24,2025-02-03,No,No,Client requirement changes,Behind Track,95.0
+T0125,E022,Employee_53,Task_183,M003,Not Started,2025-07-21,2025-07-28,N/A,No,No,N/A,Not Started,
+T0126,E092,Employee_79,Task_152,M003,Not Started,2025-01-12,2025-01-24,N/A,No,No,N/A,Not Started,
+T0127,E031,Employee_82,Task_45,M002,In Progress,2025-07-14,2025-07-23,N/A,No,No,N/A,In Progress,
+T0128,E057,Employee_22,Task_8,M001,Not Started,2025-09-10,2025-09-17,N/A,No,No,N/A,Not Started,
+T0129,E093,Employee_46,Task_124,M003,Postponed,2025-07-16,2025-07-27,N/A,No,No,N/A,Postponed,
+T0130,E004,Employee_90,Task_170,M003,Postponed,2025-04-01,2025-04-13,N/A,No,No,Dependency on other functionality,Postponed,
+T0131,E007,Employee_59,Task_5,M003,Done,2025-05-23,2025-06-05,2025-06-12,Yes,Yes,N/A,Completed,94.0
+T0132,E073,Employee_99,Task_12,M002,Not Started,2025-10-01,2025-10-08,N/A,No,No,N/A,Not Started,
+T0133,E006,Employee_22,Task_194,M002,Not Started,2025-09-05,2025-09-18,N/A,No,No,N/A,Not Started,
+T0134,E049,Employee_82,Task_21,M001,Postponed,2025-08-19,2025-08-24,N/A,No,No,N/A,Postponed,
+T0135,E094,Employee_10,Task_165,M002,Behind Track,2025-06-17,2025-06-30,2025-06-19,No,No,N/A,Behind Track,78.0
+T0136,E032,Employee_3,Task_85,M001,Done,2025-12-11,2025-12-26,2025-12-29,No,No,N/A,Completed,82.0
+T0137,E005,Employee_99,Task_24,M002,Cancelled,2025-04-11,2025-04-20,N/A,No,No,Dependency on other functionality,Cancelled,
+T0138,E058,Employee_55,Task_146,M001,Postponed,2025-08-17,2025-09-01,N/A,No,No,N/A,Postponed,
+T0139,E091,Employee_25,Task_95,M003,In Progress,2025-03-12,2025-03-21,N/A,No,No,N/A,In Progress,
+T0140,E021,Employee_88,Task_49,M003,Not Started,2025-01-03,2025-01-15,N/A,No,No,N/A,Not Started,
+T0141,E005,Employee_8,Task_177,M001,Done,2025-06-06,2025-06-20,2025-06-21,No,No,N/A,Completed,85.0
+T0142,E039,Employee_2,Task_13,M003,Cancelled,2025-10-16,2025-10-23,N/A,No,No,N/A,Cancelled,
+T0143,E041,Employee_7,Task_95,M001,In Progress,2025-09-05,2025-09-14,N/A,No,No,N/A,In Progress,
+T0144,E084,Employee_49,Task_63,M003,Behind Track,2025-12-07,2025-12-22,2025-12-27,No,No,Resource unavailability,Behind Track,75.0
+T0145,E059,Employee_65,Task_21,M001,In Progress,2025-08-01,2025-08-10,N/A,No,No,N/A,In Progress,
+T0146,E100,Employee_28,Task_81,M003,Behind Track,2025-03-22,2025-04-02,2025-04-09,No,No,Resource unavailability,Behind Track,74.0
+T0147,E041,Employee_4,Task_7,M003,Done,2025-11-21,2025-11-29,2025-12-10,No,No,N/A,Completed,72.0
+T0148,E032,Employee_61,Task_38,M003,Cancelled,2025-02-25,2025-03-02,N/A,No,No,Resource unavailability,Cancelled,
+T0149,E022,Employee_100,Task_184,M002,Cancelled,2025-12-25,2026-01-09,N/A,No,No,Dependency on other functionality,Cancelled,
+T0150,E016,Employee_15,Task_19,M003,Behind Track,2025-10-08,2025-10-23,2025-10-10,No,No,Client requirement changes,Behind Track,73.0
+T0151,E098,Employee_36,Task_148,M001,Cancelled,2025-02-08,2025-02-14,N/A,No,No,Client requirement changes,Cancelled,
+T0152,E015,Employee_31,Task_13,M002,Cancelled,2025-11-09,2025-11-23,N/A,No,No,N/A,Cancelled,
+T0153,E004,Employee_88,Task_177,M001,Not Started,2025-08-14,2025-08-24,N/A,No,No,N/A,Not Started,
+T0154,E037,Employee_28,Task_178,M001,Done,2025-05-04,2025-05-19,2025-05-18,Yes,Yes,N/A,Completed,95.0
+T0155,E006,Employee_25,Task_9,M001,Cancelled,2025-01-25,2025-01-31,N/A,No,No,Dependency on other functionality,Cancelled,
+T0156,E016,Employee_71,Task_161,M002,Not Started,2025-09-01,2025-09-10,N/A,No,No,N/A,Not Started,
+T0157,E023,Employee_6,Task_180,M001,Postponed,2025-01-22,2025-02-02,N/A,No,No,Dependency on other functionality,Postponed,
+T0158,E045,Employee_30,Task_74,M003,Not Started,2025-10-19,2025-10-31,N/A,No,No,N/A,Not Started,
+T0159,E097,Employee_27,Task_134,M001,In Progress,2025-02-19,2025-03-02,N/A,No,No,N/A,In Progress,
+T0160,E035,Employee_89,Task_193,M001,Done,2025-07-12,2025-07-20,2025-07-17,No,No,N/A,Completed,86.0
+T0161,E090,Employee_40,Task_74,M002,Not Started,2025-11-10,2025-11-15,N/A,No,No,N/A,Not Started,
+T0162,E025,Employee_40,Task_183,M001,Cancelled,2025-10-06,2025-10-15,N/A,No,No,Resource unavailability,Cancelled,
+T0163,E011,Employee_57,Task_1,M001,Behind Track,2025-11-08,2025-11-20,2025-11-11,No,No,Client requirement changes,Behind Track,83.0
+T0164,E042,Employee_3,Task_157,M001,Behind Track,2025-03-05,2025-03-17,2025-03-12,No,No,Dependency on other functionality,Behind Track,80.0
+T0165,E041,Employee_41,Task_53,M001,Not Started,2025-03-21,2025-03-26,N/A,No,No,N/A,Not Started,
+T0166,E084,Employee_50,Task_106,M001,Postponed,2025-10-11,2025-10-25,N/A,No,No,Dependency on other functionality,Postponed,
+T0167,E024,Employee_71,Task_200,M002,Behind Track,2025-06-30,2025-07-05,2025-07-19,No,No,Client requirement changes,Behind Track,98.0
+T0168,E063,Employee_31,Task_163,M001,Cancelled,2025-11-25,2025-12-01,N/A,No,No,Dependency on other functionality,Cancelled,
+T0169,E077,Employee_60,Task_106,M002,In Progress,2025-05-01,2025-05-10,N/A,No,No,N/A,In Progress,
+T0170,E036,Employee_48,Task_6,M003,Cancelled,2025-10-02,2025-10-15,N/A,No,No,Resource unavailability,Cancelled,
+T0171,E011,Employee_36,Task_119,M003,In Progress,2025-07-01,2025-07-13,N/A,No,No,N/A,In Progress,
+T0172,E037,Employee_6,Task_110,M002,Not Started,2025-07-20,2025-08-03,N/A,No,No,N/A,Not Started,
+T0173,E025,Employee_57,Task_15,M003,Postponed,2025-06-26,2025-07-02,N/A,No,No,Resource unavailability,Postponed,
+T0174,E019,Employee_32,Task_128,M002,In Progress,2025-09-17,2025-09-26,N/A,No,No,N/A,In Progress,
+T0175,E067,Employee_2,Task_75,M001,Behind Track,2025-09-27,2025-10-04,2025-09-28,No,No,Resource unavailability,Behind Track,80.0
+T0176,E043,Employee_94,Task_14,M003,Behind Track,2025-04-23,2025-05-01,2025-05-07,No,No,N/A,Behind Track,95.0
+T0177,E012,Employee_62,Task_2,M003,Postponed,2025-03-10,2025-03-19,N/A,No,No,Dependency on other functionality,Postponed,
+T0178,E090,Employee_60,Task_59,M001,Behind Track,2025-05-05,2025-05-10,2025-05-11,No,No,Resource unavailability,Behind Track,73.0
+T0179,E067,Employee_6,Task_168,M001,In Progress,2025-05-22,2025-06-04,N/A,No,No,N/A,In Progress,
+T0180,E004,Employee_9,Task_3,M002,Cancelled,2025-03-03,2025-03-12,N/A,No,No,Client requirement changes,Cancelled,
+T0181,E061,Employee_97,Task_160,M001,In Progress,2025-09-17,2025-09-22,N/A,No,No,N/A,In Progress,
+T0182,E067,Employee_32,Task_57,M001,Done,2025-03-04,2025-03-19,2025-03-17,Yes,Yes,N/A,Completed,97.0
+T0183,E096,Employee_5,Task_3,M002,Done,2025-11-25,2025-12-08,2025-12-10,No,No,N/A,Completed,77.0
+T0184,E054,Employee_22,Task_133,M002,In Progress,2025-10-15,2025-10-29,N/A,No,No,N/A,In Progress,
+T0185,E006,Employee_63,Task_142,M001,Postponed,2025-04-29,2025-05-08,N/A,No,No,Client requirement changes,Postponed,
+T0186,E017,Employee_23,Task_4,M001,Not Started,2025-12-15,2025-12-20,N/A,No,No,N/A,Not Started,
+T0187,E054,Employee_41,Task_52,M003,Done,2025-09-18,2025-09-27,2025-09-23,No,No,N/A,Completed,99.0
+T0188,E059,Employee_53,Task_76,M002,Postponed,2025-09-27,2025-10-02,N/A,No,No,Client requirement changes,Postponed,
+T0189,E060,Employee_44,Task_57,M001,Not Started,2025-05-06,2025-05-20,N/A,No,No,N/A,Not Started,
+T0190,E044,Employee_35,Task_173,M001,Postponed,2025-03-05,2025-03-16,N/A,No,No,Dependency on other functionality,Postponed,
+T0191,E045,Employee_81,Task_140,M002,Postponed,2025-08-11,2025-08-24,N/A,No,No,Resource unavailability,Postponed,
+T0192,E060,Employee_8,Task_33,M002,Postponed,2025-02-03,2025-02-16,N/A,No,No,N/A,Postponed,
+T0193,E064,Employee_100,Task_48,M001,Not Started,2025-04-08,2025-04-13,N/A,No,No,N/A,Not Started,
+T0194,E085,Employee_56,Task_85,M001,Postponed,2025-11-28,2025-12-03,N/A,No,No,N/A,Postponed,
+T0195,E076,Employee_99,Task_44,M003,Cancelled,2025-01-25,2025-02-04,N/A,No,No,N/A,Cancelled,
+T0196,E051,Employee_36,Task_53,M003,Behind Track,2025-07-29,2025-08-04,2025-08-13,No,No,Client requirement changes,Behind Track,89.0
+T0197,E053,Employee_64,Task_163,M001,Behind Track,2025-02-11,2025-02-18,2025-02-12,No,No,Dependency on other functionality,Behind Track,71.0
+T0198,E046,Employee_88,Task_105,M002,Behind Track,2025-06-04,2025-06-15,2025-06-20,No,No,Client requirement changes,Behind Track,87.0
+T0199,E048,Employee_87,Task_91,M003,In Progress,2025-04-08,2025-04-13,N/A,No,No,N/A,In Progress,
+T0200,E079,Employee_53,Task_125,M003,Cancelled,2025-10-15,2025-10-27,N/A,No,No,Resource unavailability,Cancelled,
+T0201,E066,Employee_60,Task_169,M001,Postponed,2025-06-01,2025-06-09,N/A,No,No,Dependency on other functionality,Postponed,
+T0202,E026,Employee_67,Task_175,M001,Postponed,2025-04-01,2025-04-13,N/A,No,No,Resource unavailability,Postponed,
+T0203,E017,Employee_34,Task_43,M003,Postponed,2025-04-20,2025-05-05,N/A,No,No,Client requirement changes,Postponed,
+T0204,E027,Employee_29,Task_152,M002,Postponed,2025-11-08,2025-11-19,N/A,No,No,Resource unavailability,Postponed,
+T0205,E079,Employee_87,Task_45,M001,Done,2025-08-02,2025-08-14,2025-08-14,Yes,Yes,N/A,Completed,78.0
+T0206,E046,Employee_29,Task_181,M001,Done,2025-06-20,2025-07-02,2025-06-30,No,No,N/A,Completed,71.0
+T0207,E100,Employee_66,Task_81,M003,Postponed,2025-12-20,2025-12-28,N/A,No,No,N/A,Postponed,
+T0208,E069,Employee_54,Task_153,M001,Behind Track,2025-10-24,2025-10-29,2025-10-29,No,No,Resource unavailability,Behind Track,100.0
+T0209,E027,Employee_66,Task_108,M001,Done,2025-06-25,2025-07-06,2025-07-14,Yes,Yes,N/A,Completed,91.0
+T0210,E079,Employee_22,Task_175,M001,Not Started,2025-01-15,2025-01-20,N/A,No,No,N/A,Not Started,
+T0211,E002,Employee_37,Task_100,M001,Done,2025-10-06,2025-10-17,2025-10-16,No,No,N/A,Completed,72.0
+T0212,E020,Employee_60,Task_20,M001,In Progress,2025-05-24,2025-06-06,N/A,No,No,N/A,In Progress,
+T0213,E026,Employee_56,Task_70,M002,Cancelled,2025-11-16,2025-11-30,N/A,No,No,Client requirement changes,Cancelled,
+T0214,E014,Employee_70,Task_155,M003,In Progress,2025-06-27,2025-07-02,N/A,No,No,N/A,In Progress,
+T0215,E019,Employee_99,Task_158,M002,Postponed,2025-03-30,2025-04-07,N/A,No,No,Resource unavailability,Postponed,
+T0216,E098,Employee_96,Task_119,M002,Postponed,2025-05-30,2025-06-09,N/A,No,No,N/A,Postponed,
+T0217,E091,Employee_70,Task_173,M001,Done,2025-05-05,2025-05-18,2025-05-18,No,No,N/A,Completed,71.0
+T0218,E099,Employee_80,Task_34,M001,Behind Track,2025-02-12,2025-02-27,2025-02-20,No,No,Dependency on other functionality,Behind Track,70.0
+T0219,E059,Employee_3,Task_135,M001,Done,2025-11-17,2025-11-23,2025-11-28,No,No,N/A,Completed,88.0
+T0220,E013,Employee_40,Task_58,M003,Done,2025-08-20,2025-08-29,2025-09-06,No,No,N/A,Completed,86.0
+T0221,E037,Employee_90,Task_114,M002,Done,2025-06-08,2025-06-21,2025-06-19,No,No,N/A,Completed,82.0
+T0222,E035,Employee_63,Task_37,M003,Done,2025-06-06,2025-06-17,2025-06-25,Yes,Yes,N/A,Completed,86.0
+T0223,E041,Employee_69,Task_94,M003,Not Started,2025-03-01,2025-03-07,N/A,No,No,N/A,Not Started,
+T0224,E098,Employee_39,Task_19,M003,Cancelled,2025-07-22,2025-08-03,N/A,No,No,Resource unavailability,Cancelled,
+T0225,E023,Employee_17,Task_103,M002,Cancelled,2025-02-19,2025-02-26,N/A,No,No,Resource unavailability,Cancelled,
+T0226,E052,Employee_96,Task_22,M003,Cancelled,2025-07-05,2025-07-20,N/A,No,No,N/A,Cancelled,
+T0227,E057,Employee_2,Task_21,M001,Cancelled,2025-09-09,2025-09-14,N/A,No,No,Client requirement changes,Cancelled,
+T0228,E003,Employee_1,Task_183,M001,Postponed,2025-12-15,2025-12-21,N/A,No,No,Client requirement changes,Postponed,
+T0229,E095,Employee_84,Task_41,M003,Behind Track,2025-10-20,2025-11-03,2025-10-23,No,No,Dependency on other functionality,Behind Track,96.0
+T0230,E058,Employee_61,Task_161,M001,Behind Track,2025-07-24,2025-08-02,2025-07-26,No,No,N/A,Behind Track,84.0
+T0231,E087,Employee_35,Task_189,M002,Behind Track,2025-05-07,2025-05-21,2025-05-13,No,No,Dependency on other functionality,Behind Track,75.0
+T0232,E043,Employee_100,Task_125,M003,Postponed,2025-12-16,2025-12-31,N/A,No,No,N/A,Postponed,
+T0233,E081,Employee_66,Task_56,M003,Done,2025-01-15,2025-01-21,2025-01-16,Yes,Yes,N/A,Completed,91.0
+T0234,E015,Employee_10,Task_88,M003,Done,2025-10-20,2025-11-01,2025-10-30,No,No,N/A,Completed,94.0
+T0235,E006,Employee_31,Task_117,M001,Behind Track,2025-10-03,2025-10-16,2025-10-07,No,No,Client requirement changes,Behind Track,85.0
+T0236,E054,Employee_36,Task_93,M001,Postponed,2025-10-15,2025-10-25,N/A,No,No,N/A,Postponed,
+T0237,E072,Employee_87,Task_43,M001,Postponed,2025-08-02,2025-08-14,N/A,No,No,Resource unavailability,Postponed,
+T0238,E100,Employee_55,Task_124,M001,Done,2025-10-06,2025-10-18,2025-10-19,No,No,N/A,Completed,79.0
+T0239,E003,Employee_83,Task_182,M002,Done,2025-05-13,2025-05-25,2025-06-02,No,No,N/A,Completed,94.0
+T0240,E071,Employee_66,Task_90,M001,Postponed,2025-12-03,2025-12-13,N/A,No,No,Client requirement changes,Postponed,
+T0241,E030,Employee_33,Task_108,M003,Done,2025-09-06,2025-09-20,2025-09-20,Yes,Yes,N/A,Completed,88.0
+T0242,E097,Employee_24,Task_62,M002,Cancelled,2025-06-23,2025-07-07,N/A,No,No,Dependency on other functionality,Cancelled,
+T0243,E039,Employee_48,Task_198,M002,Postponed,2025-11-07,2025-11-15,N/A,No,No,N/A,Postponed,
+T0244,E046,Employee_3,Task_163,M002,Done,2025-08-16,2025-08-23,2025-09-04,No,No,N/A,Completed,96.0
+T0245,E029,Employee_2,Task_71,M003,Cancelled,2025-05-20,2025-06-02,N/A,No,No,Resource unavailability,Cancelled,
+T0246,E067,Employee_2,Task_10,M001,Not Started,2025-11-08,2025-11-19,N/A,No,No,N/A,Not Started,
+T0247,E013,Employee_6,Task_85,M002,Done,2025-09-01,2025-09-09,2025-09-09,No,No,N/A,Completed,88.0
+T0248,E012,Employee_61,Task_152,M003,In Progress,2025-12-28,2026-01-03,N/A,No,No,N/A,In Progress,
+T0249,E082,Employee_77,Task_148,M001,Behind Track,2025-09-04,2025-09-09,2025-09-17,No,No,Client requirement changes,Behind Track,74.0
+T0250,E024,Employee_8,Task_112,M002,Cancelled,2025-07-11,2025-07-17,N/A,No,No,N/A,Cancelled,
+T0251,E012,Employee_68,Task_30,M001,Done,2025-04-27,2025-05-09,2025-05-02,No,No,N/A,Completed,73.0
+T0252,E092,Employee_44,Task_119,M001,Cancelled,2025-10-03,2025-10-13,N/A,No,No,Client requirement changes,Cancelled,
+T0253,E003,Employee_57,Task_180,M001,Done,2025-08-20,2025-09-03,2025-08-29,No,No,N/A,Completed,72.0
+T0254,E098,Employee_26,Task_82,M002,Not Started,2025-12-13,2025-12-22,N/A,No,No,N/A,Not Started,
+T0255,E002,Employee_21,Task_18,M001,Not Started,2025-08-26,2025-09-03,N/A,No,No,N/A,Not Started,
+T0256,E078,Employee_97,Task_125,M003,Done,2025-03-30,2025-04-05,2025-04-07,Yes,Yes,N/A,Completed,89.0
+T0257,E098,Employee_15,Task_174,M002,Done,2025-10-13,2025-10-24,2025-10-31,Yes,Yes,N/A,Completed,98.0
+T0258,E036,Employee_1,Task_92,M001,Postponed,2025-08-23,2025-09-05,N/A,No,No,Resource unavailability,Postponed,
+T0259,E023,Employee_29,Task_136,M001,Not Started,2025-02-02,2025-02-12,N/A,No,No,N/A,Not Started,
+T0260,E029,Employee_3,Task_145,M003,Behind Track,2025-06-14,2025-06-19,2025-07-03,No,No,Resource unavailability,Behind Track,78.0
+T0261,E021,Employee_99,Task_180,M002,Postponed,2025-07-24,2025-08-01,N/A,No,No,Resource unavailability,Postponed,
+T0262,E020,Employee_52,Task_58,M001,Not Started,2025-04-24,2025-05-08,N/A,No,No,N/A,Not Started,
+T0263,E089,Employee_19,Task_194,M001,Done,2025-09-13,2025-09-19,2025-10-03,No,No,N/A,Completed,82.0
+T0264,E097,Employee_92,Task_139,M001,Postponed,2025-04-15,2025-04-23,N/A,No,No,Resource unavailability,Postponed,
+T0265,E027,Employee_42,Task_106,M001,Postponed,2025-09-25,2025-10-09,N/A,No,No,Dependency on other functionality,Postponed,
+T0266,E088,Employee_28,Task_106,M003,Behind Track,2025-11-16,2025-11-22,2025-11-25,No,No,Client requirement changes,Behind Track,97.0
+T0267,E038,Employee_80,Task_58,M002,In Progress,2025-05-06,2025-05-16,N/A,No,No,N/A,In Progress,
+T0268,E071,Employee_73,Task_69,M003,Cancelled,2025-01-02,2025-01-08,N/A,No,No,Resource unavailability,Cancelled,
+T0269,E028,Employee_49,Task_13,M003,Behind Track,2025-08-07,2025-08-20,2025-08-26,No,No,Resource unavailability,Behind Track,75.0
+T0270,E069,Employee_83,Task_100,M003,Postponed,2025-06-02,2025-06-10,N/A,No,No,Dependency on other functionality,Postponed,
+T0271,E100,Employee_42,Task_38,M002,Cancelled,2025-09-01,2025-09-13,N/A,No,No,Dependency on other functionality,Cancelled,
+T0272,E094,Employee_48,Task_114,M001,Behind Track,2025-10-05,2025-10-18,2025-10-23,No,No,Dependency on other functionality,Behind Track,74.0
+T0273,E071,Employee_79,Task_183,M003,Behind Track,2025-01-27,2025-02-02,2025-02-01,No,No,N/A,Behind Track,76.0
+T0274,E007,Employee_56,Task_129,M003,In Progress,2025-02-12,2025-02-27,N/A,No,No,N/A,In Progress,
+T0275,E002,Employee_79,Task_113,M001,Postponed,2025-02-02,2025-02-09,N/A,No,No,Client requirement changes,Postponed,
+T0276,E057,Employee_25,Task_56,M002,Done,2025-03-22,2025-04-02,2025-04-10,Yes,Yes,N/A,Completed,88.0
+T0277,E082,Employee_34,Task_58,M002,Behind Track,2025-09-21,2025-10-05,2025-09-22,No,No,N/A,Behind Track,90.0
+T0278,E088,Employee_40,Task_186,M003,Done,2025-10-18,2025-10-29,2025-11-04,No,No,N/A,Completed,89.0
+T0279,E043,Employee_81,Task_38,M002,In Progress,2025-11-13,2025-11-22,N/A,No,No,N/A,In Progress,
+T0280,E040,Employee_82,Task_125,M001,In Progress,2025-03-03,2025-03-10,N/A,No,No,N/A,In Progress,
+T0281,E021,Employee_77,Task_48,M003,Done,2025-04-12,2025-04-23,2025-04-30,Yes,Yes,N/A,Completed,77.0
+T0282,E018,Employee_76,Task_24,M001,In Progress,2025-02-09,2025-02-19,N/A,No,No,N/A,In Progress,
+T0283,E089,Employee_96,Task_167,M001,Cancelled,2025-04-11,2025-04-19,N/A,No,No,Client requirement changes,Cancelled,
+T0284,E063,Employee_14,Task_44,M001,Not Started,2025-10-16,2025-10-24,N/A,No,No,N/A,Not Started,
+T0285,E080,Employee_86,Task_64,M003,Done,2025-08-11,2025-08-26,2025-08-17,No,No,N/A,Completed,75.0
+T0286,E093,Employee_67,Task_171,M001,Behind Track,2025-05-23,2025-06-06,2025-06-08,No,No,Dependency on other functionality,Behind Track,91.0
+T0287,E072,Employee_25,Task_97,M001,Not Started,2025-06-05,2025-06-14,N/A,No,No,N/A,Not Started,
+T0288,E019,Employee_55,Task_91,M001,Done,2025-12-29,2026-01-07,2026-01-17,Yes,Yes,N/A,Completed,80.0
+T0289,E009,Employee_47,Task_19,M001,Done,2025-04-18,2025-05-03,2025-04-27,No,No,N/A,Completed,71.0
+T0290,E015,Employee_22,Task_115,M003,Cancelled,2025-12-16,2025-12-29,N/A,No,No,Client requirement changes,Cancelled,
+T0291,E096,Employee_58,Task_108,M002,Cancelled,2025-03-10,2025-03-18,N/A,No,No,Dependency on other functionality,Cancelled,
+T0292,E028,Employee_5,Task_172,M001,In Progress,2025-09-26,2025-10-08,N/A,No,No,N/A,In Progress,
+T0293,E078,Employee_5,Task_126,M003,Not Started,2025-09-29,2025-10-07,N/A,No,No,N/A,Not Started,
+T0294,E013,Employee_56,Task_85,M002,Not Started,2025-02-21,2025-03-05,N/A,No,No,N/A,Not Started,
+T0295,E056,Employee_44,Task_137,M003,Cancelled,2025-09-06,2025-09-11,N/A,No,No,N/A,Cancelled,
+T0296,E066,Employee_89,Task_104,M002,In Progress,2025-10-16,2025-10-24,N/A,No,No,N/A,In Progress,
+T0297,E002,Employee_39,Task_172,M003,Cancelled,2025-07-28,2025-08-04,N/A,No,No,Dependency on other functionality,Cancelled,
+T0298,E090,Employee_62,Task_41,M002,Cancelled,2025-02-04,2025-02-12,N/A,No,No,Dependency on other functionality,Cancelled,
+T0299,E080,Employee_91,Task_48,M001,Postponed,2025-04-27,2025-05-08,N/A,No,No,N/A,Postponed,
+T0300,E048,Employee_57,Task_18,M001,Cancelled,2025-12-20,2025-12-26,N/A,No,No,Client requirement changes,Cancelled,
+T0301,E093,Employee_13,Task_186,M001,Postponed,2025-01-17,2025-01-31,N/A,No,No,Client requirement changes,Postponed,
+T0302,E088,Employee_81,Task_104,M002,In Progress,2025-08-15,2025-08-29,N/A,No,No,N/A,In Progress,
+T0303,E031,Employee_69,Task_131,M001,Done,2025-07-13,2025-07-27,2025-07-20,Yes,Yes,N/A,Completed,98.0
+T0304,E078,Employee_79,Task_61,M002,Done,2025-09-29,2025-10-13,2025-10-12,No,No,N/A,Completed,75.0
+T0305,E092,Employee_79,Task_85,M002,In Progress,2025-05-24,2025-06-05,N/A,No,No,N/A,In Progress,
+T0306,E038,Employee_85,Task_48,M001,In Progress,2025-06-18,2025-06-25,N/A,No,No,N/A,In Progress,
+T0307,E089,Employee_41,Task_28,M002,Cancelled,2025-09-18,2025-09-24,N/A,No,No,Client requirement changes,Cancelled,
+T0308,E027,Employee_88,Task_172,M003,Postponed,2025-05-06,2025-05-19,N/A,No,No,Dependency on other functionality,Postponed,
+T0309,E098,Employee_57,Task_192,M003,In Progress,2025-07-17,2025-07-31,N/A,No,No,N/A,In Progress,
+T0310,E079,Employee_49,Task_169,M001,Postponed,2025-05-25,2025-06-04,N/A,No,No,Resource unavailability,Postponed,
+T0311,E078,Employee_25,Task_152,M002,Postponed,2025-04-10,2025-04-22,N/A,No,No,N/A,Postponed,
+T0312,E065,Employee_85,Task_45,M001,Not Started,2025-12-21,2025-12-29,N/A,No,No,N/A,Not Started,
+T0313,E009,Employee_1,Task_77,M002,In Progress,2025-05-29,2025-06-09,N/A,No,No,N/A,In Progress,
+T0314,E011,Employee_64,Task_167,M003,Done,2025-05-28,2025-06-09,2025-06-06,No,No,N/A,Completed,91.0
+T0315,E040,Employee_91,Task_150,M002,Behind Track,2025-09-22,2025-10-07,2025-10-08,No,No,Client requirement changes,Behind Track,92.0
+T0316,E048,Employee_43,Task_112,M003,Cancelled,2025-04-14,2025-04-22,N/A,No,No,Dependency on other functionality,Cancelled,
+T0317,E020,Employee_25,Task_22,M002,Behind Track,2025-05-01,2025-05-14,2025-05-21,No,No,Client requirement changes,Behind Track,83.0
+T0318,E061,Employee_84,Task_161,M002,Done,2025-04-27,2025-05-04,2025-05-04,Yes,Yes,N/A,Completed,72.0
+T0319,E072,Employee_62,Task_176,M002,Not Started,2025-05-14,2025-05-25,N/A,No,No,N/A,Not Started,
+T0320,E073,Employee_52,Task_32,M002,Done,2025-08-30,2025-09-10,2025-09-18,No,No,N/A,Completed,83.0
+T0321,E048,Employee_4,Task_46,M003,Cancelled,2025-08-10,2025-08-24,N/A,No,No,Client requirement changes,Cancelled,
+T0322,E009,Employee_66,Task_131,M001,Not Started,2025-03-17,2025-03-23,N/A,No,No,N/A,Not Started,
+T0323,E058,Employee_84,Task_140,M001,Not Started,2025-05-15,2025-05-27,N/A,No,No,N/A,Not Started,
+T0324,E038,Employee_79,Task_131,M002,In Progress,2025-05-03,2025-05-08,N/A,No,No,N/A,In Progress,
+T0325,E017,Employee_1,Task_152,M002,In Progress,2025-01-02,2025-01-17,N/A,No,No,N/A,In Progress,
+T0326,E037,Employee_5,Task_141,M003,Behind Track,2025-06-20,2025-07-01,2025-06-21,No,No,N/A,Behind Track,85.0
+T0327,E055,Employee_63,Task_109,M001,Done,2025-05-13,2025-05-18,2025-05-28,No,No,N/A,Completed,73.0
+T0328,E003,Employee_100,Task_132,M001,Done,2025-11-14,2025-11-19,2025-11-17,Yes,Yes,N/A,Completed,94.0
+T0329,E058,Employee_18,Task_163,M003,In Progress,2025-07-01,2025-07-14,N/A,No,No,N/A,In Progress,
+T0330,E069,Employee_49,Task_41,M002,Postponed,2025-07-10,2025-07-20,N/A,No,No,Dependency on other functionality,Postponed,
+T0331,E050,Employee_31,Task_71,M003,Cancelled,2025-06-01,2025-06-12,N/A,No,No,N/A,Cancelled,
+T0332,E022,Employee_75,Task_65,M003,Not Started,2025-03-15,2025-03-27,N/A,No,No,N/A,Not Started,
+T0333,E008,Employee_95,Task_143,M003,Postponed,2025-03-10,2025-03-17,N/A,No,No,N/A,Postponed,
+T0334,E063,Employee_90,Task_165,M001,Not Started,2025-05-07,2025-05-20,N/A,No,No,N/A,Not Started,
+T0335,E037,Employee_51,Task_159,M003,Behind Track,2025-01-12,2025-01-27,2025-01-23,No,No,Dependency on other functionality,Behind Track,78.0
+T0336,E065,Employee_30,Task_200,M001,Done,2025-01-25,2025-02-07,2025-02-10,Yes,Yes,N/A,Completed,92.0
+T0337,E085,Employee_99,Task_41,M001,Cancelled,2025-02-21,2025-03-07,N/A,No,No,Dependency on other functionality,Cancelled,
+T0338,E067,Employee_71,Task_39,M003,Behind Track,2025-12-07,2025-12-17,2025-12-23,No,No,Dependency on other functionality,Behind Track,80.0
+T0339,E100,Employee_73,Task_59,M002,In Progress,2025-03-02,2025-03-07,N/A,No,No,N/A,In Progress,
+T0340,E039,Employee_29,Task_198,M002,Done,2025-11-02,2025-11-15,2025-11-14,Yes,Yes,N/A,Completed,95.0
+T0341,E013,Employee_38,Task_105,M002,Not Started,2025-06-06,2025-06-16,N/A,No,No,N/A,Not Started,
+T0342,E043,Employee_52,Task_159,M002,Cancelled,2025-02-11,2025-02-22,N/A,No,No,Client requirement changes,Cancelled,
+T0343,E053,Employee_55,Task_77,M002,Behind Track,2025-10-30,2025-11-14,2025-11-14,No,No,Resource unavailability,Behind Track,74.0
+T0344,E019,Employee_59,Task_74,M001,Behind Track,2025-04-07,2025-04-16,2025-04-08,No,No,Client requirement changes,Behind Track,78.0
+T0345,E024,Employee_29,Task_193,M003,Not Started,2025-10-27,2025-11-02,N/A,No,No,N/A,Not Started,
+T0346,E035,Employee_87,Task_20,M003,Behind Track,2025-08-11,2025-08-22,2025-08-20,No,No,Resource unavailability,Behind Track,94.0
+T0347,E042,Employee_95,Task_48,M003,Done,2025-01-24,2025-02-05,2025-02-04,No,No,N/A,Completed,84.0
+T0348,E021,Employee_25,Task_79,M001,Behind Track,2025-09-29,2025-10-09,2025-10-11,No,No,Dependency on other functionality,Behind Track,71.0
+T0349,E073,Employee_75,Task_23,M002,Postponed,2025-05-22,2025-06-03,N/A,No,No,Dependency on other functionality,Postponed,
+T0350,E071,Employee_60,Task_138,M001,Postponed,2025-01-12,2025-01-22,N/A,No,No,N/A,Postponed,
+T0351,E045,Employee_19,Task_148,M002,Cancelled,2025-03-13,2025-03-26,N/A,No,No,Dependency on other functionality,Cancelled,
+T0352,E018,Employee_66,Task_136,M001,Postponed,2025-02-11,2025-02-20,N/A,No,No,N/A,Postponed,
+T0353,E040,Employee_22,Task_183,M001,Done,2025-11-18,2025-12-03,2025-11-21,Yes,Yes,N/A,Completed,98.0
+T0354,E063,Employee_40,Task_78,M002,In Progress,2025-05-18,2025-05-28,N/A,No,No,N/A,In Progress,
+T0355,E042,Employee_89,Task_33,M003,Not Started,2025-09-30,2025-10-06,N/A,No,No,N/A,Not Started,
+T0356,E059,Employee_96,Task_91,M002,Postponed,2025-07-23,2025-07-28,N/A,No,No,N/A,Postponed,
+T0357,E050,Employee_22,Task_151,M002,Not Started,2025-03-17,2025-03-27,N/A,No,No,N/A,Not Started,
+T0358,E072,Employee_22,Task_17,M001,Not Started,2025-12-31,2026-01-05,N/A,No,No,N/A,Not Started,
+T0359,E054,Employee_7,Task_63,M001,In Progress,2025-06-06,2025-06-12,N/A,No,No,N/A,In Progress,
+T0360,E042,Employee_26,Task_59,M003,Behind Track,2025-11-14,2025-11-19,2025-11-20,No,No,N/A,Behind Track,83.0
+T0361,E085,Employee_3,Task_117,M002,Done,2025-12-14,2025-12-29,2026-01-03,No,No,N/A,Completed,82.0
+T0362,E086,Employee_59,Task_159,M003,Postponed,2025-01-01,2025-01-13,N/A,No,No,N/A,Postponed,
+T0363,E057,Employee_30,Task_81,M001,Postponed,2025-01-06,2025-01-20,N/A,No,No,Resource unavailability,Postponed,
+T0364,E035,Employee_91,Task_38,M001,Not Started,2025-01-30,2025-02-05,N/A,No,No,N/A,Not Started,
+T0365,E016,Employee_36,Task_70,M003,In Progress,2025-02-06,2025-02-11,N/A,No,No,N/A,In Progress,
+T0366,E097,Employee_38,Task_100,M001,Behind Track,2025-06-24,2025-07-02,2025-07-12,No,No,Dependency on other functionality,Behind Track,76.0
+T0367,E094,Employee_13,Task_142,M001,Postponed,2025-10-24,2025-11-05,N/A,No,No,Resource unavailability,Postponed,
+T0368,E036,Employee_45,Task_180,M001,In Progress,2025-02-05,2025-02-12,N/A,No,No,N/A,In Progress,
+T0369,E029,Employee_91,Task_124,M001,In Progress,2025-05-01,2025-05-08,N/A,No,No,N/A,In Progress,
+T0370,E079,Employee_10,Task_57,M001,Done,2025-07-04,2025-07-12,2025-07-17,Yes,Yes,N/A,Completed,95.0
+T0371,E089,Employee_67,Task_127,M003,Postponed,2025-02-22,2025-03-05,N/A,No,No,Resource unavailability,Postponed,
+T0372,E012,Employee_55,Task_74,M003,Not Started,2025-10-19,2025-10-29,N/A,No,No,N/A,Not Started,
+T0373,E095,Employee_62,Task_137,M001,Done,2025-03-07,2025-03-20,2025-03-25,Yes,Yes,N/A,Completed,77.0
+T0374,E018,Employee_25,Task_76,M003,Not Started,2025-08-02,2025-08-16,N/A,No,No,N/A,Not Started,
+T0375,E026,Employee_91,Task_127,M002,Cancelled,2025-01-27,2025-02-01,N/A,No,No,Dependency on other functionality,Cancelled,
+T0376,E067,Employee_78,Task_93,M002,Not Started,2025-04-09,2025-04-16,N/A,No,No,N/A,Not Started,
+T0377,E013,Employee_24,Task_91,M002,Cancelled,2025-01-13,2025-01-26,N/A,No,No,Resource unavailability,Cancelled,
+T0378,E019,Employee_19,Task_104,M002,Cancelled,2025-07-19,2025-07-26,N/A,No,No,Resource unavailability,Cancelled,
+T0379,E020,Employee_98,Task_171,M002,In Progress,2025-09-07,2025-09-19,N/A,No,No,N/A,In Progress,
+T0380,E030,Employee_72,Task_47,M002,Postponed,2025-01-12,2025-01-25,N/A,No,No,N/A,Postponed,
+T0381,E059,Employee_75,Task_141,M002,Cancelled,2025-06-12,2025-06-23,N/A,No,No,Resource unavailability,Cancelled,
+T0382,E011,Employee_26,Task_169,M003,Not Started,2025-10-20,2025-10-27,N/A,No,No,N/A,Not Started,
+T0383,E051,Employee_66,Task_66,M002,In Progress,2025-08-18,2025-08-31,N/A,No,No,N/A,In Progress,
+T0384,E077,Employee_54,Task_154,M001,Done,2025-06-08,2025-06-19,2025-06-12,Yes,Yes,N/A,Completed,80.0
+T0385,E091,Employee_69,Task_86,M001,Behind Track,2025-03-08,2025-03-18,2025-03-14,No,No,Dependency on other functionality,Behind Track,75.0
+T0386,E039,Employee_99,Task_83,M001,In Progress,2025-12-14,2025-12-19,N/A,No,No,N/A,In Progress,
+T0387,E088,Employee_11,Task_175,M003,In Progress,2025-03-16,2025-03-31,N/A,No,No,N/A,In Progress,
+T0388,E030,Employee_61,Task_73,M003,Not Started,2025-01-11,2025-01-26,N/A,No,No,N/A,Not Started,
+T0389,E031,Employee_40,Task_72,M001,Done,2025-01-09,2025-01-23,2025-01-26,Yes,Yes,N/A,Completed,84.0
+T0390,E042,Employee_58,Task_166,M001,Cancelled,2025-03-29,2025-04-08,N/A,No,No,N/A,Cancelled,
+T0391,E078,Employee_74,Task_64,M003,Cancelled,2025-03-14,2025-03-28,N/A,No,No,Client requirement changes,Cancelled,
+T0392,E073,Employee_86,Task_110,M002,Cancelled,2025-01-15,2025-01-28,N/A,No,No,Client requirement changes,Cancelled,
+T0393,E099,Employee_95,Task_107,M003,Not Started,2025-04-09,2025-04-15,N/A,No,No,N/A,Not Started,
+T0394,E024,Employee_48,Task_17,M003,Postponed,2025-04-17,2025-04-29,N/A,No,No,N/A,Postponed,
+T0395,E058,Employee_36,Task_37,M003,Cancelled,2025-02-12,2025-02-19,N/A,No,No,Client requirement changes,Cancelled,
+T0396,E027,Employee_36,Task_20,M002,Done,2025-06-20,2025-07-04,2025-06-25,No,No,N/A,Completed,90.0
+T0397,E088,Employee_61,Task_87,M001,Not Started,2025-01-16,2025-01-31,N/A,No,No,N/A,Not Started,
+T0398,E073,Employee_42,Task_18,M003,Cancelled,2025-06-18,2025-06-24,N/A,No,No,N/A,Cancelled,
+T0399,E095,Employee_92,Task_185,M002,Not Started,2025-02-08,2025-02-14,N/A,No,No,N/A,Not Started,
+T0400,E089,Employee_16,Task_178,M003,Behind Track,2025-02-11,2025-02-19,2025-02-14,No,No,Client requirement changes,Behind Track,87.0
+T0401,E063,Employee_8,Task_25,M001,In Progress,2025-07-21,2025-08-03,N/A,No,No,N/A,In Progress,
+T0402,E079,Employee_75,Task_183,M002,Postponed,2025-05-02,2025-05-16,N/A,No,No,Client requirement changes,Postponed,
+T0403,E020,Employee_75,Task_13,M001,Postponed,2025-09-16,2025-09-28,N/A,No,No,Client requirement changes,Postponed,
+T0404,E012,Employee_80,Task_12,M002,Done,2025-02-18,2025-02-28,2025-02-21,Yes,Yes,N/A,Completed,85.0
+T0405,E025,Employee_50,Task_10,M003,Cancelled,2025-11-07,2025-11-18,N/A,No,No,N/A,Cancelled,
+T0406,E006,Employee_11,Task_190,M003,In Progress,2025-02-05,2025-02-13,N/A,No,No,N/A,In Progress,
+T0407,E054,Employee_20,Task_64,M002,Behind Track,2025-07-31,2025-08-14,2025-08-19,No,No,Resource unavailability,Behind Track,70.0
+T0408,E004,Employee_32,Task_121,M002,Done,2025-06-30,2025-07-06,2025-07-03,No,No,N/A,Completed,84.0
+T0409,E032,Employee_6,Task_22,M003,Not Started,2025-09-13,2025-09-20,N/A,No,No,N/A,Not Started,
+T0410,E098,Employee_33,Task_148,M002,Not Started,2025-04-25,2025-05-05,N/A,No,No,N/A,Not Started,
+T0411,E020,Employee_26,Task_82,M002,Not Started,2025-10-26,2025-11-04,N/A,No,No,N/A,Not Started,
+T0412,E093,Employee_41,Task_198,M001,Done,2025-05-20,2025-05-30,2025-05-21,No,No,N/A,Completed,70.0
+T0413,E057,Employee_38,Task_151,M003,Postponed,2025-02-25,2025-03-12,N/A,No,No,Client requirement changes,Postponed,
+T0414,E066,Employee_94,Task_9,M003,Done,2025-11-16,2025-11-27,2025-11-17,No,No,N/A,Completed,90.0
+T0415,E076,Employee_97,Task_186,M001,Done,2025-05-30,2025-06-06,2025-06-15,Yes,Yes,N/A,Completed,72.0
+T0416,E095,Employee_88,Task_39,M003,In Progress,2025-11-16,2025-11-22,N/A,No,No,N/A,In Progress,
+T0417,E004,Employee_54,Task_62,M003,Behind Track,2025-11-17,2025-11-24,2025-11-21,No,No,Dependency on other functionality,Behind Track,70.0
+T0418,E089,Employee_55,Task_135,M003,Done,2025-01-16,2025-01-24,2025-01-22,No,No,N/A,Completed,85.0
+T0419,E081,Employee_87,Task_149,M003,Cancelled,2025-03-28,2025-04-07,N/A,No,No,Client requirement changes,Cancelled,
+T0420,E079,Employee_7,Task_54,M003,Postponed,2025-10-18,2025-10-23,N/A,No,No,Client requirement changes,Postponed,
+T0421,E052,Employee_28,Task_188,M002,Postponed,2025-12-06,2025-12-17,N/A,No,No,Resource unavailability,Postponed,
+T0422,E018,Employee_32,Task_38,M002,Done,2025-06-19,2025-07-02,2025-06-21,No,No,N/A,Completed,94.0
+T0423,E024,Employee_39,Task_193,M001,Done,2025-08-18,2025-08-27,2025-09-07,Yes,Yes,N/A,Completed,97.0
+T0424,E037,Employee_35,Task_41,M002,Postponed,2025-11-16,2025-11-26,N/A,No,No,N/A,Postponed,
+T0425,E091,Employee_37,Task_49,M001,Postponed,2025-09-27,2025-10-12,N/A,No,No,Resource unavailability,Postponed,
+T0426,E066,Employee_54,Task_57,M003,Cancelled,2025-07-02,2025-07-13,N/A,No,No,Client requirement changes,Cancelled,
+T0427,E056,Employee_66,Task_114,M002,Behind Track,2025-12-08,2025-12-17,2025-12-20,No,No,Dependency on other functionality,Behind Track,81.0
+T0428,E084,Employee_50,Task_200,M002,In Progress,2025-10-07,2025-10-21,N/A,No,No,N/A,In Progress,
+T0429,E042,Employee_57,Task_113,M003,Postponed,2025-02-17,2025-03-04,N/A,No,No,Resource unavailability,Postponed,
+T0430,E049,Employee_60,Task_87,M001,In Progress,2025-01-06,2025-01-12,N/A,No,No,N/A,In Progress,
+T0431,E046,Employee_45,Task_88,M002,Behind Track,2025-08-26,2025-09-08,2025-09-13,No,No,Dependency on other functionality,Behind Track,81.0
+T0432,E034,Employee_6,Task_130,M002,Done,2025-09-01,2025-09-13,2025-09-05,Yes,Yes,N/A,Completed,71.0
+T0433,E099,Employee_11,Task_14,M003,Cancelled,2025-05-10,2025-05-21,N/A,No,No,Dependency on other functionality,Cancelled,
+T0434,E020,Employee_95,Task_23,M001,Done,2025-05-11,2025-05-22,2025-05-30,No,No,N/A,Completed,96.0
+T0435,E041,Employee_33,Task_112,M001,Cancelled,2025-02-16,2025-02-23,N/A,No,No,N/A,Cancelled,
+T0436,E015,Employee_40,Task_107,M003,Cancelled,2025-10-27,2025-11-05,N/A,No,No,Dependency on other functionality,Cancelled,
+T0437,E029,Employee_84,Task_196,M002,Behind Track,2025-11-03,2025-11-14,2025-11-17,No,No,Dependency on other functionality,Behind Track,85.0
+T0438,E004,Employee_51,Task_151,M001,In Progress,2025-08-30,2025-09-04,N/A,No,No,N/A,In Progress,
+T0439,E043,Employee_9,Task_146,M003,In Progress,2025-02-02,2025-02-09,N/A,No,No,N/A,In Progress,
+T0440,E031,Employee_39,Task_75,M003,Behind Track,2025-07-15,2025-07-20,2025-07-17,No,No,Dependency on other functionality,Behind Track,76.0
+T0441,E083,Employee_88,Task_15,M002,Done,2025-05-11,2025-05-23,2025-05-14,Yes,Yes,N/A,Completed,92.0
+T0442,E080,Employee_47,Task_29,M003,Cancelled,2025-10-09,2025-10-14,N/A,No,No,Client requirement changes,Cancelled,
+T0443,E051,Employee_90,Task_163,M002,In Progress,2025-01-18,2025-01-29,N/A,No,No,N/A,In Progress,
+T0444,E073,Employee_64,Task_38,M003,Done,2025-04-15,2025-04-26,2025-04-16,Yes,Yes,N/A,Completed,98.0
+T0445,E080,Employee_38,Task_52,M001,Behind Track,2025-07-29,2025-08-04,2025-08-04,No,No,Resource unavailability,Behind Track,70.0
+T0446,E018,Employee_94,Task_81,M003,Not Started,2025-09-30,2025-10-08,N/A,No,No,N/A,Not Started,
+T0447,E090,Employee_74,Task_31,M003,In Progress,2025-08-23,2025-09-01,N/A,No,No,N/A,In Progress,
+T0448,E002,Employee_70,Task_89,M003,Postponed,2025-03-01,2025-03-12,N/A,No,No,N/A,Postponed,
+T0449,E050,Employee_62,Task_41,M002,Postponed,2025-10-19,2025-11-02,N/A,No,No,N/A,Postponed,
+T0450,E030,Employee_40,Task_157,M001,In Progress,2025-01-26,2025-02-05,N/A,No,No,N/A,In Progress,
+T0451,E074,Employee_26,Task_99,M003,Postponed,2025-10-09,2025-10-18,N/A,No,No,N/A,Postponed,
+T0452,E008,Employee_72,Task_131,M001,Cancelled,2025-03-06,2025-03-15,N/A,No,No,Resource unavailability,Cancelled,
+T0453,E011,Employee_8,Task_120,M002,Cancelled,2025-04-04,2025-04-16,N/A,No,No,N/A,Cancelled,
+T0454,E083,Employee_78,Task_84,M002,Not Started,2025-01-14,2025-01-25,N/A,No,No,N/A,Not Started,
+T0455,E070,Employee_84,Task_116,M003,Cancelled,2025-03-16,2025-03-29,N/A,No,No,Dependency on other functionality,Cancelled,
+T0456,E033,Employee_90,Task_44,M001,Postponed,2025-02-15,2025-02-24,N/A,No,No,N/A,Postponed,
+T0457,E040,Employee_13,Task_139,M003,Postponed,2025-09-26,2025-10-04,N/A,No,No,Client requirement changes,Postponed,
+T0458,E083,Employee_36,Task_45,M002,Done,2025-02-26,2025-03-08,2025-03-07,No,No,N/A,Completed,82.0
+T0459,E095,Employee_9,Task_104,M003,Behind Track,2025-08-01,2025-08-16,2025-08-03,No,No,Client requirement changes,Behind Track,90.0
+T0460,E088,Employee_11,Task_195,M001,Done,2025-01-18,2025-01-28,2025-01-29,No,No,N/A,Completed,87.0
+T0461,E035,Employee_89,Task_112,M003,In Progress,2025-12-16,2025-12-30,N/A,No,No,N/A,In Progress,
+T0462,E007,Employee_62,Task_44,M002,Done,2025-03-19,2025-04-01,2025-03-20,Yes,Yes,N/A,Completed,91.0
+T0463,E080,Employee_60,Task_193,M002,Done,2025-01-13,2025-01-27,2025-01-31,Yes,Yes,N/A,Completed,98.0
+T0464,E040,Employee_87,Task_29,M003,Behind Track,2025-12-21,2025-12-28,2025-12-26,No,No,Client requirement changes,Behind Track,80.0
+T0465,E100,Employee_66,Task_33,M003,Postponed,2025-09-25,2025-10-02,N/A,No,No,N/A,Postponed,
+T0466,E013,Employee_98,Task_25,M001,Done,2025-05-04,2025-05-10,2025-05-14,Yes,Yes,N/A,Completed,100.0
+T0467,E079,Employee_36,Task_152,M003,Not Started,2025-09-10,2025-09-24,N/A,No,No,N/A,Not Started,
+T0468,E033,Employee_44,Task_137,M002,Behind Track,2025-12-08,2025-12-18,2025-12-28,No,No,Dependency on other functionality,Behind Track,99.0
+T0469,E093,Employee_7,Task_121,M003,In Progress,2025-08-19,2025-08-28,N/A,No,No,N/A,In Progress,
+T0470,E047,Employee_59,Task_45,M001,Cancelled,2025-12-11,2025-12-26,N/A,No,No,Resource unavailability,Cancelled,
+T0471,E033,Employee_14,Task_96,M001,In Progress,2025-12-23,2026-01-07,N/A,No,No,N/A,In Progress,
+T0472,E089,Employee_51,Task_88,M003,Cancelled,2025-10-13,2025-10-25,N/A,No,No,Dependency on other functionality,Cancelled,
+T0473,E052,Employee_54,Task_44,M001,Done,2025-09-02,2025-09-08,2025-09-16,Yes,Yes,N/A,Completed,79.0
+T0474,E035,Employee_21,Task_106,M002,In Progress,2025-05-17,2025-05-30,N/A,No,No,N/A,In Progress,
+T0475,E077,Employee_59,Task_128,M001,Done,2025-11-21,2025-11-27,2025-12-09,Yes,Yes,N/A,Completed,92.0
+T0476,E082,Employee_11,Task_173,M002,Behind Track,2025-08-07,2025-08-18,2025-08-19,No,No,Resource unavailability,Behind Track,100.0
+T0477,E015,Employee_84,Task_68,M003,Behind Track,2025-11-22,2025-11-29,2025-12-12,No,No,Dependency on other functionality,Behind Track,94.0
+T0478,E093,Employee_27,Task_179,M003,Done,2025-03-21,2025-04-03,2025-04-02,No,No,N/A,Completed,79.0
+T0479,E024,Employee_94,Task_136,M001,Not Started,2025-12-23,2025-12-28,N/A,No,No,N/A,Not Started,
+T0480,E071,Employee_97,Task_47,M002,Cancelled,2025-11-24,2025-12-07,N/A,No,No,Resource unavailability,Cancelled,
+T0481,E025,Employee_68,Task_190,M003,Done,2025-07-30,2025-08-12,2025-08-18,No,No,N/A,Completed,82.0
+T0482,E085,Employee_19,Task_108,M003,Postponed,2025-06-23,2025-07-01,N/A,No,No,N/A,Postponed,
+T0483,E072,Employee_74,Task_85,M002,Postponed,2025-10-22,2025-11-01,N/A,No,No,Dependency on other functionality,Postponed,
+T0484,E023,Employee_48,Task_144,M001,In Progress,2025-10-08,2025-10-14,N/A,No,No,N/A,In Progress,
+T0485,E058,Employee_15,Task_148,M002,Behind Track,2025-06-19,2025-07-01,2025-07-08,No,No,N/A,Behind Track,80.0
+T0486,E042,Employee_36,Task_151,M003,In Progress,2025-02-17,2025-02-26,N/A,No,No,N/A,In Progress,
+T0487,E056,Employee_59,Task_85,M002,Postponed,2025-11-06,2025-11-17,N/A,No,No,Client requirement changes,Postponed,
+T0488,E097,Employee_11,Task_163,M002,Done,2025-06-29,2025-07-13,2025-07-18,No,No,N/A,Completed,82.0
+T0489,E053,Employee_69,Task_118,M002,In Progress,2025-02-09,2025-02-18,N/A,No,No,N/A,In Progress,
+T0490,E048,Employee_74,Task_83,M001,In Progress,2025-11-11,2025-11-22,N/A,No,No,N/A,In Progress,
+T0491,E077,Employee_31,Task_100,M002,In Progress,2025-03-30,2025-04-11,N/A,No,No,N/A,In Progress,
+T0492,E050,Employee_34,Task_167,M003,In Progress,2025-05-14,2025-05-22,N/A,No,No,N/A,In Progress,
+T0493,E005,Employee_47,Task_164,M002,Not Started,2025-06-30,2025-07-08,N/A,No,No,N/A,Not Started,
+T0494,E087,Employee_79,Task_75,M003,Done,2025-01-23,2025-01-30,2025-02-12,No,No,N/A,Completed,87.0
+T0495,E061,Employee_100,Task_12,M002,In Progress,2025-05-25,2025-06-06,N/A,No,No,N/A,In Progress,
+T0496,E012,Employee_45,Task_7,M002,Not Started,2025-03-15,2025-03-28,N/A,No,No,N/A,Not Started,
+T0497,E023,Employee_13,Task_40,M003,Postponed,2025-11-23,2025-12-02,N/A,No,No,Client requirement changes,Postponed,
+T0498,E040,Employee_35,Task_153,M001,Not Started,2025-05-26,2025-06-08,N/A,No,No,N/A,Not Started,
+T0499,E058,Employee_45,Task_50,M003,Cancelled,2025-10-23,2025-10-31,N/A,No,No,Resource unavailability,Cancelled,
+T0500,E011,Employee_52,Task_31,M002,Behind Track,2025-03-20,2025-03-27,2025-04-01,No,No,N/A,Behind Track,80.0
+T0501,E089,Employee_51,Task_2,M001,In Progress,2025-04-21,2025-05-06,N/A,No,No,N/A,In Progress,
+T0502,E023,Employee_39,Task_72,M001,Cancelled,2025-12-26,2026-01-10,N/A,No,No,N/A,Cancelled,
+T0503,E055,Employee_52,Task_129,M001,Done,2025-03-01,2025-03-14,2025-03-16,Yes,Yes,N/A,Completed,75.0
+T0504,E036,Employee_32,Task_129,M003,Cancelled,2025-06-21,2025-07-03,N/A,No,No,Client requirement changes,Cancelled,
+T0505,E002,Employee_14,Task_192,M003,Done,2025-03-16,2025-03-21,2025-03-28,No,No,N/A,Completed,84.0
+T0506,E080,Employee_6,Task_112,M003,Not Started,2025-11-08,2025-11-14,N/A,No,No,N/A,Not Started,
+T0507,E026,Employee_72,Task_152,M001,Not Started,2025-10-19,2025-10-29,N/A,No,No,N/A,Not Started,
+T0508,E061,Employee_14,Task_184,M003,Not Started,2025-05-20,2025-06-03,N/A,No,No,N/A,Not Started,
+T0509,E088,Employee_83,Task_11,M003,Behind Track,2025-10-14,2025-10-27,2025-10-16,No,No,N/A,Behind Track,83.0
+T0510,E098,Employee_36,Task_32,M001,Not Started,2025-11-18,2025-11-29,N/A,No,No,N/A,Not Started,
+T0511,E078,Employee_74,Task_12,M001,Done,2025-10-05,2025-10-18,2025-10-15,Yes,Yes,N/A,Completed,72.0
+T0512,E017,Employee_76,Task_142,M003,Postponed,2025-06-11,2025-06-18,N/A,No,No,Client requirement changes,Postponed,
+T0513,E093,Employee_26,Task_82,M003,In Progress,2025-02-13,2025-02-20,N/A,No,No,N/A,In Progress,
+T0514,E071,Employee_31,Task_125,M003,Not Started,2025-08-22,2025-08-29,N/A,No,No,N/A,Not Started,
+T0515,E020,Employee_97,Task_1,M002,Cancelled,2025-06-04,2025-06-11,N/A,No,No,N/A,Cancelled,
+T0516,E043,Employee_2,Task_131,M003,Not Started,2025-12-26,2026-01-01,N/A,No,No,N/A,Not Started,
+T0517,E039,Employee_47,Task_31,M003,Cancelled,2025-11-24,2025-11-30,N/A,No,No,Resource unavailability,Cancelled,
+T0518,E053,Employee_90,Task_82,M003,Cancelled,2025-02-01,2025-02-07,N/A,No,No,Client requirement changes,Cancelled,
+T0519,E061,Employee_61,Task_91,M001,Postponed,2025-05-28,2025-06-06,N/A,No,No,Resource unavailability,Postponed,
+T0520,E063,Employee_75,Task_90,M003,Not Started,2025-07-14,2025-07-25,N/A,No,No,N/A,Not Started,
+T0521,E066,Employee_79,Task_82,M003,Behind Track,2025-05-18,2025-05-30,2025-05-27,No,No,Client requirement changes,Behind Track,90.0
+T0522,E026,Employee_16,Task_158,M003,Done,2025-07-13,2025-07-27,2025-07-17,No,No,N/A,Completed,71.0
+T0523,E018,Employee_50,Task_166,M003,Cancelled,2025-01-15,2025-01-22,N/A,No,No,Dependency on other functionality,Cancelled,
+T0524,E002,Employee_2,Task_100,M001,Behind Track,2025-02-22,2025-02-27,2025-02-27,No,No,N/A,Behind Track,78.0
+T0525,E051,Employee_74,Task_36,M002,Behind Track,2025-03-21,2025-04-04,2025-04-09,No,No,Dependency on other functionality,Behind Track,91.0
+T0526,E021,Employee_79,Task_89,M001,Not Started,2025-06-12,2025-06-19,N/A,No,No,N/A,Not Started,
+T0527,E003,Employee_94,Task_102,M002,In Progress,2025-09-28,2025-10-06,N/A,No,No,N/A,In Progress,
+T0528,E019,Employee_49,Task_91,M002,Behind Track,2025-12-06,2025-12-19,2025-12-09,No,No,Dependency on other functionality,Behind Track,87.0
+T0529,E019,Employee_77,Task_136,M003,Not Started,2025-09-30,2025-10-15,N/A,No,No,N/A,Not Started,
+T0530,E094,Employee_45,Task_108,M001,Not Started,2025-08-04,2025-08-15,N/A,No,No,N/A,Not Started,
+T0531,E005,Employee_53,Task_31,M003,Postponed,2025-01-02,2025-01-11,N/A,No,No,Dependency on other functionality,Postponed,
+T0532,E026,Employee_36,Task_160,M003,Cancelled,2025-09-22,2025-09-27,N/A,No,No,Resource unavailability,Cancelled,
+T0533,E065,Employee_27,Task_126,M002,Behind Track,2025-05-04,2025-05-10,2025-05-09,No,No,N/A,Behind Track,75.0
+T0534,E088,Employee_32,Task_102,M002,Done,2025-12-12,2025-12-21,2025-12-15,Yes,Yes,N/A,Completed,84.0
+T0535,E048,Employee_100,Task_105,M001,Postponed,2025-07-12,2025-07-18,N/A,No,No,Client requirement changes,Postponed,
+T0536,E095,Employee_44,Task_142,M002,Cancelled,2025-07-28,2025-08-08,N/A,No,No,Resource unavailability,Cancelled,
+T0537,E045,Employee_97,Task_86,M001,Postponed,2025-05-16,2025-05-26,N/A,No,No,Resource unavailability,Postponed,
+T0538,E011,Employee_7,Task_15,M001,In Progress,2025-12-31,2026-01-12,N/A,No,No,N/A,In Progress,
+T0539,E031,Employee_39,Task_8,M002,Not Started,2025-12-04,2025-12-09,N/A,No,No,N/A,Not Started,
+T0540,E073,Employee_52,Task_3,M002,Cancelled,2025-10-03,2025-10-15,N/A,No,No,N/A,Cancelled,
+T0541,E051,Employee_87,Task_114,M002,Not Started,2025-03-04,2025-03-16,N/A,No,No,N/A,Not Started,
+T0542,E021,Employee_32,Task_40,M001,In Progress,2025-03-07,2025-03-19,N/A,No,No,N/A,In Progress,
+T0543,E052,Employee_44,Task_115,M003,Not Started,2025-05-18,2025-05-26,N/A,No,No,N/A,Not Started,
+T0544,E083,Employee_66,Task_156,M002,In Progress,2025-12-19,2025-12-27,N/A,No,No,N/A,In Progress,
+T0545,E075,Employee_90,Task_183,M002,Done,2025-04-19,2025-05-04,2025-04-26,No,No,N/A,Completed,97.0
+T0546,E033,Employee_50,Task_112,M003,Cancelled,2025-11-12,2025-11-22,N/A,No,No,Dependency on other functionality,Cancelled,
+T0547,E090,Employee_52,Task_138,M003,Done,2025-03-09,2025-03-15,2025-03-12,Yes,Yes,N/A,Completed,92.0
+T0548,E021,Employee_5,Task_60,M001,Behind Track,2025-02-20,2025-03-06,2025-03-07,No,No,Resource unavailability,Behind Track,80.0
+T0549,E037,Employee_66,Task_175,M003,Done,2025-05-06,2025-05-16,2025-05-11,Yes,Yes,N/A,Completed,93.0
+T0550,E040,Employee_96,Task_15,M001,Not Started,2025-11-27,2025-12-07,N/A,No,No,N/A,Not Started,
+T0551,E073,Employee_34,Task_166,M003,In Progress,2025-06-24,2025-07-06,N/A,No,No,N/A,In Progress,
+T0552,E066,Employee_24,Task_172,M002,Done,2025-03-01,2025-03-14,2025-03-18,Yes,Yes,N/A,Completed,91.0
+T0553,E002,Employee_88,Task_47,M001,Not Started,2025-05-07,2025-05-18,N/A,No,No,N/A,Not Started,
+T0554,E031,Employee_9,Task_169,M002,Cancelled,2025-10-04,2025-10-16,N/A,No,No,Dependency on other functionality,Cancelled,
+T0555,E025,Employee_83,Task_138,M001,Done,2025-10-10,2025-10-16,2025-10-21,No,No,N/A,Completed,77.0
+T0556,E023,Employee_11,Task_97,M003,Postponed,2025-07-02,2025-07-09,N/A,No,No,Resource unavailability,Postponed,
+T0557,E072,Employee_2,Task_165,M002,Done,2025-01-04,2025-01-15,2025-01-17,Yes,Yes,N/A,Completed,90.0
+T0558,E021,Employee_13,Task_18,M002,Not Started,2025-12-25,2026-01-03,N/A,No,No,N/A,Not Started,
+T0559,E072,Employee_44,Task_176,M002,Cancelled,2025-06-13,2025-06-25,N/A,No,No,Resource unavailability,Cancelled,
+T0560,E002,Employee_79,Task_182,M003,Cancelled,2025-05-30,2025-06-07,N/A,No,No,Client requirement changes,Cancelled,
+T0561,E024,Employee_10,Task_47,M002,In Progress,2025-12-02,2025-12-16,N/A,No,No,N/A,In Progress,
+T0562,E044,Employee_9,Task_18,M001,Postponed,2025-06-09,2025-06-19,N/A,No,No,Resource unavailability,Postponed,
+T0563,E083,Employee_27,Task_146,M003,Behind Track,2025-07-09,2025-07-21,2025-07-21,No,No,Resource unavailability,Behind Track,73.0
+T0564,E004,Employee_62,Task_169,M003,Postponed,2025-06-09,2025-06-17,N/A,No,No,Client requirement changes,Postponed,
+T0565,E006,Employee_7,Task_78,M001,Postponed,2025-03-22,2025-03-29,N/A,No,No,Client requirement changes,Postponed,
+T0566,E060,Employee_53,Task_3,M001,Done,2025-11-06,2025-11-21,2025-11-08,No,No,N/A,Completed,93.0
+T0567,E036,Employee_94,Task_170,M002,Cancelled,2025-11-26,2025-12-02,N/A,No,No,N/A,Cancelled,
+T0568,E029,Employee_65,Task_99,M001,Postponed,2025-11-28,2025-12-09,N/A,No,No,Resource unavailability,Postponed,
+T0569,E004,Employee_57,Task_55,M003,In Progress,2025-09-08,2025-09-20,N/A,No,No,N/A,In Progress,
+T0570,E029,Employee_49,Task_2,M001,Not Started,2025-01-29,2025-02-09,N/A,No,No,N/A,Not Started,
+T0571,E058,Employee_5,Task_119,M001,In Progress,2025-07-29,2025-08-10,N/A,No,No,N/A,In Progress,
+T0572,E004,Employee_52,Task_77,M003,Not Started,2025-07-15,2025-07-22,N/A,No,No,N/A,Not Started,
+T0573,E052,Employee_52,Task_45,M002,In Progress,2025-08-25,2025-08-31,N/A,No,No,N/A,In Progress,
+T0574,E050,Employee_48,Task_84,M002,Postponed,2025-07-16,2025-07-25,N/A,No,No,Resource unavailability,Postponed,
+T0575,E002,Employee_82,Task_146,M001,In Progress,2025-08-22,2025-08-30,N/A,No,No,N/A,In Progress,
+T0576,E060,Employee_54,Task_69,M003,Postponed,2025-08-02,2025-08-09,N/A,No,No,Dependency on other functionality,Postponed,
+T0577,E086,Employee_17,Task_7,M001,Not Started,2025-07-13,2025-07-28,N/A,No,No,N/A,Not Started,
+T0578,E047,Employee_20,Task_32,M002,In Progress,2025-01-06,2025-01-11,N/A,No,No,N/A,In Progress,
+T0579,E022,Employee_39,Task_165,M001,Postponed,2025-05-03,2025-05-14,N/A,No,No,N/A,Postponed,
+T0580,E089,Employee_96,Task_199,M002,In Progress,2025-10-25,2025-11-04,N/A,No,No,N/A,In Progress,
+T0581,E083,Employee_41,Task_34,M003,Cancelled,2025-02-11,2025-02-20,N/A,No,No,N/A,Cancelled,
+T0582,E074,Employee_28,Task_151,M002,Done,2025-07-27,2025-08-01,2025-08-08,No,No,N/A,Completed,93.0
+T0583,E058,Employee_26,Task_52,M003,Postponed,2025-11-18,2025-12-01,N/A,No,No,Dependency on other functionality,Postponed,
+T0584,E004,Employee_91,Task_183,M001,Not Started,2025-03-24,2025-04-06,N/A,No,No,N/A,Not Started,
+T0585,E048,Employee_42,Task_103,M002,Postponed,2025-09-23,2025-09-28,N/A,No,No,Resource unavailability,Postponed,
+T0586,E072,Employee_71,Task_140,M001,Done,2025-08-18,2025-08-30,2025-09-04,Yes,Yes,N/A,Completed,95.0
+T0587,E028,Employee_87,Task_15,M003,Behind Track,2025-05-18,2025-05-24,2025-06-02,No,No,Client requirement changes,Behind Track,85.0
+T0588,E028,Employee_12,Task_110,M001,Postponed,2025-07-06,2025-07-15,N/A,No,No,Resource unavailability,Postponed,
+T0589,E082,Employee_12,Task_135,M001,Not Started,2025-05-25,2025-06-05,N/A,No,No,N/A,Not Started,
+T0590,E041,Employee_90,Task_80,M001,In Progress,2025-05-18,2025-05-23,N/A,No,No,N/A,In Progress,
+T0591,E016,Employee_84,Task_115,M003,Cancelled,2025-12-01,2025-12-12,N/A,No,No,N/A,Cancelled,
+T0592,E046,Employee_54,Task_34,M002,Cancelled,2025-06-12,2025-06-27,N/A,No,No,Resource unavailability,Cancelled,
+T0593,E025,Employee_16,Task_164,M002,Behind Track,2025-07-10,2025-07-23,2025-07-22,No,No,Dependency on other functionality,Behind Track,87.0
+T0594,E076,Employee_60,Task_132,M002,In Progress,2025-04-05,2025-04-16,N/A,No,No,N/A,In Progress,
+T0595,E013,Employee_19,Task_126,M001,Not Started,2025-03-29,2025-04-07,N/A,No,No,N/A,Not Started,
+T0596,E045,Employee_46,Task_176,M003,In Progress,2025-01-08,2025-01-20,N/A,No,No,N/A,In Progress,
+T0597,E001,Employee_70,Task_14,M002,Cancelled,2025-07-31,2025-08-08,N/A,No,No,Resource unavailability,Cancelled,
+T0598,E088,Employee_60,Task_141,M002,Cancelled,2025-01-09,2025-01-16,N/A,No,No,Dependency on other functionality,Cancelled,
+T0599,E031,Employee_26,Task_138,M002,Behind Track,2025-12-03,2025-12-08,2025-12-18,No,No,Client requirement changes,Behind Track,83.0
+T0600,E014,Employee_99,Task_80,M002,Postponed,2025-08-10,2025-08-18,N/A,No,No,Dependency on other functionality,Postponed,
+T0601,E089,Employee_96,Task_98,M001,Postponed,2025-09-24,2025-10-02,N/A,No,No,Dependency on other functionality,Postponed,
+T0602,E071,Employee_29,Task_23,M002,Behind Track,2025-05-08,2025-05-20,2025-05-26,No,No,Dependency on other functionality,Behind Track,96.0
+T0603,E046,Employee_6,Task_141,M002,In Progress,2025-07-14,2025-07-24,N/A,No,No,N/A,In Progress,
+T0604,E084,Employee_71,Task_190,M001,In Progress,2025-02-12,2025-02-24,N/A,No,No,N/A,In Progress,
+T0605,E024,Employee_5,Task_28,M001,Cancelled,2025-05-31,2025-06-10,N/A,No,No,Resource unavailability,Cancelled,
+T0606,E009,Employee_13,Task_45,M001,Done,2025-07-01,2025-07-06,2025-07-19,Yes,Yes,N/A,Completed,84.0
+T0607,E057,Employee_22,Task_136,M003,Not Started,2025-10-10,2025-10-25,N/A,No,No,N/A,Not Started,
+T0608,E044,Employee_90,Task_172,M001,Postponed,2025-09-04,2025-09-16,N/A,No,No,Resource unavailability,Postponed,
+T0609,E072,Employee_23,Task_179,M002,Not Started,2025-03-01,2025-03-06,N/A,No,No,N/A,Not Started,
+T0610,E068,Employee_61,Task_131,M003,In Progress,2025-06-16,2025-06-29,N/A,No,No,N/A,In Progress,
+T0611,E090,Employee_58,Task_137,M001,Done,2025-02-17,2025-02-24,2025-02-21,Yes,Yes,N/A,Completed,95.0
+T0612,E003,Employee_54,Task_100,M002,Done,2025-05-25,2025-05-31,2025-05-30,Yes,Yes,N/A,Completed,90.0
+T0613,E064,Employee_89,Task_197,M002,In Progress,2025-10-12,2025-10-20,N/A,No,No,N/A,In Progress,
+T0614,E025,Employee_85,Task_1,M002,Behind Track,2025-05-01,2025-05-15,2025-05-06,No,No,N/A,Behind Track,79.0
+T0615,E011,Employee_96,Task_57,M002,Behind Track,2025-03-20,2025-03-26,2025-04-07,No,No,N/A,Behind Track,72.0
+T0616,E092,Employee_55,Task_104,M001,Cancelled,2025-10-12,2025-10-25,N/A,No,No,Dependency on other functionality,Cancelled,
+T0617,E083,Employee_79,Task_27,M003,In Progress,2025-05-20,2025-06-02,N/A,No,No,N/A,In Progress,
+T0618,E079,Employee_63,Task_115,M003,Postponed,2025-01-27,2025-02-08,N/A,No,No,Resource unavailability,Postponed,
+T0619,E092,Employee_51,Task_40,M001,In Progress,2025-02-19,2025-03-03,N/A,No,No,N/A,In Progress,
+T0620,E055,Employee_81,Task_182,M001,Behind Track,2025-02-08,2025-02-19,2025-02-09,No,No,N/A,Behind Track,93.0
+T0621,E069,Employee_95,Task_124,M001,Cancelled,2025-12-20,2025-12-27,N/A,No,No,N/A,Cancelled,
+T0622,E055,Employee_69,Task_131,M002,Postponed,2025-06-19,2025-07-01,N/A,No,No,Dependency on other functionality,Postponed,
+T0623,E001,Employee_95,Task_190,M003,In Progress,2025-05-17,2025-05-22,N/A,No,No,N/A,In Progress,
+T0624,E024,Employee_38,Task_34,M002,Done,2025-06-06,2025-06-18,2025-06-09,Yes,Yes,N/A,Completed,90.0
+T0625,E062,Employee_74,Task_96,M002,Behind Track,2025-01-28,2025-02-10,2025-02-09,No,No,Dependency on other functionality,Behind Track,93.0
+T0626,E089,Employee_85,Task_115,M001,Cancelled,2025-07-19,2025-08-02,N/A,No,No,Resource unavailability,Cancelled,
+T0627,E067,Employee_1,Task_87,M001,Cancelled,2025-02-21,2025-03-02,N/A,No,No,Resource unavailability,Cancelled,
+T0628,E059,Employee_24,Task_20,M002,Not Started,2025-02-10,2025-02-22,N/A,No,No,N/A,Not Started,
+T0629,E095,Employee_66,Task_166,M001,Cancelled,2025-06-28,2025-07-06,N/A,No,No,Resource unavailability,Cancelled,
+T0630,E075,Employee_51,Task_181,M002,Done,2025-09-20,2025-10-01,2025-09-22,No,No,N/A,Completed,92.0
+T0631,E087,Employee_22,Task_119,M003,Behind Track,2025-07-13,2025-07-20,2025-07-26,No,No,Dependency on other functionality,Behind Track,73.0
+T0632,E083,Employee_18,Task_78,M001,Postponed,2025-06-24,2025-07-01,N/A,No,No,N/A,Postponed,
+T0633,E079,Employee_85,Task_181,M002,In Progress,2025-02-12,2025-02-27,N/A,No,No,N/A,In Progress,
+T0634,E088,Employee_28,Task_108,M001,In Progress,2025-11-07,2025-11-19,N/A,No,No,N/A,In Progress,
+T0635,E029,Employee_43,Task_87,M002,Done,2025-06-18,2025-06-23,2025-06-27,Yes,Yes,N/A,Completed,73.0
+T0636,E030,Employee_42,Task_15,M001,Postponed,2025-11-23,2025-12-06,N/A,No,No,Client requirement changes,Postponed,
+T0637,E086,Employee_70,Task_126,M001,Cancelled,2025-01-23,2025-01-31,N/A,No,No,Dependency on other functionality,Cancelled,
+T0638,E100,Employee_46,Task_186,M002,Not Started,2025-12-02,2025-12-12,N/A,No,No,N/A,Not Started,
+T0639,E020,Employee_60,Task_127,M001,Cancelled,2025-08-28,2025-09-09,N/A,No,No,Resource unavailability,Cancelled,
+T0640,E002,Employee_8,Task_110,M003,Postponed,2025-03-24,2025-04-08,N/A,No,No,Resource unavailability,Postponed,
+T0641,E099,Employee_68,Task_141,M003,Not Started,2025-11-03,2025-11-08,N/A,No,No,N/A,Not Started,
+T0642,E067,Employee_52,Task_96,M002,Postponed,2025-12-11,2025-12-19,N/A,No,No,Client requirement changes,Postponed,
+T0643,E050,Employee_1,Task_52,M003,Not Started,2025-11-08,2025-11-13,N/A,No,No,N/A,Not Started,
+T0644,E092,Employee_77,Task_184,M002,In Progress,2025-03-22,2025-04-05,N/A,No,No,N/A,In Progress,
+T0645,E038,Employee_20,Task_41,M002,Not Started,2025-04-04,2025-04-11,N/A,No,No,N/A,Not Started,
+T0646,E030,Employee_5,Task_104,M002,Postponed,2025-09-19,2025-09-24,N/A,No,No,N/A,Postponed,
+T0647,E061,Employee_67,Task_194,M001,Cancelled,2025-06-22,2025-06-29,N/A,No,No,N/A,Cancelled,
+T0648,E091,Employee_80,Task_20,M001,Cancelled,2025-07-07,2025-07-22,N/A,No,No,Client requirement changes,Cancelled,
+T0649,E002,Employee_11,Task_125,M002,Not Started,2025-07-20,2025-07-31,N/A,No,No,N/A,Not Started,
+T0650,E056,Employee_27,Task_89,M002,Done,2025-10-07,2025-10-14,2025-10-08,Yes,Yes,N/A,Completed,80.0
+T0651,E065,Employee_49,Task_160,M001,Not Started,2025-05-01,2025-05-15,N/A,No,No,N/A,Not Started,
+T0652,E100,Employee_46,Task_72,M003,Behind Track,2025-01-24,2025-02-08,2025-02-04,No,No,Dependency on other functionality,Behind Track,100.0
+T0653,E011,Employee_98,Task_94,M001,Postponed,2025-05-27,2025-06-01,N/A,No,No,Dependency on other functionality,Postponed,
+T0654,E065,Employee_51,Task_112,M003,Cancelled,2025-04-01,2025-04-13,N/A,No,No,Dependency on other functionality,Cancelled,
+T0655,E083,Employee_51,Task_65,M002,In Progress,2025-05-19,2025-05-25,N/A,No,No,N/A,In Progress,
+T0656,E007,Employee_26,Task_200,M001,In Progress,2025-05-16,2025-05-24,N/A,No,No,N/A,In Progress,
+T0657,E072,Employee_19,Task_132,M002,Postponed,2025-05-03,2025-05-16,N/A,No,No,N/A,Postponed,
+T0658,E064,Employee_63,Task_162,M002,Not Started,2025-12-16,2025-12-21,N/A,No,No,N/A,Not Started,
+T0659,E019,Employee_59,Task_85,M001,In Progress,2025-08-23,2025-09-03,N/A,No,No,N/A,In Progress,
+T0660,E011,Employee_27,Task_127,M003,Cancelled,2025-05-14,2025-05-23,N/A,No,No,Dependency on other functionality,Cancelled,
+T0661,E044,Employee_51,Task_101,M001,Cancelled,2025-03-13,2025-03-24,N/A,No,No,N/A,Cancelled,
+T0662,E067,Employee_6,Task_160,M002,Done,2025-07-21,2025-07-31,2025-07-30,Yes,Yes,N/A,Completed,82.0
+T0663,E090,Employee_1,Task_160,M002,Cancelled,2025-05-17,2025-05-31,N/A,No,No,Client requirement changes,Cancelled,
+T0664,E036,Employee_70,Task_70,M001,Behind Track,2025-11-02,2025-11-17,2025-11-15,No,No,Resource unavailability,Behind Track,71.0
+T0665,E032,Employee_53,Task_151,M002,In Progress,2025-03-16,2025-03-21,N/A,No,No,N/A,In Progress,
+T0666,E012,Employee_8,Task_59,M002,Cancelled,2025-07-16,2025-07-21,N/A,No,No,Client requirement changes,Cancelled,
+T0667,E007,Employee_15,Task_37,M001,Not Started,2025-09-16,2025-09-29,N/A,No,No,N/A,Not Started,
+T0668,E017,Employee_16,Task_171,M003,In Progress,2025-01-28,2025-02-08,N/A,No,No,N/A,In Progress,
+T0669,E041,Employee_37,Task_159,M003,Not Started,2025-05-24,2025-06-03,N/A,No,No,N/A,Not Started,
+T0670,E080,Employee_40,Task_16,M003,Behind Track,2025-09-26,2025-10-06,2025-10-16,No,No,Client requirement changes,Behind Track,79.0
+T0671,E021,Employee_85,Task_95,M001,Postponed,2025-07-23,2025-07-30,N/A,No,No,N/A,Postponed,
+T0672,E030,Employee_74,Task_118,M001,Behind Track,2025-01-22,2025-01-31,2025-02-06,No,No,N/A,Behind Track,96.0
+T0673,E085,Employee_84,Task_62,M003,In Progress,2025-02-25,2025-03-02,N/A,No,No,N/A,In Progress,
+T0674,E002,Employee_29,Task_35,M001,Done,2025-09-15,2025-09-24,2025-09-22,No,No,N/A,Completed,81.0
+T0675,E032,Employee_46,Task_84,M001,In Progress,2025-08-18,2025-08-28,N/A,No,No,N/A,In Progress,
+T0676,E073,Employee_69,Task_163,M003,In Progress,2025-10-11,2025-10-20,N/A,No,No,N/A,In Progress,
+T0677,E099,Employee_87,Task_63,M003,Postponed,2025-02-18,2025-02-28,N/A,No,No,N/A,Postponed,
+T0678,E085,Employee_51,Task_196,M001,Not Started,2025-04-03,2025-04-10,N/A,No,No,N/A,Not Started,
+T0679,E005,Employee_63,Task_111,M001,Behind Track,2025-03-06,2025-03-18,2025-03-23,No,No,Client requirement changes,Behind Track,75.0
+T0680,E008,Employee_59,Task_64,M002,Behind Track,2025-10-07,2025-10-13,2025-10-14,No,No,Dependency on other functionality,Behind Track,71.0
+T0681,E018,Employee_22,Task_57,M001,Done,2025-10-18,2025-10-30,2025-11-01,Yes,Yes,N/A,Completed,76.0
+T0682,E013,Employee_31,Task_130,M001,Postponed,2025-01-21,2025-01-31,N/A,No,No,N/A,Postponed,
+T0683,E012,Employee_81,Task_87,M002,Postponed,2025-04-20,2025-05-03,N/A,No,No,Client requirement changes,Postponed,
+T0684,E030,Employee_4,Task_137,M001,Not Started,2025-10-07,2025-10-20,N/A,No,No,N/A,Not Started,
+T0685,E025,Employee_49,Task_31,M003,Behind Track,2025-10-04,2025-10-14,2025-10-21,No,No,N/A,Behind Track,73.0
+T0686,E068,Employee_16,Task_75,M001,Postponed,2025-03-22,2025-03-27,N/A,No,No,N/A,Postponed,
+T0687,E099,Employee_89,Task_132,M001,Done,2025-01-11,2025-01-21,2025-01-12,Yes,Yes,N/A,Completed,94.0
+T0688,E038,Employee_24,Task_87,M001,Done,2025-02-12,2025-02-18,2025-02-18,Yes,Yes,N/A,Completed,76.0
+T0689,E049,Employee_61,Task_40,M001,Postponed,2025-05-05,2025-05-14,N/A,No,No,N/A,Postponed,
+T0690,E012,Employee_72,Task_179,M003,Not Started,2025-09-01,2025-09-07,N/A,No,No,N/A,Not Started,
+T0691,E077,Employee_24,Task_24,M002,In Progress,2025-01-08,2025-01-18,N/A,No,No,N/A,In Progress,
+T0692,E078,Employee_79,Task_41,M001,Behind Track,2025-10-09,2025-10-18,2025-10-12,No,No,Resource unavailability,Behind Track,88.0
+T0693,E083,Employee_30,Task_149,M002,Cancelled,2025-04-17,2025-05-01,N/A,No,No,Dependency on other functionality,Cancelled,
+T0694,E030,Employee_24,Task_39,M003,Postponed,2025-11-05,2025-11-10,N/A,No,No,Dependency on other functionality,Postponed,
+T0695,E090,Employee_21,Task_135,M003,Cancelled,2025-03-03,2025-03-08,N/A,No,No,Client requirement changes,Cancelled,
+T0696,E099,Employee_65,Task_122,M001,Cancelled,2025-11-02,2025-11-13,N/A,No,No,Dependency on other functionality,Cancelled,
+T0697,E029,Employee_14,Task_102,M002,Cancelled,2025-11-23,2025-12-01,N/A,No,No,N/A,Cancelled,
+T0698,E039,Employee_92,Task_121,M003,Not Started,2025-04-23,2025-05-03,N/A,No,No,N/A,Not Started,
+T0699,E034,Employee_50,Task_62,M003,Cancelled,2025-01-10,2025-01-15,N/A,No,No,Dependency on other functionality,Cancelled,
+T0700,E002,Employee_68,Task_197,M002,Cancelled,2025-06-12,2025-06-22,N/A,No,No,N/A,Cancelled,
+T0701,E033,Employee_50,Task_5,M002,Postponed,2025-11-21,2025-12-02,N/A,No,No,Dependency on other functionality,Postponed,
+T0702,E018,Employee_47,Task_46,M003,In Progress,2025-11-24,2025-11-30,N/A,No,No,N/A,In Progress,
+T0703,E067,Employee_4,Task_119,M002,Done,2025-11-24,2025-12-01,2025-11-26,No,No,N/A,Completed,88.0
+T0704,E050,Employee_28,Task_35,M002,In Progress,2025-08-13,2025-08-21,N/A,No,No,N/A,In Progress,
+T0705,E021,Employee_41,Task_113,M003,Not Started,2025-07-14,2025-07-20,N/A,No,No,N/A,Not Started,
+T0706,E033,Employee_81,Task_132,M003,In Progress,2025-04-29,2025-05-10,N/A,No,No,N/A,In Progress,
+T0707,E026,Employee_2,Task_71,M001,Postponed,2025-10-19,2025-11-02,N/A,No,No,Resource unavailability,Postponed,
+T0708,E091,Employee_72,Task_44,M003,In Progress,2025-09-06,2025-09-19,N/A,No,No,N/A,In Progress,
+T0709,E090,Employee_52,Task_58,M001,Postponed,2025-12-05,2025-12-15,N/A,No,No,Client requirement changes,Postponed,
+T0710,E100,Employee_63,Task_25,M002,Not Started,2025-08-22,2025-09-05,N/A,No,No,N/A,Not Started,
+T0711,E011,Employee_23,Task_180,M002,Postponed,2025-01-18,2025-01-29,N/A,No,No,Resource unavailability,Postponed,
+T0712,E010,Employee_91,Task_79,M003,Cancelled,2025-11-20,2025-11-26,N/A,No,No,N/A,Cancelled,
+T0713,E003,Employee_59,Task_77,M001,In Progress,2025-03-13,2025-03-22,N/A,No,No,N/A,In Progress,
+T0714,E047,Employee_23,Task_5,M002,Not Started,2025-06-11,2025-06-16,N/A,No,No,N/A,Not Started,
+T0715,E032,Employee_90,Task_130,M003,Cancelled,2025-09-04,2025-09-18,N/A,No,No,N/A,Cancelled,
+T0716,E078,Employee_75,Task_27,M002,Postponed,2025-01-01,2025-01-10,N/A,No,No,N/A,Postponed,
+T0717,E006,Employee_32,Task_70,M001,Behind Track,2025-11-13,2025-11-27,2025-11-17,No,No,N/A,Behind Track,97.0
+T0718,E081,Employee_57,Task_136,M002,Not Started,2025-06-19,2025-06-27,N/A,No,No,N/A,Not Started,
+T0719,E043,Employee_100,Task_183,M003,Behind Track,2025-02-08,2025-02-13,2025-02-13,No,No,Dependency on other functionality,Behind Track,90.0
+T0720,E035,Employee_46,Task_164,M003,In Progress,2025-08-22,2025-09-01,N/A,No,No,N/A,In Progress,
+T0721,E039,Employee_45,Task_119,M002,Cancelled,2025-10-14,2025-10-25,N/A,No,No,Dependency on other functionality,Cancelled,
+T0722,E064,Employee_36,Task_19,M003,Postponed,2025-03-20,2025-03-31,N/A,No,No,Dependency on other functionality,Postponed,
+T0723,E051,Employee_17,Task_6,M003,Cancelled,2025-06-08,2025-06-20,N/A,No,No,Client requirement changes,Cancelled,
+T0724,E072,Employee_90,Task_193,M002,In Progress,2025-03-14,2025-03-28,N/A,No,No,N/A,In Progress,
+T0725,E093,Employee_58,Task_7,M001,Cancelled,2025-12-04,2025-12-11,N/A,No,No,Dependency on other functionality,Cancelled,
+T0726,E047,Employee_97,Task_52,M003,Done,2025-07-26,2025-08-04,2025-08-15,Yes,Yes,N/A,Completed,79.0
+T0727,E092,Employee_51,Task_129,M002,In Progress,2025-11-18,2025-12-01,N/A,No,No,N/A,In Progress,
+T0728,E015,Employee_48,Task_194,M003,Done,2025-07-07,2025-07-12,2025-07-27,Yes,Yes,N/A,Completed,83.0
+T0729,E021,Employee_35,Task_74,M002,Behind Track,2025-04-10,2025-04-23,2025-04-16,No,No,Dependency on other functionality,Behind Track,80.0
+T0730,E096,Employee_12,Task_86,M003,In Progress,2025-06-15,2025-06-20,N/A,No,No,N/A,In Progress,
+T0731,E015,Employee_33,Task_198,M001,In Progress,2025-04-14,2025-04-23,N/A,No,No,N/A,In Progress,
+T0732,E053,Employee_51,Task_155,M003,Postponed,2025-03-11,2025-03-26,N/A,No,No,Dependency on other functionality,Postponed,
+T0733,E007,Employee_36,Task_150,M001,Cancelled,2025-04-24,2025-05-03,N/A,No,No,Dependency on other functionality,Cancelled,
+T0734,E080,Employee_10,Task_98,M001,Cancelled,2025-05-24,2025-06-06,N/A,No,No,Resource unavailability,Cancelled,
+T0735,E096,Employee_9,Task_165,M001,Not Started,2025-04-21,2025-04-27,N/A,No,No,N/A,Not Started,
+T0736,E001,Employee_8,Task_3,M003,Postponed,2025-10-29,2025-11-07,N/A,No,No,N/A,Postponed,
+T0737,E027,Employee_90,Task_155,M003,In Progress,2025-11-07,2025-11-16,N/A,No,No,N/A,In Progress,
+T0738,E085,Employee_38,Task_16,M001,Done,2025-12-22,2025-12-31,2026-01-09,No,No,N/A,Completed,99.0
+T0739,E027,Employee_6,Task_141,M001,In Progress,2025-08-16,2025-08-29,N/A,No,No,N/A,In Progress,
+T0740,E004,Employee_50,Task_32,M001,Cancelled,2025-12-03,2025-12-11,N/A,No,No,Dependency on other functionality,Cancelled,
+T0741,E082,Employee_2,Task_77,M003,Not Started,2025-01-21,2025-02-04,N/A,No,No,N/A,Not Started,
+T0742,E025,Employee_69,Task_149,M003,Postponed,2025-06-15,2025-06-28,N/A,No,No,Client requirement changes,Postponed,
+T0743,E085,Employee_7,Task_79,M002,Done,2025-02-25,2025-03-11,2025-02-26,Yes,Yes,N/A,Completed,78.0
+T0744,E073,Employee_49,Task_30,M001,Postponed,2025-02-13,2025-02-27,N/A,No,No,Resource unavailability,Postponed,
+T0745,E028,Employee_36,Task_185,M002,Done,2025-09-08,2025-09-23,2025-09-10,Yes,Yes,N/A,Completed,78.0
+T0746,E035,Employee_98,Task_136,M002,Not Started,2025-12-14,2025-12-21,N/A,No,No,N/A,Not Started,
+T0747,E021,Employee_51,Task_87,M002,Postponed,2025-05-27,2025-06-08,N/A,No,No,N/A,Postponed,
+T0748,E009,Employee_14,Task_43,M002,Not Started,2025-10-06,2025-10-15,N/A,No,No,N/A,Not Started,
+T0749,E069,Employee_37,Task_61,M002,Cancelled,2025-06-17,2025-06-25,N/A,No,No,Client requirement changes,Cancelled,
+T0750,E082,Employee_38,Task_149,M001,Cancelled,2025-12-07,2025-12-14,N/A,No,No,N/A,Cancelled,
+T0751,E068,Employee_41,Task_186,M002,Behind Track,2025-10-06,2025-10-19,2025-10-07,No,No,Client requirement changes,Behind Track,79.0
+T0752,E041,Employee_80,Task_83,M002,Not Started,2025-03-31,2025-04-12,N/A,No,No,N/A,Not Started,
+T0753,E063,Employee_5,Task_29,M003,Behind Track,2025-09-26,2025-10-10,2025-10-01,No,No,Client requirement changes,Behind Track,97.0
+T0754,E008,Employee_58,Task_157,M002,Behind Track,2025-09-21,2025-09-28,2025-10-05,No,No,Client requirement changes,Behind Track,92.0
+T0755,E006,Employee_89,Task_94,M001,Postponed,2025-01-25,2025-02-06,N/A,No,No,Resource unavailability,Postponed,
+T0756,E051,Employee_79,Task_19,M002,In Progress,2025-04-29,2025-05-08,N/A,No,No,N/A,In Progress,
+T0757,E049,Employee_24,Task_133,M002,Not Started,2025-05-27,2025-06-07,N/A,No,No,N/A,Not Started,
+T0758,E043,Employee_27,Task_150,M002,In Progress,2025-10-10,2025-10-23,N/A,No,No,N/A,In Progress,
+T0759,E087,Employee_46,Task_186,M002,Cancelled,2025-12-22,2025-12-31,N/A,No,No,Client requirement changes,Cancelled,
+T0760,E065,Employee_87,Task_117,M001,In Progress,2025-03-12,2025-03-22,N/A,No,No,N/A,In Progress,
+T0761,E083,Employee_33,Task_122,M001,Done,2025-05-14,2025-05-29,2025-05-25,Yes,Yes,N/A,Completed,72.0
+T0762,E054,Employee_22,Task_161,M003,Behind Track,2025-09-05,2025-09-19,2025-09-15,No,No,Resource unavailability,Behind Track,86.0
+T0763,E070,Employee_41,Task_128,M001,Behind Track,2025-11-21,2025-12-01,2025-11-25,No,No,Client requirement changes,Behind Track,85.0
+T0764,E011,Employee_7,Task_81,M002,In Progress,2025-06-06,2025-06-21,N/A,No,No,N/A,In Progress,
+T0765,E023,Employee_44,Task_200,M001,In Progress,2025-12-02,2025-12-15,N/A,No,No,N/A,In Progress,
+T0766,E032,Employee_79,Task_56,M003,Cancelled,2025-09-27,2025-10-05,N/A,No,No,Dependency on other functionality,Cancelled,
+T0767,E085,Employee_73,Task_66,M001,Not Started,2025-03-30,2025-04-06,N/A,No,No,N/A,Not Started,
+T0768,E082,Employee_99,Task_88,M002,Cancelled,2025-05-16,2025-05-27,N/A,No,No,Dependency on other functionality,Cancelled,
+T0769,E020,Employee_96,Task_89,M003,Done,2025-12-05,2025-12-10,2025-12-22,Yes,Yes,N/A,Completed,88.0
+T0770,E053,Employee_35,Task_155,M001,Postponed,2025-11-07,2025-11-19,N/A,No,No,Client requirement changes,Postponed,
+T0771,E018,Employee_76,Task_154,M001,Behind Track,2025-02-14,2025-02-26,2025-02-19,No,No,Dependency on other functionality,Behind Track,97.0
+T0772,E030,Employee_32,Task_165,M003,In Progress,2025-01-25,2025-02-08,N/A,No,No,N/A,In Progress,
+T0773,E008,Employee_33,Task_23,M002,Cancelled,2025-02-01,2025-02-07,N/A,No,No,N/A,Cancelled,
+T0774,E002,Employee_47,Task_136,M003,Done,2025-04-27,2025-05-03,2025-05-13,Yes,Yes,N/A,Completed,93.0
+T0775,E061,Employee_48,Task_171,M002,Postponed,2025-06-02,2025-06-15,N/A,No,No,Dependency on other functionality,Postponed,
+T0776,E073,Employee_84,Task_106,M001,Postponed,2025-12-09,2025-12-24,N/A,No,No,N/A,Postponed,
+T0777,E040,Employee_89,Task_26,M001,Not Started,2025-10-31,2025-11-06,N/A,No,No,N/A,Not Started,
+T0778,E079,Employee_9,Task_159,M003,Postponed,2025-06-25,2025-07-04,N/A,No,No,Dependency on other functionality,Postponed,
+T0779,E044,Employee_63,Task_129,M003,Not Started,2025-08-25,2025-08-30,N/A,No,No,N/A,Not Started,
+T0780,E049,Employee_45,Task_94,M001,Cancelled,2025-07-22,2025-07-31,N/A,No,No,Client requirement changes,Cancelled,
+T0781,E006,Employee_36,Task_59,M003,In Progress,2025-07-27,2025-08-04,N/A,No,No,N/A,In Progress,
+T0782,E092,Employee_25,Task_56,M001,Postponed,2025-08-12,2025-08-18,N/A,No,No,Resource unavailability,Postponed,
+T0783,E031,Employee_3,Task_196,M001,Postponed,2025-11-01,2025-11-11,N/A,No,No,Dependency on other functionality,Postponed,
+T0784,E073,Employee_61,Task_186,M001,Cancelled,2025-06-22,2025-07-01,N/A,No,No,Client requirement changes,Cancelled,
+T0785,E007,Employee_73,Task_102,M003,In Progress,2025-07-10,2025-07-18,N/A,No,No,N/A,In Progress,
+T0786,E004,Employee_57,Task_107,M001,Cancelled,2025-10-09,2025-10-16,N/A,No,No,Dependency on other functionality,Cancelled,
+T0787,E087,Employee_65,Task_62,M003,Postponed,2025-11-14,2025-11-25,N/A,No,No,Dependency on other functionality,Postponed,
+T0788,E013,Employee_41,Task_122,M002,Not Started,2025-11-05,2025-11-14,N/A,No,No,N/A,Not Started,
+T0789,E087,Employee_94,Task_93,M002,Done,2025-07-13,2025-07-27,2025-07-17,Yes,Yes,N/A,Completed,77.0
+T0790,E018,Employee_36,Task_88,M003,Done,2025-08-05,2025-08-14,2025-08-17,Yes,Yes,N/A,Completed,87.0
+T0791,E067,Employee_39,Task_32,M003,Not Started,2025-10-01,2025-10-07,N/A,No,No,N/A,Not Started,
+T0792,E081,Employee_43,Task_169,M003,Not Started,2025-08-10,2025-08-16,N/A,No,No,N/A,Not Started,
+T0793,E091,Employee_96,Task_162,M003,Not Started,2025-05-10,2025-05-15,N/A,No,No,N/A,Not Started,
+T0794,E062,Employee_60,Task_149,M002,Behind Track,2025-05-06,2025-05-20,2025-05-22,No,No,Resource unavailability,Behind Track,77.0
+T0795,E001,Employee_57,Task_20,M003,In Progress,2025-05-22,2025-05-30,N/A,No,No,N/A,In Progress,
+T0796,E087,Employee_65,Task_184,M002,In Progress,2025-01-19,2025-01-28,N/A,No,No,N/A,In Progress,
+T0797,E065,Employee_16,Task_152,M002,Postponed,2025-06-18,2025-06-27,N/A,No,No,Dependency on other functionality,Postponed,
+T0798,E079,Employee_63,Task_179,M001,Cancelled,2025-02-14,2025-02-19,N/A,No,No,Client requirement changes,Cancelled,
+T0799,E073,Employee_100,Task_99,M001,Not Started,2025-11-16,2025-11-27,N/A,No,No,N/A,Not Started,
+T0800,E090,Employee_30,Task_200,M002,Done,2025-10-22,2025-11-02,2025-11-10,Yes,Yes,N/A,Completed,85.0
+T0801,E060,Employee_1,Task_136,M001,Not Started,2025-12-28,2026-01-03,N/A,No,No,N/A,Not Started,
+T0802,E041,Employee_52,Task_61,M001,Postponed,2025-08-07,2025-08-20,N/A,No,No,Resource unavailability,Postponed,
+T0803,E048,Employee_50,Task_121,M003,Cancelled,2025-03-12,2025-03-24,N/A,No,No,Resource unavailability,Cancelled,
+T0804,E029,Employee_66,Task_53,M003,Behind Track,2025-04-27,2025-05-08,2025-04-29,No,No,N/A,Behind Track,83.0
+T0805,E034,Employee_73,Task_2,M001,Not Started,2025-06-02,2025-06-17,N/A,No,No,N/A,Not Started,
+T0806,E066,Employee_18,Task_135,M002,Done,2025-03-02,2025-03-12,2025-03-08,Yes,Yes,N/A,Completed,92.0
+T0807,E095,Employee_31,Task_61,M003,Cancelled,2025-02-14,2025-02-20,N/A,No,No,N/A,Cancelled,
+T0808,E010,Employee_94,Task_179,M002,Done,2025-06-09,2025-06-20,2025-06-13,No,No,N/A,Completed,86.0
+T0809,E003,Employee_5,Task_46,M001,Cancelled,2025-08-22,2025-08-28,N/A,No,No,N/A,Cancelled,
+T0810,E058,Employee_51,Task_151,M002,Cancelled,2025-07-10,2025-07-19,N/A,No,No,Resource unavailability,Cancelled,
+T0811,E067,Employee_75,Task_122,M003,Done,2025-07-06,2025-07-15,2025-07-15,No,No,N/A,Completed,83.0
+T0812,E051,Employee_2,Task_33,M001,Not Started,2025-05-07,2025-05-17,N/A,No,No,N/A,Not Started,
+T0813,E042,Employee_17,Task_30,M001,Postponed,2025-01-05,2025-01-17,N/A,No,No,Resource unavailability,Postponed,
+T0814,E033,Employee_92,Task_125,M003,Not Started,2025-07-31,2025-08-05,N/A,No,No,N/A,Not Started,
+T0815,E044,Employee_74,Task_198,M003,In Progress,2025-06-16,2025-06-28,N/A,No,No,N/A,In Progress,
+T0816,E100,Employee_44,Task_76,M001,Behind Track,2025-11-07,2025-11-19,2025-11-16,No,No,N/A,Behind Track,83.0
+T0817,E029,Employee_96,Task_167,M003,Done,2025-11-11,2025-11-21,2025-12-01,No,No,N/A,Completed,83.0
+T0818,E085,Employee_73,Task_136,M001,Not Started,2025-09-02,2025-09-11,N/A,No,No,N/A,Not Started,
+T0819,E029,Employee_53,Task_146,M002,Behind Track,2025-01-15,2025-01-22,2025-01-20,No,No,N/A,Behind Track,70.0
+T0820,E045,Employee_71,Task_99,M001,Done,2025-11-05,2025-11-10,2025-11-12,Yes,Yes,N/A,Completed,86.0
+T0821,E062,Employee_47,Task_100,M003,Done,2025-02-07,2025-02-12,2025-02-17,No,No,N/A,Completed,76.0
+T0822,E099,Employee_93,Task_52,M002,Not Started,2025-06-29,2025-07-10,N/A,No,No,N/A,Not Started,
+T0823,E021,Employee_72,Task_100,M003,Postponed,2025-09-22,2025-09-28,N/A,No,No,N/A,Postponed,
+T0824,E063,Employee_79,Task_178,M002,Postponed,2025-07-25,2025-08-09,N/A,No,No,Dependency on other functionality,Postponed,
+T0825,E009,Employee_54,Task_149,M003,Done,2025-02-21,2025-02-26,2025-02-25,Yes,Yes,N/A,Completed,72.0
+T0826,E055,Employee_80,Task_1,M002,Done,2025-04-17,2025-04-25,2025-04-26,Yes,Yes,N/A,Completed,92.0
+T0827,E035,Employee_100,Task_95,M001,Not Started,2025-11-26,2025-12-04,N/A,No,No,N/A,Not Started,
+T0828,E041,Employee_49,Task_148,M003,Cancelled,2025-08-30,2025-09-13,N/A,No,No,N/A,Cancelled,
+T0829,E040,Employee_31,Task_107,M003,In Progress,2025-10-16,2025-10-23,N/A,No,No,N/A,In Progress,
+T0830,E072,Employee_57,Task_182,M003,Not Started,2025-06-13,2025-06-18,N/A,No,No,N/A,Not Started,
+T0831,E063,Employee_36,Task_153,M001,Postponed,2025-06-28,2025-07-08,N/A,No,No,Client requirement changes,Postponed,
+T0832,E095,Employee_92,Task_136,M003,Postponed,2025-12-21,2026-01-05,N/A,No,No,Dependency on other functionality,Postponed,
+T0833,E056,Employee_64,Task_141,M003,In Progress,2025-03-29,2025-04-13,N/A,No,No,N/A,In Progress,
+T0834,E009,Employee_28,Task_82,M002,Not Started,2025-10-20,2025-11-04,N/A,No,No,N/A,Not Started,
+T0835,E082,Employee_53,Task_113,M002,Not Started,2025-05-04,2025-05-19,N/A,No,No,N/A,Not Started,
+T0836,E091,Employee_82,Task_61,M001,Cancelled,2025-06-11,2025-06-23,N/A,No,No,N/A,Cancelled,
+T0837,E038,Employee_9,Task_183,M001,Cancelled,2025-06-14,2025-06-27,N/A,No,No,N/A,Cancelled,
+T0838,E001,Employee_12,Task_80,M002,Not Started,2025-10-10,2025-10-24,N/A,No,No,N/A,Not Started,
+T0839,E061,Employee_75,Task_27,M002,Cancelled,2025-02-24,2025-03-03,N/A,No,No,N/A,Cancelled,
+T0840,E016,Employee_88,Task_11,M001,Behind Track,2025-08-18,2025-08-25,2025-08-28,No,No,Dependency on other functionality,Behind Track,77.0
+T0841,E049,Employee_61,Task_172,M002,Behind Track,2025-10-26,2025-11-10,2025-11-09,No,No,N/A,Behind Track,91.0
+T0842,E016,Employee_54,Task_99,M002,Not Started,2025-12-17,2025-12-30,N/A,No,No,N/A,Not Started,
+T0843,E063,Employee_4,Task_158,M003,Not Started,2025-02-23,2025-03-10,N/A,No,No,N/A,Not Started,
+T0844,E071,Employee_89,Task_23,M002,Not Started,2025-08-24,2025-08-30,N/A,No,No,N/A,Not Started,
+T0845,E051,Employee_76,Task_90,M002,In Progress,2025-06-04,2025-06-12,N/A,No,No,N/A,In Progress,
+T0846,E074,Employee_35,Task_178,M003,Postponed,2025-01-17,2025-01-25,N/A,No,No,Client requirement changes,Postponed,
+T0847,E071,Employee_72,Task_83,M002,Behind Track,2025-06-26,2025-07-01,2025-07-02,No,No,Client requirement changes,Behind Track,73.0
+T0848,E080,Employee_54,Task_34,M001,Behind Track,2025-08-30,2025-09-13,2025-09-14,No,No,N/A,Behind Track,75.0
+T0849,E019,Employee_26,Task_122,M001,Cancelled,2025-11-08,2025-11-22,N/A,No,No,Client requirement changes,Cancelled,
+T0850,E100,Employee_4,Task_116,M003,Done,2025-01-19,2025-01-28,2025-02-02,Yes,Yes,N/A,Completed,94.0
+T0851,E021,Employee_80,Task_26,M003,Not Started,2025-05-18,2025-06-02,N/A,No,No,N/A,Not Started,
+T0852,E013,Employee_65,Task_67,M001,Cancelled,2025-03-25,2025-04-07,N/A,No,No,N/A,Cancelled,
+T0853,E061,Employee_31,Task_81,M001,Postponed,2025-04-15,2025-04-30,N/A,No,No,N/A,Postponed,
+T0854,E088,Employee_36,Task_182,M003,In Progress,2025-06-02,2025-06-08,N/A,No,No,N/A,In Progress,
+T0855,E097,Employee_70,Task_60,M003,Not Started,2025-03-05,2025-03-16,N/A,No,No,N/A,Not Started,
+T0856,E092,Employee_85,Task_127,M002,Not Started,2025-04-17,2025-04-28,N/A,No,No,N/A,Not Started,
+T0857,E065,Employee_54,Task_145,M003,In Progress,2025-02-28,2025-03-11,N/A,No,No,N/A,In Progress,
+T0858,E053,Employee_9,Task_159,M001,Cancelled,2025-05-28,2025-06-06,N/A,No,No,Client requirement changes,Cancelled,
+T0859,E093,Employee_11,Task_169,M001,Not Started,2025-10-24,2025-11-03,N/A,No,No,N/A,Not Started,
+T0860,E043,Employee_36,Task_188,M002,Postponed,2025-05-09,2025-05-15,N/A,No,No,N/A,Postponed,
+T0861,E074,Employee_90,Task_189,M003,Done,2025-02-02,2025-02-08,2025-02-10,Yes,Yes,N/A,Completed,87.0
+T0862,E097,Employee_87,Task_135,M002,Postponed,2025-01-13,2025-01-22,N/A,No,No,Client requirement changes,Postponed,
+T0863,E039,Employee_84,Task_36,M003,Done,2025-05-30,2025-06-08,2025-05-31,Yes,Yes,N/A,Completed,98.0
+T0864,E089,Employee_66,Task_110,M003,Done,2025-02-19,2025-02-24,2025-02-20,No,No,N/A,Completed,95.0
+T0865,E005,Employee_36,Task_158,M001,Postponed,2025-05-18,2025-05-29,N/A,No,No,Resource unavailability,Postponed,
+T0866,E017,Employee_88,Task_88,M003,Cancelled,2025-03-12,2025-03-26,N/A,No,No,Client requirement changes,Cancelled,
+T0867,E081,Employee_92,Task_5,M002,Behind Track,2025-01-31,2025-02-09,2025-02-15,No,No,Dependency on other functionality,Behind Track,100.0
+T0868,E060,Employee_46,Task_139,M003,Cancelled,2025-02-09,2025-02-18,N/A,No,No,Resource unavailability,Cancelled,
+T0869,E085,Employee_96,Task_83,M003,Cancelled,2025-11-19,2025-11-29,N/A,No,No,N/A,Cancelled,
+T0870,E051,Employee_53,Task_130,M002,Behind Track,2025-04-22,2025-04-28,2025-04-29,No,No,Resource unavailability,Behind Track,71.0
+T0871,E043,Employee_92,Task_81,M002,Behind Track,2025-01-06,2025-01-15,2025-01-25,No,No,N/A,Behind Track,80.0
+T0872,E069,Employee_53,Task_156,M001,Postponed,2025-08-03,2025-08-14,N/A,No,No,Client requirement changes,Postponed,
+T0873,E071,Employee_71,Task_172,M002,Postponed,2025-12-07,2025-12-16,N/A,No,No,Dependency on other functionality,Postponed,
+T0874,E071,Employee_33,Task_87,M003,Postponed,2025-05-21,2025-05-26,N/A,No,No,Dependency on other functionality,Postponed,
+T0875,E024,Employee_61,Task_1,M002,In Progress,2025-12-09,2025-12-24,N/A,No,No,N/A,In Progress,
+T0876,E006,Employee_24,Task_133,M001,Postponed,2025-03-28,2025-04-08,N/A,No,No,Resource unavailability,Postponed,
+T0877,E054,Employee_31,Task_170,M001,Behind Track,2025-01-21,2025-01-27,2025-01-31,No,No,Resource unavailability,Behind Track,86.0
+T0878,E043,Employee_38,Task_70,M002,Behind Track,2025-11-09,2025-11-18,2025-11-12,No,No,Resource unavailability,Behind Track,94.0
+T0879,E044,Employee_77,Task_130,M003,Not Started,2025-10-13,2025-10-22,N/A,No,No,N/A,Not Started,
+T0880,E075,Employee_16,Task_85,M003,Behind Track,2025-03-29,2025-04-06,2025-04-05,No,No,N/A,Behind Track,79.0
+T0881,E022,Employee_50,Task_162,M003,Postponed,2025-08-16,2025-08-28,N/A,No,No,Dependency on other functionality,Postponed,
+T0882,E043,Employee_73,Task_41,M001,Postponed,2025-04-25,2025-04-30,N/A,No,No,Client requirement changes,Postponed,
+T0883,E036,Employee_35,Task_149,M002,Behind Track,2025-04-19,2025-05-04,2025-05-02,No,No,N/A,Behind Track,70.0
+T0884,E079,Employee_49,Task_104,M002,Postponed,2025-09-04,2025-09-16,N/A,No,No,Client requirement changes,Postponed,
+T0885,E015,Employee_44,Task_53,M002,Not Started,2025-04-15,2025-04-28,N/A,No,No,N/A,Not Started,
+T0886,E083,Employee_14,Task_24,M002,Done,2025-10-16,2025-10-29,2025-10-30,No,No,N/A,Completed,71.0
+T0887,E008,Employee_69,Task_63,M001,In Progress,2025-02-14,2025-02-20,N/A,No,No,N/A,In Progress,
+T0888,E045,Employee_37,Task_75,M003,Cancelled,2025-01-13,2025-01-18,N/A,No,No,Resource unavailability,Cancelled,
+T0889,E024,Employee_75,Task_74,M002,Not Started,2025-10-05,2025-10-13,N/A,No,No,N/A,Not Started,
+T0890,E070,Employee_10,Task_79,M002,Not Started,2025-04-09,2025-04-22,N/A,No,No,N/A,Not Started,
+T0891,E019,Employee_80,Task_163,M001,Behind Track,2025-07-27,2025-08-03,2025-08-10,No,No,Client requirement changes,Behind Track,98.0
+T0892,E097,Employee_56,Task_138,M002,In Progress,2025-07-20,2025-07-27,N/A,No,No,N/A,In Progress,
+T0893,E028,Employee_86,Task_192,M003,Cancelled,2025-10-09,2025-10-22,N/A,No,No,Client requirement changes,Cancelled,
+T0894,E056,Employee_42,Task_115,M001,In Progress,2025-07-28,2025-08-08,N/A,No,No,N/A,In Progress,
+T0895,E079,Employee_48,Task_37,M003,Not Started,2025-03-10,2025-03-25,N/A,No,No,N/A,Not Started,
+T0896,E054,Employee_3,Task_136,M003,Cancelled,2025-06-19,2025-06-30,N/A,No,No,N/A,Cancelled,
+T0897,E072,Employee_48,Task_93,M001,Cancelled,2025-09-23,2025-09-28,N/A,No,No,Client requirement changes,Cancelled,
+T0898,E062,Employee_95,Task_62,M003,Cancelled,2025-04-03,2025-04-12,N/A,No,No,Dependency on other functionality,Cancelled,
+T0899,E041,Employee_81,Task_187,M001,Done,2025-12-30,2026-01-10,2026-01-01,Yes,Yes,N/A,Completed,88.0
+T0900,E056,Employee_6,Task_127,M001,Done,2025-09-26,2025-10-05,2025-09-27,Yes,Yes,N/A,Completed,90.0
+T0901,E061,Employee_7,Task_58,M002,In Progress,2025-07-12,2025-07-24,N/A,No,No,N/A,In Progress,
+T0902,E055,Employee_70,Task_156,M003,Not Started,2025-12-21,2025-12-28,N/A,No,No,N/A,Not Started,
+T0903,E069,Employee_89,Task_15,M002,Behind Track,2025-07-15,2025-07-29,2025-07-22,No,No,Client requirement changes,Behind Track,99.0
+T0904,E059,Employee_2,Task_29,M002,Postponed,2025-01-12,2025-01-18,N/A,No,No,Resource unavailability,Postponed,
+T0905,E026,Employee_22,Task_136,M001,Postponed,2025-04-11,2025-04-19,N/A,No,No,Resource unavailability,Postponed,
+T0906,E021,Employee_41,Task_8,M003,In Progress,2025-12-28,2026-01-02,N/A,No,No,N/A,In Progress,
+T0907,E021,Employee_76,Task_38,M002,Behind Track,2025-01-21,2025-02-02,2025-02-06,No,No,Client requirement changes,Behind Track,79.0
+T0908,E062,Employee_25,Task_75,M001,In Progress,2025-07-10,2025-07-15,N/A,No,No,N/A,In Progress,
+T0909,E016,Employee_6,Task_148,M002,Not Started,2025-03-21,2025-03-31,N/A,No,No,N/A,Not Started,
+T0910,E038,Employee_70,Task_78,M002,Done,2025-02-28,2025-03-10,2025-03-15,No,No,N/A,Completed,71.0
+T0911,E084,Employee_80,Task_151,M002,Cancelled,2025-09-29,2025-10-06,N/A,No,No,Client requirement changes,Cancelled,
+T0912,E044,Employee_48,Task_73,M001,Behind Track,2025-11-11,2025-11-23,2025-11-25,No,No,N/A,Behind Track,87.0
+T0913,E062,Employee_43,Task_148,M001,Postponed,2025-11-02,2025-11-11,N/A,No,No,N/A,Postponed,
+T0914,E083,Employee_21,Task_4,M002,Not Started,2025-09-30,2025-10-13,N/A,No,No,N/A,Not Started,
+T0915,E070,Employee_99,Task_39,M003,Cancelled,2025-01-05,2025-01-20,N/A,No,No,Client requirement changes,Cancelled,
+T0916,E004,Employee_38,Task_70,M002,Behind Track,2025-03-27,2025-04-02,2025-04-09,No,No,Client requirement changes,Behind Track,70.0
+T0917,E032,Employee_80,Task_80,M001,Postponed,2025-06-01,2025-06-11,N/A,No,No,Dependency on other functionality,Postponed,
+T0918,E067,Employee_56,Task_82,M002,Postponed,2025-02-05,2025-02-18,N/A,No,No,Resource unavailability,Postponed,
+T0919,E070,Employee_51,Task_172,M001,Postponed,2025-12-07,2025-12-19,N/A,No,No,Resource unavailability,Postponed,
+T0920,E098,Employee_39,Task_118,M002,Done,2025-01-23,2025-01-29,2025-02-06,Yes,Yes,N/A,Completed,75.0
+T0921,E033,Employee_13,Task_191,M001,Postponed,2025-03-23,2025-03-28,N/A,No,No,Dependency on other functionality,Postponed,
+T0922,E026,Employee_20,Task_161,M001,Behind Track,2025-11-15,2025-11-21,2025-11-19,No,No,Dependency on other functionality,Behind Track,92.0
+T0923,E029,Employee_88,Task_128,M003,Postponed,2025-01-11,2025-01-21,N/A,No,No,N/A,Postponed,
+T0924,E035,Employee_55,Task_76,M001,Behind Track,2025-10-10,2025-10-23,2025-10-15,No,No,Resource unavailability,Behind Track,85.0
+T0925,E078,Employee_28,Task_16,M002,In Progress,2025-02-27,2025-03-12,N/A,No,No,N/A,In Progress,
+T0926,E018,Employee_98,Task_181,M002,Cancelled,2025-02-04,2025-02-17,N/A,No,No,Resource unavailability,Cancelled,
+T0927,E031,Employee_52,Task_126,M003,Behind Track,2025-10-14,2025-10-26,2025-10-16,No,No,N/A,Behind Track,74.0
+T0928,E036,Employee_75,Task_106,M002,In Progress,2025-08-10,2025-08-22,N/A,No,No,N/A,In Progress,
+T0929,E022,Employee_21,Task_128,M003,Cancelled,2025-06-05,2025-06-18,N/A,No,No,Dependency on other functionality,Cancelled,
+T0930,E042,Employee_13,Task_183,M001,Not Started,2025-07-15,2025-07-22,N/A,No,No,N/A,Not Started,
+T0931,E041,Employee_21,Task_72,M003,Cancelled,2025-11-13,2025-11-24,N/A,No,No,Resource unavailability,Cancelled,
+T0932,E052,Employee_83,Task_136,M001,In Progress,2025-03-24,2025-04-07,N/A,No,No,N/A,In Progress,
+T0933,E006,Employee_29,Task_190,M001,Postponed,2025-06-29,2025-07-14,N/A,No,No,N/A,Postponed,
+T0934,E052,Employee_13,Task_142,M002,Cancelled,2025-08-17,2025-08-25,N/A,No,No,Dependency on other functionality,Cancelled,
+T0935,E037,Employee_7,Task_200,M002,Done,2025-07-25,2025-07-31,2025-08-07,No,No,N/A,Completed,83.0
+T0936,E066,Employee_100,Task_62,M003,In Progress,2025-07-29,2025-08-12,N/A,No,No,N/A,In Progress,
+T0937,E057,Employee_64,Task_77,M002,Cancelled,2025-04-18,2025-04-28,N/A,No,No,Client requirement changes,Cancelled,
+T0938,E081,Employee_22,Task_95,M002,In Progress,2025-02-21,2025-03-04,N/A,No,No,N/A,In Progress,
+T0939,E075,Employee_19,Task_33,M003,Postponed,2025-03-21,2025-03-27,N/A,No,No,Dependency on other functionality,Postponed,
+T0940,E067,Employee_82,Task_7,M001,Postponed,2025-04-05,2025-04-19,N/A,No,No,Dependency on other functionality,Postponed,
+T0941,E044,Employee_52,Task_60,M001,Not Started,2025-02-23,2025-03-05,N/A,No,No,N/A,Not Started,
+T0942,E002,Employee_21,Task_157,M001,Done,2025-03-31,2025-04-11,2025-04-20,No,No,N/A,Completed,100.0
+T0943,E088,Employee_93,Task_158,M002,Postponed,2025-04-02,2025-04-16,N/A,No,No,N/A,Postponed,
+T0944,E078,Employee_78,Task_10,M001,Done,2025-06-21,2025-07-01,2025-07-07,No,No,N/A,Completed,95.0
+T0945,E095,Employee_21,Task_146,M003,Postponed,2025-11-19,2025-11-27,N/A,No,No,Resource unavailability,Postponed,
+T0946,E099,Employee_76,Task_21,M001,Done,2025-06-03,2025-06-10,2025-06-23,Yes,Yes,N/A,Completed,72.0
+T0947,E040,Employee_13,Task_184,M001,Cancelled,2025-05-08,2025-05-22,N/A,No,No,Dependency on other functionality,Cancelled,
+T0948,E090,Employee_23,Task_89,M002,Cancelled,2025-04-28,2025-05-11,N/A,No,No,Dependency on other functionality,Cancelled,
+T0949,E057,Employee_95,Task_94,M001,Not Started,2025-01-03,2025-01-13,N/A,No,No,N/A,Not Started,
+T0950,E071,Employee_56,Task_60,M002,Not Started,2025-09-29,2025-10-14,N/A,No,No,N/A,Not Started,
+T0951,E016,Employee_73,Task_88,M003,Behind Track,2025-10-31,2025-11-08,2025-11-10,No,No,Client requirement changes,Behind Track,82.0
+T0952,E001,Employee_8,Task_105,M002,Cancelled,2025-06-22,2025-06-27,N/A,No,No,N/A,Cancelled,
+T0953,E038,Employee_89,Task_60,M002,Cancelled,2025-08-20,2025-08-29,N/A,No,No,N/A,Cancelled,
+T0954,E049,Employee_46,Task_181,M001,Cancelled,2025-07-10,2025-07-23,N/A,No,No,Dependency on other functionality,Cancelled,
+T0955,E003,Employee_6,Task_73,M003,Postponed,2025-08-02,2025-08-10,N/A,No,No,Client requirement changes,Postponed,
+T0956,E044,Employee_31,Task_84,M001,In Progress,2025-09-23,2025-10-03,N/A,No,No,N/A,In Progress,
+T0957,E021,Employee_94,Task_94,M002,Cancelled,2025-05-27,2025-06-07,N/A,No,No,Dependency on other functionality,Cancelled,
+T0958,E018,Employee_92,Task_88,M002,In Progress,2025-07-21,2025-07-30,N/A,No,No,N/A,In Progress,
+T0959,E057,Employee_93,Task_149,M003,In Progress,2025-04-27,2025-05-11,N/A,No,No,N/A,In Progress,
+T0960,E030,Employee_12,Task_99,M001,Cancelled,2025-11-30,2025-12-08,N/A,No,No,N/A,Cancelled,
+T0961,E016,Employee_44,Task_131,M001,Not Started,2025-11-02,2025-11-11,N/A,No,No,N/A,Not Started,
+T0962,E080,Employee_85,Task_87,M001,In Progress,2025-04-05,2025-04-14,N/A,No,No,N/A,In Progress,
+T0963,E041,Employee_100,Task_125,M002,Behind Track,2025-11-02,2025-11-09,2025-11-07,No,No,Client requirement changes,Behind Track,78.0
+T0964,E036,Employee_30,Task_178,M002,Cancelled,2025-05-15,2025-05-30,N/A,No,No,N/A,Cancelled,
+T0965,E016,Employee_78,Task_176,M002,Behind Track,2025-08-05,2025-08-15,2025-08-14,No,No,Dependency on other functionality,Behind Track,84.0
+T0966,E061,Employee_80,Task_19,M001,Not Started,2025-11-29,2025-12-07,N/A,No,No,N/A,Not Started,
+T0967,E032,Employee_64,Task_16,M003,Postponed,2025-05-20,2025-05-28,N/A,No,No,Resource unavailability,Postponed,
+T0968,E001,Employee_79,Task_137,M003,Not Started,2025-02-10,2025-02-17,N/A,No,No,N/A,Not Started,
+T0969,E024,Employee_25,Task_177,M001,In Progress,2025-07-16,2025-07-29,N/A,No,No,N/A,In Progress,
+T0970,E052,Employee_15,Task_189,M001,Done,2025-02-26,2025-03-03,2025-03-13,Yes,Yes,N/A,Completed,77.0
+T0971,E011,Employee_71,Task_110,M001,In Progress,2025-09-14,2025-09-25,N/A,No,No,N/A,In Progress,
+T0972,E045,Employee_68,Task_113,M002,Not Started,2025-10-23,2025-11-06,N/A,No,No,N/A,Not Started,
+T0973,E057,Employee_44,Task_149,M003,Not Started,2025-11-10,2025-11-20,N/A,No,No,N/A,Not Started,
+T0974,E075,Employee_92,Task_69,M002,Not Started,2025-12-27,2026-01-05,N/A,No,No,N/A,Not Started,
+T0975,E031,Employee_91,Task_105,M003,Postponed,2025-10-27,2025-11-02,N/A,No,No,Resource unavailability,Postponed,
+T0976,E004,Employee_66,Task_15,M001,In Progress,2025-08-20,2025-09-03,N/A,No,No,N/A,In Progress,
+T0977,E094,Employee_49,Task_198,M001,Behind Track,2025-08-02,2025-08-17,2025-08-04,No,No,N/A,Behind Track,92.0
+T0978,E094,Employee_50,Task_3,M003,Done,2025-09-09,2025-09-24,2025-09-21,Yes,Yes,N/A,Completed,74.0
+T0979,E082,Employee_21,Task_153,M003,Not Started,2025-05-26,2025-06-01,N/A,No,No,N/A,Not Started,
+T0980,E008,Employee_21,Task_176,M001,Not Started,2025-04-26,2025-05-02,N/A,No,No,N/A,Not Started,
+T0981,E074,Employee_78,Task_197,M003,Not Started,2025-01-14,2025-01-25,N/A,No,No,N/A,Not Started,
+T0982,E099,Employee_50,Task_85,M001,Postponed,2025-09-19,2025-09-26,N/A,No,No,Resource unavailability,Postponed,
+T0983,E088,Employee_46,Task_177,M002,Cancelled,2025-05-11,2025-05-16,N/A,No,No,Dependency on other functionality,Cancelled,
+T0984,E077,Employee_24,Task_37,M002,Not Started,2025-09-27,2025-10-02,N/A,No,No,N/A,Not Started,
+T0985,E015,Employee_38,Task_33,M003,Done,2025-05-17,2025-05-26,2025-06-06,No,No,N/A,Completed,86.0
+T0986,E097,Employee_63,Task_157,M003,Not Started,2025-11-28,2025-12-12,N/A,No,No,N/A,Not Started,
+T0987,E072,Employee_23,Task_162,M003,In Progress,2025-09-26,2025-10-04,N/A,No,No,N/A,In Progress,
+T0988,E080,Employee_34,Task_13,M001,Behind Track,2025-04-08,2025-04-17,2025-04-15,No,No,Dependency on other functionality,Behind Track,94.0
+T0989,E045,Employee_35,Task_27,M001,Postponed,2025-11-02,2025-11-12,N/A,No,No,Client requirement changes,Postponed,
+T0990,E058,Employee_50,Task_104,M003,Behind Track,2025-07-24,2025-08-04,2025-08-03,No,No,Resource unavailability,Behind Track,79.0
+T0991,E030,Employee_100,Task_78,M003,In Progress,2025-05-19,2025-05-29,N/A,No,No,N/A,In Progress,
+T0992,E022,Employee_9,Task_10,M003,In Progress,2025-05-02,2025-05-12,N/A,No,No,N/A,In Progress,
+T0993,E025,Employee_59,Task_82,M002,Behind Track,2025-01-19,2025-02-03,2025-01-24,No,No,N/A,Behind Track,73.0
+T0994,E073,Employee_50,Task_161,M002,In Progress,2025-03-19,2025-03-24,N/A,No,No,N/A,In Progress,
+T0995,E010,Employee_7,Task_48,M002,Not Started,2025-01-11,2025-01-25,N/A,No,No,N/A,Not Started,
+T0996,E067,Employee_90,Task_59,M001,Cancelled,2025-03-03,2025-03-08,N/A,No,No,Client requirement changes,Cancelled,
+T0997,E058,Employee_68,Task_185,M003,Postponed,2025-02-18,2025-03-01,N/A,No,No,Dependency on other functionality,Postponed,
+T0998,E015,Employee_8,Task_15,M002,Not Started,2025-10-09,2025-10-19,N/A,No,No,N/A,Not Started,
+T0999,E092,Employee_57,Task_108,M003,In Progress,2025-11-15,2025-11-26,N/A,No,No,N/A,In Progress,
+T1000,E075,Employee_68,Task_185,M002,Postponed,2025-05-08,2025-05-21,N/A,No,No,Client requirement changes,Postponed,
